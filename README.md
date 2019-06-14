@@ -7,7 +7,7 @@ Master Drive Link: https://drive.google.com/drive/folders/1EXsKUG2be-I5LRQ38UHpX
 
 ## CS F2
 ### Discrete Structures for CS
-  - README: https://drive.google.com/open?id=1Cgf221OITye6SIlaEpY_s6ZgP5B5Iwbj
+  - README: https://github.com/eash-98/OpenLib.cs/blob/master/DiscreteMathREADME.md
   - Drive Link: https://drive.google.com/open?id=1oLnNSfUoY36_IUSPV4pFw6Bd6QVrUnr8
 ### Logic in CS
   - README
