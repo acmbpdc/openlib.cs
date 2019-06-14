@@ -1,7 +1,7 @@
 # OpenLib.cs
 
 ##CS F2
-- Discrete Structures for CS: README. Drive Link
+- Discrete Structures for CS
 - Logic in CS
 - Object Oriented Programming
 - Digital Design
