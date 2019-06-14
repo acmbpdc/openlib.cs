@@ -7,7 +7,7 @@
 
 - **For The Open-Book Exams**, Borrow A Hard-Copy From The Library Or; Take B/W Printouts Of The E-Book PDFs In The Required Page-Number Ranges  That Are Included In The Test-2 Syllabus. This Is A Corner Case And It Is Most Likely That You Will Not Require The Textbooks In The Exam Hall. 
 
-The Average Cost Per Semester For Purchasing Hard-Copies Is Around AED 300/- With a variable degree of + or - AED 100/- Per Semester To Account For All Cases. Over Four Semester Of Core Courses, That Amount On Avg. Would Be AED 1200/- Or Around INR 23,000 /- Which Can Be Spent Elsewhere. 
+- The Average Cost Per Semester For Purchasing Hard-Copies Is Around AED 300/- With a variable degree of + or - AED 100/- Per Semester To Account For All Cases. Over Four Semester Of Core Courses, That Amount On Avg. Would Be AED 1200/- Or Around INR 23,000 /- Which Can Be Spent Elsewhere. 
 
 **While We Are Providing The Ebooks As A Free And Open Resource, We We Would Ask You Not To Indulge In Massively Distributing Or Proliferating The Link As It Could Trace Back To The Uploader For Malpractice As They Are Pirated**. 
 
