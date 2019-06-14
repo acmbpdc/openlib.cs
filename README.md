@@ -1,8 +1,7 @@
 # OpenLib.cs
 OpenLib.cs is a collective effort to make textbooks, solution manuals and other resources available for students who are currently pursuing the following courses (or their equivalents) at university. The syllabus is aligned with that of BITS Pilani and the following file lists all the subjects along with links to the resources. 
 
-The Ebook Copies Are Provided As It Is Our Belief That Source Material
-Should Be Provided Free Of Cost And In Open Collaboration. 
+~ The Ebook Copies Are Provided As It Is Our Belief That Source Material Should Be Provided Free Of Cost And In Open Collaboration. 
 
 ## CS F2
 ### Discrete Structures for CS
