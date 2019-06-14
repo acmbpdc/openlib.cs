@@ -47,7 +47,7 @@ This course has the following prerequisites :
 * [Ravindrababu Ravula](https://www.youtube.com/playlist?list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
 
 ## Competitive Programming
-This section is not part of the coursework, however those who are interested in algorithms can try out practice problems and participate in programming tournaments in the following sites.
+This section is not part of the coursework, however if you are interested in algorithms, then try out practice problems and participate in programming tournaments in the following sites.
 
 * [Hackerrank](https://www.hackerrank.com/dashboard)
 * [CodeForces](https://codeforces.com/)
