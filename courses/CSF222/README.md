@@ -8,8 +8,8 @@ Underlying mathematical rules that govern algorithm design and data structures. 
 
 This course is a prerequisite for : 
 
-*   [Theory of Computation](./CSF351)
-*   [Data Structures & Algorithms](./CSF211)
+*   [Theory of Computation](../CSF351)
+*   [Data Structures & Algorithms](../CSF211)
 
 This course has no prerequisites.
 
