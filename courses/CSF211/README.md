@@ -7,7 +7,7 @@ DSA is really the bread and butter for good programming practices. Organizing co
 ## Prerequisites
 
 This course is a prerequisite for : 
-* [Design & Analysis of Algorithms](../CS364)
+* [Design & Analysis of Algorithms](../CSF364)
 
 This course has the following prerequisites :
 * [Discrete Structures for CS](../CSF222)
