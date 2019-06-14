@@ -54,3 +54,5 @@ This section is not part of the coursework, however those who are interested in 
 * [HackerEarth](https://www.hackerearth.com/practice/)
 * [DailyCodingProblem](https://www.dailycodingproblem.com/)
 * [ProjectEuler](https://projecteuler.net/archives)
+
+## Guidelines
