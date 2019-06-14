@@ -1,5 +1,5 @@
 
-# DISCRETE MATHEMATICS : READ THIS CAREFULLY
+# DISCRETE STRUCTURES FOR COMPUTER SCIENCE
 
 This Readme Provides All Necessary Details Regd. Resources, Links And
 Textbooks For The Aforementioned Course. 
