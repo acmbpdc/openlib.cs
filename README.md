@@ -16,38 +16,45 @@ Every course's README provides different online resources. Make sure to go throu
 ### Object Oriented Programming
   - README
   - [Books](https://drive.google.com/open?id=1V8Kj_xhnC2OmEY5rWPAvVkbUaugo9Gde)
+  - Lab Programs
 ### Digital Design
   - README
   - [Books](https://drive.google.com/open?id=1P94MPtAlcFJatILmP2H_56yKGEai1nX_)
 ### Data Structures & Algorithms
   - README
   - [Books](https://drive.google.com/open?id=1U1A7NOBqfJrFRTjVD6wH1MeDJ5eP9o11)
+  - Lab Programs
 ### Database Systems
   - README
   - [Books](https://drive.google.com/open?id=1GSdaS8bUl8teuf2h7_z8_o0KjBIJM-dx)
+  - Lab Programs
 ### Microprocessors & Interfacing
   - README
   - [Books](https://drive.google.com/open?id=1pvD-XZyQvexDDWOhReNOp4-u3jV-TlbJ)
+  - Lab Programs
 
 ## CS F3
 ### Computer Architecture
   - README
-  - Drive Link
+  - [Books](https://drive.google.com/open?id=1Ohzj5WjzCaml4u1JNau7OCm6YBX91gwV)
+  - Lab Programs
 ### Operating Systems
   - README
-  - Drive Link
+  - [Books](https://drive.google.com/open?id=1YGTasJDlMA3blx8nGNUxvLQlg9dcvo4t)
 ### Theory of Computation
   - README
-  - Drive Link
+  - [Books](https://drive.google.com/open?id=1g4XEK2f_o5pEYHE8scXT1E5WAEuWrbLV)
 ### Principles of Programming Languages
   - README
-  - Drive Link
+  - [Books](https://drive.google.com/open?id=1FctuyjvdKn0jdaFdpX-155YiydynyWVR)
 ### Computer Networks
   - README
-  - Drive Link
+  - [Books](https://drive.google.com/open?id=1pLqjXFU2FkhHsaCkN_-0Vz1xtS4c9iDl)
+  - Lab Programs
 ### Compiler Construction
   - README
-  - Drive Link
+  - [Books](https://drive.google.com/open?id=1QjNdiNSvcI2YDcOd_150BzKH_uGNDfPw)
+  - Lab Programs
 ### Design & Analysis of Algorithms
   - README
-  - Drive Link
+  - [Books](https://drive.google.com/open?id=1HjhX2RjZ2tQtvcplXLAKh1xJh_FO46Pv)
