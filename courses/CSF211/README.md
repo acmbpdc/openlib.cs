@@ -7,21 +7,32 @@ DSA is really the bread and butter for good programming practices. Organizing co
 ## Prerequisites
 
 This course is a prerequisite for : 
+[Design & Analysis of Algorithms](../CS364)
 
 This course has no prerequisites.
 
 ## Online Material
 
+* [Geeks for Geeks](https://www.geeksforgeeks.org/gate-cs-notes-gq/)
+* [BaseCS: Data Structures & Algorithms Explained](https://medium.com/basecs)
+* [Brilliant.org: Algorithms Practice Questions](https://brilliant.org/computer-science/) 
+* [Brilliant.org: Algorithms Directory](https://brilliant.org/wiki/algorithm/)
+
+
 ### YouTube
 
-#### Specific Topics (if necessary)
+* [Khan Academy: Algorithms] (https://www.khanacademy.org/computing/computer-science/algorithms)
+* [CS50: Algorithms](https://www.youtube.com/watch?v=U9o49qwa6hk&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu&index=4)
+* [CrashCourse CS: Algorithms](https://www.youtube.com/watch?v=rL8X2mlNHPM)
+* [CrashCourse CS: Data Structures](https://www.youtube.com/watch?v=DuDz6B4cqVc)
+* [Computerphile: Dijkstra's Algorithm](https://www.youtube.com/watch?v=GazC3A4OQTE)
+* [Ted Ed: Sorting Algorithms](https://www.youtube.com/watch?v=WaNLJf8xzC4)
 
-*   [Title of Link](https://www.youtube.com)
+#### Full Course Playlists
 
-#### Full Course Playlists (if necessary)
+* [Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+* [Geeks For Geeks DSA](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/playlists)
+* [Lalitha Natraj](https://www.youtube.com/channel/UCNsGQ_oLlH89HoKd5uyoAEQ/playlists) 
+* [Ravindrababu Ravula](https://www.youtube.com/playlist?list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
 
-Add links here
 
-## Coursera (if necessary)
-
-Add links here
