@@ -15,6 +15,7 @@ The following are prerequisites for this course:
 ### Websites/Blogs
 * [Index of TOC](http://www.krchowdhary.com/toc/)
 * [Scott Aaronson](https://www.scottaaronson.com/blog/)
+* [Practice Questions](https://web.njit.edu/~marvin/cs341/oldexams/)
 
 ### Youtube
 #### Specific Topics
