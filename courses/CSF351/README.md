@@ -12,6 +12,7 @@ The following are prerequisites for this course:
 * [Logic in CS](../CSF214)
 
 ## Online Material
+### Websites/Blogs
 * [Index of TOC](http://www.krchowdhary.com/toc/)
 * [Scott Aaronson](https://www.scottaaronson.com/blog/)
 
