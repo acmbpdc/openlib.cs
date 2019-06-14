@@ -2,26 +2,14 @@
 
 ## Overview
 
-Short and sweet course description
+In this course you will study the design of the 8086 Intel Microprocessor, and by extension the x86 family and assembly language. 
 
 ## Prerequisites
 
 This course is a prerequisite for : 
+* [Compiler Construction](../CSF363)
 
-This course has no prerequisites.
+This course has the following prerequisites:
+* [Digital Design](../CSF215)
 
-## Online Material
-
-### YouTube
-
-#### Specific Topics (if necessary)
-
-*   [Title of Link](https://www.youtube.com)
-
-#### Full Course Playlists (if necessary)
-
-Add links here
-
-## Coursera (if necessary)
-
-Add links here
+## Guidance
