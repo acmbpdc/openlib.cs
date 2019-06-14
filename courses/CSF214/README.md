@@ -9,7 +9,7 @@ LCS is a relatively easy course where you'll learn about propositional, predicat
 This course has no prerequisites.
 
 ## Online Material
-* [Propositional Logic](https://www.youtube.com/watch?v=p2b2Vb-cYCs&list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3) 
+* [Propositional Logic](https://www.youtube.com/watch?v=IZpvlR5J7FQ&list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3&index=2) 
 * [Predicate Logic](https://www.youtube.com/watch?v=gyoqX0W-NH4&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz&index=23)
 
 ## Guidelines
