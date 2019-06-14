@@ -8,25 +8,25 @@ Master Drive Link: https://drive.google.com/drive/folders/1EXsKUG2be-I5LRQ38UHpX
 ## CS F2
 ### Discrete Structures for CS
   - [README](https://github.com/eash-98/OpenLib.cs/blob/master/DiscreteMathREADME.md)
-  - Drive Link: https://drive.google.com/open?id=1oLnNSfUoY36_IUSPV4pFw6Bd6QVrUnr8
+  - [Books](https://drive.google.com/open?id=1oLnNSfUoY36_IUSPV4pFw6Bd6QVrUnr8)
 ### Logic in CS
   - README
-  - Drive Link: https://drive.google.com/open?id=1gQjowwygaJ8UdRW1SPfJ4Q2wSiyNCLQt
+  - [Books](https://drive.google.com/open?id=1gQjowwygaJ8UdRW1SPfJ4Q2wSiyNCLQt)
 ### Object Oriented Programming
   - README
-  - Drive Link: https://drive.google.com/open?id=1V8Kj_xhnC2OmEY5rWPAvVkbUaugo9Gde
+  - [Books](https://drive.google.com/open?id=1V8Kj_xhnC2OmEY5rWPAvVkbUaugo9Gde)
 ### Digital Design
   - README
-  - Drive Link: https://drive.google.com/open?id=1P94MPtAlcFJatILmP2H_56yKGEai1nX_
+  - [Books](https://drive.google.com/open?id=1P94MPtAlcFJatILmP2H_56yKGEai1nX_)
 ### Data Structures & Algorithms
   - README
-  - Drive Link: https://drive.google.com/open?id=1U1A7NOBqfJrFRTjVD6wH1MeDJ5eP9o11
+  - [Books](https://drive.google.com/open?id=1U1A7NOBqfJrFRTjVD6wH1MeDJ5eP9o11)
 ### Database Systems
   - README
-  - Drive Link: https://drive.google.com/open?id=1GSdaS8bUl8teuf2h7_z8_o0KjBIJM-dx
+  - [Books](https://drive.google.com/open?id=1GSdaS8bUl8teuf2h7_z8_o0KjBIJM-dx)
 ### Microprocessors & Interfacing
   - README
-  - Drive Link: https://drive.google.com/open?id=1pvD-XZyQvexDDWOhReNOp4-u3jV-TlbJ
+  - [Books](https://drive.google.com/open?id=1pvD-XZyQvexDDWOhReNOp4-u3jV-TlbJ)
 
 ## CS F3
 ### Computer Architecture
