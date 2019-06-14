@@ -13,6 +13,10 @@ This course is a prerequisite for :
 
 This course has no prerequisites.
 
+## Textbooks
+
+*   [Discrete Mathematics for Computer Scientists and Mathematicians, J. L. Mott](https://drive.google.com/open?id=1wxJ2zh-3XQ2bqFL_cZcA_Cnxt39ulyNM)
+
 ## Online Material
 
 ### YouTube
