@@ -1,37 +1,24 @@
 
 # DISCRETE STRUCTURES FOR COMPUTER SCIENCE
 
-This Readme Provides All Necessary Details Regd. Resources, Links And
-Textbooks For The Aforementioned Course. 
+- This Readme Provides All Necessary Details Regd. Resources, Links And Textbooks For The Aforementioned Course. 
 
-You Will Find All E-Book Copies Of The Prescribed Material In The Drive 
-Link Along With Solution Manuals And Reference Material.
-We Recommend You Do Not Purchase The Hard Copies And Use The Ebooks Instead.
+- You Will Find All E-Book Copies Of The Prescribed Material In The Drive Link Along With Solution Manuals And Reference Material.
+- We Recommend You Do Not Purchase The Hard Copies And Use The Ebooks Instead.
 
-For The Open-Book Exams, Borrow A Hard-Copy From The Library Or; 
-Take B/W Printouts Of The E-Book PDFs In The Required Page-Number Ranges 
-That Are Included In The Test-2 Syllabus. 
+- For The Open-Book Exams, Borrow A Hard-Copy From The Library Or; Take B/W Printouts Of The E-Book PDFs In The Required Page-Number Ranges  That Are Included In The Test-2 Syllabus. 
 
-This Is A Corner Case And It Is Most Likely 
-That You Will Not Require The Textbooks In The Exam Hall. 
+- This Is A Corner Case And It Is Most Likely That You Will Not Require The Textbooks In The Exam Hall. 
 
-The Average Cost Per Semester For Purchasing Hard-Copies Is Around AED 300/-
-With a variable degree of + or - AED 100/- Per Semester To Account For All Cases. 
-Over Four Semester Of Core Courses, That Amount On Avg. Would Be AED 1200/-
-Or Around INR 23,000 /- Which Can Be Spent Elsewhere. 
+The Average Cost Per Semester For Purchasing Hard-Copies Is Around AED 300/- With a variable degree of + or - AED 100/- Per Semester To Account For All Cases. Over Four Semester Of Core Courses, That Amount On Avg. Would Be AED 1200/- Or Around INR 23,000 /- Which Can Be Spent Elsewhere. 
 
-While We Are Providing The Ebooks As A Free And Open Resource, We We Would
-Ask You Not To Indulge In Massively Distributing Or Proliferating The Link
-As It Could Trace Back To The Uploader For Malpractice As They Are Pirated. 
+While We Are Providing The Ebooks As A Free And Open Resource, We We Would Ask You Not To Indulge In Massively Distributing Or Proliferating The Link As It Could Trace Back To The Uploader For Malpractice As They Are Pirated. 
 
-The Ebook Copies Are Provided As It Is Our Belief That Source Material
-Should Be Provided Free Of Cost And In Open Collaboration. 
+The Ebook Copies Are Provided As It Is Our Belief That Source Material Should Be Provided Free Of Cost And In Open Collaboration. 
 
 ## ABOUT THE COURSE
 
-Underlying mathematical rules that govern algorithm design and 
-data structures. Leans in on more of a mathematics course than a CS one. 
-
+Underlying mathematical rules that govern algorithm design and data structures. Leans in on more of a mathematics course than a CS one. 
 
 ## THIS COURSE IS A PREREQUISITE FOR:
 
@@ -41,19 +28,18 @@ data structures. Leans in on more of a mathematics course than a CS one.
 *Note that all future courses will revise the essential chapters from 
 this course, so calling it a prerequisite is not entirely well defined. 
 
-
 ## ABOUT THE DRIVE RESOURCES
 
 The Textbook is 
-Discrete Math by Mott, Kandel & Baker. 
+- Discrete Math by Mott, Kandel & Baker. 
 
 We recommend 
 - Judith Gerstring's book for beginner level introductions
 - Kenneth Rosen for more examples and problems.
 
-Use the Student Manual for Rosen to see solutions to exercise problems
-The Scanned PDFs are Dr. Baskaran's Notes. 
-Lehman & Leighton's notes can be used a reference.
+- Use the Student Manual for Rosen to see solutions to exercise problems
+- The Scanned PDFs are Dr. Baskaran's Notes. 
+- Lehman & Leighton's notes can be used a reference.
 
 
 ## YOUTUBE LINKS
