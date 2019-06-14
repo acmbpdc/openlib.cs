@@ -4,7 +4,7 @@ OpenLib.cs is a collaborative effort to make textbooks, solution manuals and oth
 ~ The Ebook Copies Are Provided As It Is Our Belief That Source Material Should Be Provided Free Of Cost And In Open Collaboration. 
 
 Master Drive Link: https://drive.google.com/drive/folders/1EXsKUG2be-I5LRQ38UHpX2z3MUOf-Sz3?usp=sharing 
-Every course's README provides different online resources. Make sure to go through both the Book & README links.
+**Every course's README provides different online resources. Make sure to go through both the Books & README links.**
 
 ## CS F2
 ### Discrete Structures for CS
