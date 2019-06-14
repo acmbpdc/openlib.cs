@@ -2,7 +2,7 @@
 
 ## Overview
 
-Short and sweet course description
+DSA is really the bread and butter for good programming practices. Organizing code and data in your program using the tools you learn in this course will allow you to perform well in technical/coding interviews and make you a proficient programmer.
 
 ## Prerequisites
 
