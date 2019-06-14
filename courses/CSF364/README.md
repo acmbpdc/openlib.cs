@@ -19,6 +19,6 @@ This course has the following prerequisites.
 * [Travelling Salesman Problem](https://brilliant.org/wiki/traveling-salesperson-problem/)
 * [Ford Fulkerson Algorithm](https://brilliant.org/wiki/ford-fulkerson-algorithm/)
 
-##Guidelines
+## Guidelines
 
 
