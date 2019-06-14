@@ -1,4 +1,4 @@
-# DISCRETE STRUCTURES FOR COMPUTER SCIENCE
+# Discrete Structures for Computer Science
 
 ## Overview
 

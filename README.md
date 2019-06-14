@@ -2,7 +2,7 @@
 
 OpenLib.cs is a collaborative effort to make textbooks, solution manuals and other resources freely available for students who are currently pursuing the following courses (or their equivalents) at university. The syllabus is aligned with that of BITS Pilani. 
 
-# Course Navigation
+## Course Navigation
 
 ### 2nd Year Courses
 
@@ -23,3 +23,6 @@ OpenLib.cs is a collaborative effort to make textbooks, solution manuals and oth
 *   [Compiler Construction](./courses/CSF363)
 *   [Design & Analysis of Algorithms](./courses/CSF364)
 *   [Operating Systems](./courses/CSF372)
+
+## Guidelines
+
