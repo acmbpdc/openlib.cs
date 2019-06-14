@@ -14,6 +14,7 @@ This course has the following prerequisites :
 * [Computer Programming](../CSF111)
 
 ## Online Material
+### Websites/Blogs
 
 * [Geeks for Geeks](https://www.geeksforgeeks.org/gate-cs-notes-gq/)
 * [BaseCS: Data Structures & Algorithms Explained](https://medium.com/basecs)
