@@ -2,6 +2,8 @@
 
 CS F2
 * Discrete Structures for CS
+- README
+- Drive
 * Logic in CS
 * Object Oriented Programming
 * Digital Design
