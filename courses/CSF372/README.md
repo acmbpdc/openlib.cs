@@ -7,7 +7,7 @@ OS looks at the underlying principles that govern all operating systems, irrespe
 This course has no prerequisites.
 
 ## Online Material
-[Knowedge Gate - OS course](https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)
-[CrashCourse OS](https://www.youtube.com/watch?v=26QPDBe-NB8)
+* [Knowedge Gate - OS course](https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)
+* [CrashCourse OS](https://www.youtube.com/watch?v=26QPDBe-NB8)
 
 ## Guidance
