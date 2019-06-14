@@ -9,7 +9,9 @@ DSA is really the bread and butter for good programming practices. Organizing co
 This course is a prerequisite for : 
 * [Design & Analysis of Algorithms](../CS364)
 
-This course has no prerequisites.
+This course has the following prerequisites :
+* [Discrete Structures for CS](../CSF222)
+* [Computer Programming](../CSF111)
 
 ## Online Material
 
@@ -22,7 +24,7 @@ This course has no prerequisites.
 ### Algorithm Visualization Toolbox
 
 * [VisuAlgo](https://visualgo.net/en)
-* [USF Algorithm Visualizer](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+* [USF Algorithm Visualizer](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [15 Sorting Algorithms Visualized](https://www.youtube.com/watch?v=kPRA0W1kECg)
 * [AlgoMation](http://www.algomation.com/) 
 * [Algorithm Visualizer: With Code](https://algorithm-visualizer.org/)
