@@ -21,7 +21,7 @@ This course has no prerequisites.
 
 ### YouTube
 
-* [Khan Academy: Algorithms] (https://www.khanacademy.org/computing/computer-science/algorithms)
+* [Khan Academy: Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 * [CS50: Algorithms](https://www.youtube.com/watch?v=U9o49qwa6hk&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu&index=4)
 * [CrashCourse CS: Algorithms](https://www.youtube.com/watch?v=rL8X2mlNHPM)
 * [CrashCourse CS: Data Structures](https://www.youtube.com/watch?v=DuDz6B4cqVc)
