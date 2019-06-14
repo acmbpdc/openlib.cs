@@ -1,7 +1,7 @@
 # OpenLib.cs
 
 ## CS F2
-* **Discrete Structures for CS**
+#### Discrete Structures for CS
   - README
   - Drive Link
 * **Logic in CS**
