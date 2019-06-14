@@ -1,6 +1,6 @@
 # OpenLib.cs
 
-##CS F2
+CS F2
 - Discrete Structures for CS
 - Logic in CS
 - Object Oriented Programming
@@ -9,7 +9,7 @@
 - Database Systems
 - Microprocessors & Interfacing
 
-##CS F3
+CS F3
 - Computer Architecture
 - Operating Systems
 - Theory of Computation
