@@ -1,7 +1,7 @@
 
 # DISCRETE STRUCTURES FOR COMPUTER SCIENCE
 
-- **This Readme Provides All Necessary Details Regd. Resources, Links And Textbooks For The Aforementioned Course. 
+- **This Readme Provides All Necessary Details Regd. Resources, Links And Textbooks For The Aforementioned Course**. 
 
 - You Will Find All E-Book Copies Of The Prescribed Material In The Drive Link Along With Solution Manuals And Reference Material.
 - We Recommend You Do Not Purchase The Hard Copies And Use The Ebooks Instead.
@@ -12,9 +12,9 @@
 
 The Average Cost Per Semester For Purchasing Hard-Copies Is Around AED 300/- With a variable degree of + or - AED 100/- Per Semester To Account For All Cases. Over Four Semester Of Core Courses, That Amount On Avg. Would Be AED 1200/- Or Around INR 23,000 /- Which Can Be Spent Elsewhere. 
 
-**While We Are Providing The Ebooks As A Free And Open Resource, We We Would Ask You Not To Indulge In Massively Distributing Or Proliferating The Link As It Could Trace Back To The Uploader For Malpractice As They Are Pirated. 
+**While We Are Providing The Ebooks As A Free And Open Resource, We We Would Ask You Not To Indulge In Massively Distributing Or Proliferating The Link As It Could Trace Back To The Uploader For Malpractice As They Are Pirated**. 
 
-**_The Ebook Copies Are Provided As It Is Our Belief That Source Material Should Be Provided Free Of Cost And In Open Collaboration. 
+**_The Ebook Copies Are Provided As It Is Our Belief That Source Material Should Be Provided Free Of Cost And In Open Collaboration_**. 
 
 ## ABOUT THE COURSE
 
@@ -68,19 +68,19 @@ https://www.youtube.com/watch?v=IP7nW_hKB7I&list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-
 1. Discrete Math (Full Course: **Sets, Logic, Proofs, Probability, Graph Theory, etc**)
 https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS
 
-2. **Discrete Math 1, By TrevTutor
+2. **Discrete Math 1, By TrevTutor**
 https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz
 
-3. **Discrete Math 2, By TrevTutor
+3. **Discrete Math 2, By TrevTutor**
 https://www.youtube.com/watch?v=DBugSTeX1zw&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2
 
 
 ### Recommended online courses:
 
-1. **Introduction to Mathematical Thinking by Stanford University
+1. **Introduction to Mathematical Thinking by Stanford University**
 https://www.coursera.org/learn/mathematical-thinking
 
-2. **Discrete Mathematics Specialisation by UC San Diego.
+2. **Discrete Mathematics Specialisation by UC San Diego**
 https://www.coursera.org/specializations/discrete-mathematics
 
 *Contact the uploader if any link does not redirect correctly. It's 
