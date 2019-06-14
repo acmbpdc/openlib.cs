@@ -18,6 +18,7 @@ This course has the following prerequisites :
 
 * [Geeks for Geeks](https://www.geeksforgeeks.org/gate-cs-notes-gq/)
 * [BaseCS: Data Structures & Algorithms Explained](https://medium.com/basecs)
+* [Algorithms: Princeton](https://algs4.cs.princeton.edu/home/)
 * [Brilliant.org: Algorithms Practice Questions](https://brilliant.org/computer-science/) 
 * [Brilliant.org: Algorithms Directory](https://brilliant.org/wiki/algorithm/)
 * [ACM CP: Resources](https://www.acmbpdc.org/cp)
