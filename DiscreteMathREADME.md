@@ -1,14 +1,11 @@
 
 # DISCRETE STRUCTURES FOR COMPUTER SCIENCE
 
-- **This Readme Provides All Necessary Details Regd. Resources, Links And Textbooks For The Aforementioned Course**. 
+- **This Readme Provides All Necessary Details Regd. Resources, Links And Textbooks For The Aforementioned Course**. You Will Find All E-Book Copies Of The Prescribed Material In The Drive Link Along With Solution Manuals And Reference Material.
 
-- You Will Find All E-Book Copies Of The Prescribed Material In The Drive Link Along With Solution Manuals And Reference Material.
 - We Recommend You Do Not Purchase The Hard Copies And Use The Ebooks Instead.
 
-- **For The Open-Book Exams**, Borrow A Hard-Copy From The Library Or; Take B/W Printouts Of The E-Book PDFs In The Required Page-Number Ranges  That Are Included In The Test-2 Syllabus. 
-
-- This Is A Corner Case And It Is Most Likely That You Will Not Require The Textbooks In The Exam Hall. 
+- **For The Open-Book Exams**, Borrow A Hard-Copy From The Library Or; Take B/W Printouts Of The E-Book PDFs In The Required Page-Number Ranges  That Are Included In The Test-2 Syllabus. This Is A Corner Case And It Is Most Likely That You Will Not Require The Textbooks In The Exam Hall. 
 
 The Average Cost Per Semester For Purchasing Hard-Copies Is Around AED 300/- With a variable degree of + or - AED 100/- Per Semester To Account For All Cases. Over Four Semester Of Core Courses, That Amount On Avg. Would Be AED 1200/- Or Around INR 23,000 /- Which Can Be Spent Elsewhere. 
 
