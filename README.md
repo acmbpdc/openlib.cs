@@ -1,13 +1,13 @@
 # OpenLib.cs
 
-CS F2
-* Discrete Structures for CS
+## CS F2
+* **Discrete Structures for CS**
   - README
   - Drive Link
-* Logic in CS
+* **Logic in CS**
   - README
   - Drive Link
-* Object Oriented Programming
+* **Object Oriented Programming**
   - README
   - Drive Link
 * Digital Design
@@ -23,7 +23,7 @@ CS F2
   - README
   - Drive Link
 
-CS F3
+## CS F3
 * Computer Architecture
   - README
   - Drive Link
