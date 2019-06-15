@@ -21,3 +21,8 @@ The drive contains the textbook along with other reference books in logic. These
 ## Drive
 * [Logic in Computer Science: Textbooks, References & Manuals](https://drive.google.com/open?id=1gQjowwygaJ8UdRW1SPfJ4Q2wSiyNCLQt)
 
+This drive contains
+* Textbook: Logic in Computer Science, Modelling & Reasoning about Systems, Huth & Ryan
+* Solution Manual for Textbook
+* Reference books
+
