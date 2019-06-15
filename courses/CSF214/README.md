@@ -19,5 +19,5 @@ The textbook for LCS is quite good. Reading each chapter as they come can give y
 The drive contains the textbook along with other reference books in logic. These books will not serve much purpose in improving your grade but will cement your understanding of logic as a whole. This can be useful for problem solving and connecting the dots with future CS courses. The solution manual is also present in the drive. 
 
 ## Drive
-* [Logic in Computer Science](https://drive.google.com/open?id=1gQjowwygaJ8UdRW1SPfJ4Q2wSiyNCLQt)
+* [Logic in Computer Science: Textbooks, References & Manuals](https://drive.google.com/open?id=1gQjowwygaJ8UdRW1SPfJ4Q2wSiyNCLQt)
 
