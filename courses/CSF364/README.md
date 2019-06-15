@@ -20,5 +20,11 @@ This course has the following prerequisites.
 * [Ford Fulkerson Algorithm](https://brilliant.org/wiki/ford-fulkerson-algorithm/)
 
 ## Guidelines
+Use the textbook along with the supplementary video material. The polynomial reductions are also present in the Text. For additional information on reductions, refer to the TOC textbook. The coursera course by Tim Roughgarden is recommended. 
 
+## Drive
+* [Design & Analysis of Algorithms: Text & References](https://drive.google.com/open?id=1HjhX2RjZ2tQtvcplXLAKh1xJh_FO46Pv)
 
+This drive contains
+* Textbook: Introduction to Algorithms, CLRS.
+* Reference Books
