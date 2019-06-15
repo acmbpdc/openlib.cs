@@ -29,3 +29,12 @@ The following are prerequisites for this course:
 * [Ravindrababu Ravula](https://www.youtube.com/watch?v=eqCkkC9A0Q4&list=PLEbnTDJUr_IdM___FmDFBJBz0zCsOFxfK)
 
 ## Guidelines
+The full course playlists cover the entire course. 
+* Recommended Approach: Videos -> Optionally Read Text -> Problems
+
+## Drive
+* [Theory of Computation, References & Manuals](https://drive.google.com/open?id=1g4XEK2f_o5pEYHE8scXT1E5WAEuWrbLV)
+
+This drive contains
+* Textbook: Elements of the Theory of Computation, Harry & Christos
+* Reference books
