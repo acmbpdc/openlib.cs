@@ -14,3 +14,6 @@ This course has no prerequisites.
 * [Logic Problems](https://brilliant.org/logic/)
 
 ## Guidelines
+The textbook for LCS is quite good. Reading each chapter as they come can give you a better understanding of the topic and put you in a better place for problem-solving. Logic is usually considered a subset of Discrete Mathematics, however you will not cover logic in Discrete. This course is similar to Symbolic Logic ( a more extensive logic study ). 
+
+The drive contains the textbook along with other reference books in logic. These books will not serve much purpose in improving your grade but will cement your understanding of logic as a whole. This can be useful for problem solving and connecting the dots with future CS courses. The solution manual is also present in the drive. 
