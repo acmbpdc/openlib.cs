@@ -33,7 +33,7 @@ OpenLib.cs is a collaborative effort to make textbooks, solution manuals and oth
   * Overview: About the course.
   * Prerequisites: Courses that need to be completed before attempting the current course.
   * Online Material: Links to online resources to supplement your learning experience.
-  * Guidelines: Using the resources to maximu benefit.
+  * Guidelines: Using the resources to maximum benefit.
   * Drive: Link to the drive folder.
   
   
