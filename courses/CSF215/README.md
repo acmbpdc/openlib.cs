@@ -24,5 +24,5 @@ The course is entirely covered by the Neso playlist.
 * [Digital Design, References & Manuals](https://drive.google.com/open?id=1P94MPtAlcFJatILmP2H_56yKGEai1nX_)
 
 This drive contains
-* Textbook: Digital Deisng, Mano & Ciletti
+* Textbook: Digital Design, Mano & Ciletti
 * Solution Manual for Textbook
