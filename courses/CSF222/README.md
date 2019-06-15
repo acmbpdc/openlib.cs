@@ -43,3 +43,19 @@ This course has no prerequisites.
 *   [Introduction to Mathematical Thinking by Stanford University](https://www.coursera.org/learn/mathematical-thinking)
 *   [Discrete Mathematics Specialisation by UC San Diego](https://www.coursera.org/specializations/discrete-mathematics)
 
+## Guidelines
+Use:
+* Judith Gerstring's book for beginner level introductions
+* Kenneth Rosen for more examples and problems. (Recommended)
+* Student Manual for Rosen to see solutions to exercise problems
+* The scanned PDFs for referring to class notes. 
+* Lehman & Leighton's notes for reference.
+
+## Drive
+* [Discrete Mathematics: Textbooks, References & Manuals](https://drive.google.com/open?id=1oLnNSfUoY36_IUSPV4pFw6Bd6QVrUnr8)
+
+This drive contains
+* Textbook: Discrete Mathematics for Computer Scientists and Mathematicians, J. L. Mott
+* Reference Book: Kenneth Rosen + Solution Manual
+* Scanned notes
+* Other Reference Material
