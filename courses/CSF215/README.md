@@ -16,4 +16,13 @@ This course does not require any prerequisites.
 * [Knowledge Gate](https://www.youtube.com/playlist?list=PLmXKhU9FNesSfX1PVt4VGm-wbIKfemUWK)
 
 ## Guidelines
+The course is entirely covered by the Neso playlist. 
 
+* Recommended approach: Videos -> Problems
+
+## Drive
+* [Digital Design, References & Manuals](https://drive.google.com/open?id=1P94MPtAlcFJatILmP2H_56yKGEai1nX_)
+
+This drive contains
+* Textbook: Digital Deisng, Mano & Ciletti
+* Solution Manual for Textbook
