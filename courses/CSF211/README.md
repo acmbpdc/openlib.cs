@@ -57,3 +57,14 @@ This section is not part of the coursework, however if you are interested in alg
 * [ProjectEuler](https://projecteuler.net/archives)
 
 ## Guidelines
+Getting a good grip on DSA requires you to use the information in class and implement it through a programming language. Understanding each data structure/algo and coding it to fruition will require time and effort, but with good payoff. Most videos mentioned above can breeze you through the theoretical exams. When you learn a new algo/DS, try it out on the visualizers. Writing programs will require debugging effort from your side. I would recommend C++/Python over C because when you encounter complex data structures, it's hard to keep a track of all the information your program is manipulating using the functionalities C provides, which means more debugging. This does not mean C is not suited for the job; in fact if you write the program in C, you will have a better understanding of the implementation due to minimal abstraction. However, you will have to put in more time with C than you will with its counterparts. 
+
+* Recommended approach: Videos -> GeeksForGeeks -> Texts/Reference -> Lab Programs
+
+## Drive
+* [Data Structures & Algorithms: Textbooks, References & Manuals](https://drive.google.com/open?id=1U1A7NOBqfJrFRTjVD6wH1MeDJ5eP9o11)
+
+This drive contains
+* Textbook: Algorithm Design & Applications, Goodrich & Tamassia
+* Competitive Programming Handbook by Antti Laaksonen
+* Reference books: CLRS, DSA in C++, Java and Python. 
