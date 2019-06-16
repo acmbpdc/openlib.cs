@@ -19,4 +19,8 @@ This course has the following prerequisites:
 * [Left Recursion & Left Factoring I](https://www.youtube.com/watch?v=rDBafyxYCW8&list=PLmXKhU9FNesSmu-_DKC7APRoFkaQvGurx&index=9)
 * [Left Recursion & Left Factoring II](https://www.youtube.com/watch?v=3_VCoBfrt9c&list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS&index=4)
 
-## Guidance
+## Drive
+* [Principles of Prog. Lang: Textbooks, References & Manuals](https://drive.google.com/open?id=1oLnNSfUoY36_IUSPV4pFw6Bd6QVrUnr8)
+
+This drive contains
+* Reference Books
