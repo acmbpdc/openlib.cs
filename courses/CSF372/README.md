@@ -8,6 +8,7 @@ This course has no prerequisites.
 
 ## Online Material
 * [Knowedge Gate - OS course](https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)
+* [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
 * [CrashCourse OS](https://www.youtube.com/watch?v=26QPDBe-NB8)
 
 ## Drive
