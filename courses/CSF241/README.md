@@ -15,6 +15,7 @@ This course has the following prerequisites:
 ## Online Material
 
 * [x86 Assembly Programming Tutorial](https://www.youtube.com/watch?v=zEuvNYe7WG0)
+* [x86 Assembly](https://www.youtube.com/watch?v=vWlAg-pwMsM&list=PLan2CeTAw3pFOq5qc9urw8w7R-kvAT8Yb)
 
 ## Drive
 *  [Microprocessors & Interfacing: Textbook & References](https://drive.google.com/open?id=1pvD-XZyQvexDDWOhReNOp4-u3jV-TlbJ)
