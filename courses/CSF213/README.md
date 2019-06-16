@@ -25,3 +25,10 @@ Add links here
 ## Coursera (if necessary)
 
 Add links here
+
+## Drive
+*  [OOPs: Textbooks, References & Manuals](https://drive.google.com/open?id=1V8Kj_xhnC2OmEY5rWPAvVkbUaugo9Gde)
+
+This drive contains
+*  Textbook: Object Oriented Design & Patters, Horstmann
+*  Reference Material
