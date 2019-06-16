@@ -13,3 +13,11 @@ This course has the following prerequisites:
 * [Compiler Blog](https://vipinnpillai.blogspot.com/2011/11/quadruple-c-code_20.html)
 
 ## Guidelines
+Ravindrababu's videos are a go-to for this course. 
+
+## Drive
+* [Compiler Construction: Textbooks, References & Manuals](https://drive.google.com/open?id=1QjNdiNSvcI2YDcOd_150BzKH_uGNDfPw)
+
+This drive contains
+* Textbook: Compilers, Sethi Aho Ullman
+* Typed Introductory and Lab notes. 
