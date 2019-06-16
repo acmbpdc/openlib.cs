@@ -28,4 +28,5 @@ Use the textbook along with the supplementary video material. The polynomial red
 
 This drive contains
 * Textbook: Introduction to Algorithms, CLRS.
+* Instructor's manual for the text
 * Reference Books
