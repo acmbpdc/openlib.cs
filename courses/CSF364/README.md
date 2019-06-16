@@ -11,6 +11,7 @@ This course has the following prerequisites.
 ## Online Courses
 * [Algorithms Specialization, Stanford University](https://www.coursera.org/specializations/algorithms)
 * [Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+* [MIT 6.046J Design and Analysis of Algorithms, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
 
 ## Websites/Blogs
 * [TOC Directory](http://www.krchowdhary.com/toc/)
