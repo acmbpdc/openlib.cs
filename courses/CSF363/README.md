@@ -20,4 +20,4 @@ Ravindrababu's videos are a go-to for this course.
 
 This drive contains
 * Textbook: Compilers, Sethi Aho Ullman
-* Typed Introductory and Lab notes. 
+* Reference Materials
