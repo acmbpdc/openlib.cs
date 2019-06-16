@@ -25,3 +25,12 @@ Add links here
 ## Coursera (if necessary)
 
 Add links here
+
+## Drive 
+*  [Computer Architecture: Textbooks, References & Manuals](https://drive.google.com/open?id=1Ohzj5WjzCaml4u1JNau7OCm6YBX91gwV)
+
+This drive contains
+*  Textbook: Computer Architecture & Organization, Patterson & Hennesey
+*  Solution Manual for Text
+*  Reference Material
+*  Lab Material
