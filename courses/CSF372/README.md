@@ -11,7 +11,7 @@ This course has no prerequisites.
 * [CrashCourse OS](https://www.youtube.com/watch?v=26QPDBe-NB8)
 
 ## Guidelines
-The textbook is golden. For the problems, practice exercise questions and tutorials. 
+The textbook is golden.
 
 ## Drive
 
