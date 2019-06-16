@@ -12,4 +12,9 @@ This course is a prerequisite for :
 This course has the following prerequisites:
 * [Digital Design](../CSF215)
 
-## Guidance
+## Drive
+*  [Microprocessors & Interfacing: Textbook & References](https://drive.google.com/open?id=1pvD-XZyQvexDDWOhReNOp4-u3jV-TlbJ)
+
+This drive contains:
+* Textbook 
+* Reference Material
