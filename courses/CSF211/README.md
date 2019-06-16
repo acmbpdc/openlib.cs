@@ -46,15 +46,21 @@ This course has the following prerequisites :
 * [Geeks For Geeks DSA](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/playlists)
 * [Lalitha Natraj](https://www.youtube.com/channel/UCNsGQ_oLlH89HoKd5uyoAEQ/playlists) 
 * [Ravindrababu Ravula](https://www.youtube.com/playlist?list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
+* [MIT 6.006 Introduction to Algorithms, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 
 ## Competitive Programming
 This section is not part of the coursework, however if you are interested in algorithms, then try out practice problems and participate in programming tournaments in the following sites.
 
 * [Hackerrank](https://www.hackerrank.com/dashboard)
 * [CodeForces](https://codeforces.com/)
+* [CodeChef](https://www.codechef.com/)
 * [HackerEarth](https://www.hackerearth.com/practice/)
-* [DailyCodingProblem](https://www.dailycodingproblem.com/)
+* [LeetCode](https://leetcode.com/)
+* [topcoder](https://www.topcoder.com/)
+* [Daily Coding Problem](https://www.dailycodingproblem.com/)
 * [ProjectEuler](https://projecteuler.net/archives)
+* [Sphere Online Judge](https://www.spoj.com/)
+* [A² Online Judge](https://a2oj.com/)
 
 ## Guidelines
 Getting a good grip on DSA requires you to use the information in class and implement it through a programming language. Understanding each data structure/algo and coding it to fruition will require time and effort, but with good payoff. Most videos mentioned above can breeze you through the theoretical exams. When you learn a new algo/DS, try it out on the visualizers. Writing programs will require debugging effort from your side. I would recommend C++/Python over C because when you encounter complex data structures, it's hard to keep a track of all the information your program is manipulating using the functionalities C provides, which means more debugging. This does not mean C is not suited for the job; in fact if you write the program in C, you will have a better understanding of the implementation due to minimal abstraction. However, you will have to put in more time with C than you will with its counterparts. 

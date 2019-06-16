@@ -20,3 +20,5 @@ This course has no prerequisites.
 * [Microsoft Course](https://www.youtube.com/watch?v=svkGASq8mNM&t=9772s)
 * [Ravindrababu Ravula](https://www.youtube.com/watch?v=UXMIxCYZu8o&list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)
 * [NetworKING CCNA Course](https://www.youtube.com/watch?v=n2D1o-aM-2s&list=PLh94XVT4dq02frQRRZBHzvj2hwuhzSByN)
+* [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
+* [PowerCert Animated Videos](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg)
