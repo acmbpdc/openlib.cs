@@ -22,3 +22,16 @@ This course has no prerequisites.
 * [NetworKING CCNA Course](https://www.youtube.com/watch?v=n2D1o-aM-2s&list=PLh94XVT4dq02frQRRZBHzvj2hwuhzSByN)
 * [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
 * [PowerCert Animated Videos](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg)
+
+## Guidance
+The textbook is certainly worth a read. Solutions to numericals can be found in the manuals in the drive. Google's networks course is a recommended supplement for beginners. PowerCert covers speicifc topics that you can search for. The reference book can be read for anyone loking at a deeper insight into design techniques. Wireshark can be entirely completed using the lab resources provided in the drive. 
+
+## Drive
+* [Computer Networks: Textbooks, References & Manuals](https://drive.google.com/open?id=1pLqjXFU2FkhHsaCkN_-0Vz1xtS4c9iDl)
+
+This drive contains
+* Textbook: Computer Networks: A Top Down Approach, Kurose & Ross.
+* Solution Manual for Textbook.
+* Reference Books: Tannenbaum, Computer Networks: A Systems Approach, DCN by Forouzan, TCP/Ip by Forouzan.
+* Solution Manuals for Reference books. 
+* Lab Resources
