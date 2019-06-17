@@ -50,5 +50,10 @@ OpenLib.cs is a collaborative effort to make textbooks, solution manuals and oth
 ## General Links
 * [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+*  [r/AskComputerScience](https://www.reddit.com/r/AskComputerScience/)
+*  [r/compsci](https://www.reddit.com/r/compsci/)
+*  [r/Programming](https://www.reddit.com/r/programming/)
+*  [GeeksForGeeks](https://www.geeksforgeeks.org/c-programming-language/)
+*  [Code.org](https://www.youtube.com/channel/UCJyEBMU1xVP2be1-AoGS1BA)
   
   
