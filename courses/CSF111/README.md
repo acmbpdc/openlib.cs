@@ -9,9 +9,9 @@ This course has no prerequisites.
 *   [C Programming & Data Structures, Neso](https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)
 *   [Harvard's CS50: Introduction to Computer Science](https://www.youtube.com/watch?v=wEdvGqxafq8) 
 *   [C Programming Tutorial](https://www.youtube.com/watch?v=-CpG3oATGIs&t=1609s)
-*   [List of Unix Commands](https://drive.google.com/open?id=1mn0AFgMwB7imCQtKmvIidyh9myzIxc_D)
 
 ### Specific Topics
+*   [List of Unix Commands](https://drive.google.com/open?id=1mn0AFgMwB7imCQtKmvIidyh9myzIxc_D)
 *   [What is Computer Science?](https://www.youtube.com/playlist?list=PLbg3ZX2pWlgI_ej6ZhGd45-cPoWLZD9pT)
 *   [How Computers Work: Khan Academy](https://www.khanacademy.org/computing/computer-science/how-computers-work2)
 *   [Introduction to Algorithms: Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
