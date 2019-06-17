@@ -4,6 +4,10 @@ OpenLib.cs is a collaborative effort to make textbooks, solution manuals and oth
 
 ## Course Navigation
 
+### 1st Year Courses
+
+*   [Computer Programming](./course/CSF111)
+
 ### 2nd Year Courses
 
 *   [Data Structures & Algorithms](./courses/CSF211)
