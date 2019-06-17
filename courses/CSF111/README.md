@@ -9,6 +9,7 @@ This course has no prerequisites.
 *   [C Programming & Data Structures, Neso](https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)
 *   [Harvard's CS50: Introduction to Computer Science](https://www.youtube.com/watch?v=wEdvGqxafq8) 
 *   [C Programming Tutorial](https://www.youtube.com/watch?v=-CpG3oATGIs&t=1609s)
+*   [List of Unix Commands](https://drive.google.com/open?id=1mn0AFgMwB7imCQtKmvIidyh9myzIxc_D)
 
 ### Specific Topics
 *   [What is Computer Science?](https://www.youtube.com/playlist?list=PLbg3ZX2pWlgI_ej6ZhGd45-cPoWLZD9pT)
@@ -21,6 +22,7 @@ This course has no prerequisites.
 *  [r/compsci](https://www.reddit.com/r/compsci/)
 *  [r/Programming](https://www.reddit.com/r/programming/)
 *  [GeeksForGeeks](https://www.geeksforgeeks.org/c-programming-language/)
+*  [Code.org](https://www.youtube.com/channel/UCJyEBMU1xVP2be1-AoGS1BA)
 
 ## Practice Coding
 *  [Hackerrank: Problem Solving](https://www.hackerrank.com/domains/algorithms)
@@ -37,6 +39,9 @@ If you're an absolute beginner in programming and enjoy fun ways to learn new to
     - [Android](https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms)
     - [iOS](https://apps.apple.com/in/app/algorithms-explained-animated/id1047532631)
 * [SoloLearn: Learn Any Programming Language](https://www.sololearn.com/)  
+
+## Lab Programs
+* [My Repository](https://github.com/eash-98/CPrograms)
 
 ## Drive
 *  [Computer Programming: Textbooks, References & Manuals](https://drive.google.com/open?id=1-iRGYbZGxTI7n-SJA5c-mQwAoIDua25V)
