@@ -43,6 +43,7 @@ This course has the following prerequisites :
 ### Full Course Playlists
 
 * [Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+* [Programming Data Structures](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 * [Geeks For Geeks DSA](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/playlists)
 * [Lalitha Natraj](https://www.youtube.com/channel/UCNsGQ_oLlH89HoKd5uyoAEQ/playlists) 
 * [Ravindrababu Ravula](https://www.youtube.com/playlist?list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
