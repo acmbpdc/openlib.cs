@@ -26,3 +26,9 @@ The course is entirely covered by the Neso playlist.
 This drive contains
 * Textbook: Digital Design, Mano & Ciletti
 * Solution Manual for Textbook
+
+## Recreational Links
+* [Ben Eater: From Circuits to Assembly](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA)
+* [Using Dominos to Create Basic Computers](https://www.youtube.com/watch?v=lNuPy-r1GuQ)
+* [Circuit Scramble: A Logic Circuit Game](https://play.google.com/store/apps/details?id=com.Suborbital.CircuitScramble)
+* [Instructables: Circuits](https://www.instructables.com/circuits/)
