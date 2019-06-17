@@ -37,7 +37,7 @@ OpenLib.cs is a collaborative effort to make textbooks, solution manuals and oth
 
 ## Guidelines
 * You will find all e-book copies of the prescribed material in the drive link along with solution manuals and reference material. We recommend you do not purchase the hard copies and use the ebooks instead.
-* **For the open-book exams**, borrow a hard-copy from the library or; take b/w printouts of the e-book pdfs in the required page-number ranges that are included in the test-2 syllabus. This is a corner case and it is most likely that you will not require the textbooks in the exam hall. 
+* **For the open-book exams**, borrow a hard-copy from the library or; take b/w printouts of the e-book pdfs in the required page-number ranges that are included in the test syllabus. This is a corner case and it is most likely that you will not require the textbooks in the exam hall. 
 
 ## Using the Repository
 * All subject folders have the following formats:
