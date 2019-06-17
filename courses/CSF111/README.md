@@ -28,13 +28,13 @@ This course has no prerequisites.
 ## For The Noobs
 If you're an absolute beginner in programming and enjoy fun ways to learn new topics, try:
 * Coding Planet
- - [Android](https://play.google.com/store/apps/details?id=com.material.design.codingplanet) 
+    - [Android](https://play.google.com/store/apps/details?id=com.material.design.codingplanet) 
 * Mimo: Learn To Code
- - [iOS](https://apps.apple.com/in/app/mimo-learn-to-code/id1133960732)
- - [Android](https://play.google.com/store/apps/details?id=com.getmimo)
+    - [iOS](https://apps.apple.com/in/app/mimo-learn-to-code/id1133960732)
+    - [Android](https://play.google.com/store/apps/details?id=com.getmimo)
 * Algorithms: Explained and Animated
- - [Android](https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms)
- - [iOS](https://apps.apple.com/in/app/algorithms-explained-animated/id1047532631)
+    - [Android](https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms)
+    - [iOS](https://apps.apple.com/in/app/algorithms-explained-animated/id1047532631)
 * [SoloLearn: Learn Any Programming Language](https://www.sololearn.com/)  
 
 ## Drive
