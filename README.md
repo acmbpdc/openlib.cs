@@ -43,4 +43,8 @@ OpenLib.cs is a collaborative effort to make textbooks, solution manuals and oth
   * Guidelines: Using the resources to maximum benefit.
   * Drive: Link to the drive folder.
   
+## General Links
+* [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+* [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+  
   
