@@ -9,6 +9,7 @@ This course has no prerequisites.
 *   [C Programming & Data Structures, Neso](https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)
 *   [Harvard's CS50: Introduction to Computer Science](https://www.youtube.com/watch?v=wEdvGqxafq8) 
 *   [C Programming Tutorial](https://www.youtube.com/watch?v=-CpG3oATGIs&t=1609s)
+*   [Programming Foundations](https://www.youtube.com/user/mycodeschool/playlists)
 
 ### Specific Topics
 *   [List of Unix Commands](https://drive.google.com/open?id=1mn0AFgMwB7imCQtKmvIidyh9myzIxc_D)
@@ -16,6 +17,7 @@ This course has no prerequisites.
 *   [How Computers Work: Khan Academy](https://www.khanacademy.org/computing/computer-science/how-computers-work2)
 *   [Introduction to Algorithms: Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 *   [Floating Point Motivation: Computerphile](https://www.youtube.com/watch?v=PZRI1IfStY0&list=PLzH6n4zXuckqmf_xUcvU5caZVoctP2ehL&index=8)
+*   [What do programmers actually do?](https://www.youtube.com/watch?v=g4a7_HH9Wbg)
 
 ## Communities
 *  [r/AskComputerScience](https://www.reddit.com/r/AskComputerScience/)
