@@ -23,6 +23,10 @@ This course has no prerequisites.
 * [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
 * [PowerCert Animated Videos](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg)
 
+### Websites
+* [Online Lecture Notes](https://www.cse.iitk.ac.in/users/dheeraj/cs425//)
+* [Create a Subnet: Cybrary](https://www.cybrary.it/skill-certification-course/subnetting-certification-training-course/)
+
 ## Guidelines
 The textbook is certainly worth a read. Solutions to numericals can be found in the manuals in the drive. Google's networks course is a recommended supplement for beginners. PowerCert covers speicifc topics that you can search for. The reference book can be read for anyone looking at a deeper insight into design techniques. Wireshark can be entirely completed using the lab resources provided in the drive. 
 
