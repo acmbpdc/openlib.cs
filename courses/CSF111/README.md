@@ -19,6 +19,7 @@ This course has no prerequisites.
 ## Communities
 *  [r/AskComputerScience](https://www.reddit.com/r/AskComputerScience/)
 *  [r/compsci](https://www.reddit.com/r/compsci/)
+*  [r/Programming](https://www.reddit.com/r/programming/)
 *  [GeeksForGeeks](https://www.geeksforgeeks.org/c-programming-language/)
 
 ## Practice Coding
