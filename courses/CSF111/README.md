@@ -1,7 +1,6 @@
 # Computer Programming
 
 ## Overview
-
 C is a general-purpose language developed between 1972 and 1973. Learning C will teach you the underlying the fundamentals of computer architecture, pointers, compilers, operating systems and much more! If you learn an advanced programming language (such as Python), these details are not known to you, however, learning these techniques is crucial as you get a deeper understanding.
 
 C is extremely fast and almost all other modern programming languages and libraries are built by C/C++, popular ones:

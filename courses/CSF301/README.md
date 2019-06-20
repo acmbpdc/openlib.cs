@@ -16,6 +16,17 @@ This course has the following prerequisites:
 * [LISP Tutorial](https://www.youtube.com/watch?v=ymSq4wHrqyU)
 * [Prolog Tutorial](https://www.youtube.com/watch?v=SykxWpFwMGs)
 * [C++ Tutorial](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+
+### Specific Topics
+
+* Postfix & prefix:
+	* [Infix to postfix](https://www.youtube.com/watch?v=vXPL6UavUeA)
+	* [Infix to prefix](https://www.youtube.com/watch?v=UK16ttNfGSk&t=74s)
+	* [Evaluate prefix expression](https://www.youtube.com/watch?v=op_NxwPY61I)
+	* [Evaluate postfix expression](https://www.youtube.com/watch?v=84BsI5VJPq4)
+* [Leftmost & rightmost derivation](https://www.youtube.com/watch?v=u4-rpIlV9NI)
+* [Ambiguous grammar](https://www.youtube.com/watch?v=wQjppolFdas)
+* [Abstract syntax tree (AST)](https://www.youtube.com/watch?v=kUKfvHkzpYE)
 * [Left Recursion & Left Factoring I](https://www.youtube.com/watch?v=rDBafyxYCW8&list=PLmXKhU9FNesSmu-_DKC7APRoFkaQvGurx&index=9)
 * [Left Recursion & Left Factoring II](https://www.youtube.com/watch?v=3_VCoBfrt9c&list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS&index=4)
 

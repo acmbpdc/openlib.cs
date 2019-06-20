@@ -20,6 +20,13 @@ This course has the following prerequisites.
 * [Travelling Salesman Problem](https://brilliant.org/wiki/traveling-salesperson-problem/)
 * [Ford Fulkerson Algorithm](https://brilliant.org/wiki/ford-fulkerson-algorithm/)
 
+### Specific Topics
+* [Quick Sort](https://www.youtube.com/watch?v=Hoixgm4-P4M&feature=youtu.be)
+* [Bin Packing](https://www.youtube.com/watch?v=4SEtBCsYpKY&t=355s)
+* [Four Color Theorem](https://www.youtube.com/watch?v=42-ws3bkrKM&feature=youtu.be)
+* [Approximation Algorithms](https://www.youtube.com/watch?v=hdch8ioLRqE&feature=youtu.be)
+* [Network Flow: UC Davis](https://www.youtube.com/watch?v=_G6_-ljgmXE&feature=youtu.be)
+
 ## Guidelines
 Use the textbook along with the supplementary video material. The polynomial reductions are also present in the Text. For additional information on reductions, refer to the TOC textbook. The coursera course by Tim Roughgarden is recommended. 
 
