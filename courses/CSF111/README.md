@@ -1,5 +1,16 @@
 # Computer Programming
 
+## Overview
+
+C is a general-purpose language developed between 1972 and 1973. Learning C will teach you the underlying the fundamentals of computer architecture, pointers, compilers, operating systems and much more! If you learn an advanced programming language (such as Python), these details are not known to you, however, learning these techniques is crucial as you get a deeper understanding.
+
+C is extremely fast and almost all other modern programming languages and libraries are built by C/C++, popular ones:
+*	Java: The core Java Virtual Machine(JVM) [hotspot](https://github.com/dmlloyd/openjdk/tree/jdk/jdk10/src/hotspot) is implemented in C++.
+*	Python: The [interpreter](https://github.com/python/cpython) is implemented in C.
+*	Javascript: Popular [V8](https://github.com/v8/v8/tree/master/src) engine is implemented in C++.
+
+Since C can be a bit difficult, we hope the resources below aid you in your journey of learning!
+
 ## Prerequisites
 This course has no prerequisites.
 
@@ -13,6 +24,7 @@ This course has no prerequisites.
 
 ### Specific Topics
 *   [List of Unix Commands](https://drive.google.com/open?id=1mn0AFgMwB7imCQtKmvIidyh9myzIxc_D)
+*	[Unix Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
 *   [What is Computer Science?](https://www.youtube.com/playlist?list=PLbg3ZX2pWlgI_ej6ZhGd45-cPoWLZD9pT)
 *   [How Computers Work: Khan Academy](https://www.khanacademy.org/computing/computer-science/how-computers-work2)
 *   [Introduction to Algorithms: Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
@@ -27,7 +39,7 @@ This course has no prerequisites.
 *  [Code.org](https://www.youtube.com/channel/UCJyEBMU1xVP2be1-AoGS1BA)
 
 ## Practice Coding
-*  [Hackerrank: Problem Solving](https://www.hackerrank.com/domains/algorithms)
+*  [HackerRank: Problem Solving](https://www.hackerrank.com/domains/algorithms)
 *  [Project Euler](https://projecteuler.net/archives)
 
 ## For The Noobs
