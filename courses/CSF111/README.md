@@ -1,65 +1,69 @@
 # Computer Programming
 
-## Overview
-C is a general-purpose language developed between 1972 and 1973. Learning C will teach you the underlying the fundamentals of computer architecture, pointers, compilers, operating systems and much more! If you learn an advanced programming language (such as Python), these details are not known to you, however, learning these techniques is crucial as you get a deeper understanding.
+This is an introductory course to a holistic approach to computer science. Fundamental programming concepts including but not limited to `arrays`, `pointers`, `structs` etc. will be discovered through the [C programming language](https://en.wikipedia.org/wiki/C_(programming_language)). The course requires that students use a *command line environment* when programming. Hence, having an understanding about concepts such as [`Linux`](https://en.wikipedia.org/wiki/Linux), [`telnet`](https://en.wikipedia.org/wiki/Telnet), [`vi editor`](https://en.wikipedia.org/wiki/Vi) etc. will prove to be essential.
 
-C is extremely fast and almost all other modern programming languages and libraries are built by C/C++, popular ones:
-*	Java: The core Java Virtual Machine(JVM) [hotspot](https://github.com/dmlloyd/openjdk/tree/jdk/jdk10/src/hotspot) is implemented in C++.
-*	Python: The [interpreter](https://github.com/python/cpython) is implemented in C.
-*	Javascript: Popular [V8](https://github.com/v8/v8/tree/master/src) engine is implemented in C++.
+## Navigation
 
-Since C can be a bit difficult, we hope the resources below aid you in your journey of learning!
+*   [Prerequisites](#prerequisites)
+*   [Textbooks](#textbooks)
+*   [Lab Programs](#lab-programs)
+*   [Videos](#videos)
+*   [Websites](#websites)
+*   [Articles](#articles)
+*   [Communities](#communities)
+*   [Apps](#apps)
 
 ## Prerequisites
+
 This course has no prerequisites.
 
-## Online Material
+## Textbooks
 
-### Full Course Playlists
-*   [C Programming & Data Structures, Neso](https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)
-*   [Harvard's CS50: Introduction to Computer Science](https://www.youtube.com/watch?v=wEdvGqxafq8) 
-*   [C Programming Tutorial](https://www.youtube.com/watch?v=-CpG3oATGIs&t=1609s)
-*   [Programming Foundations](https://www.youtube.com/user/mycodeschool/playlists)
-
-### Specific Topics
-*   [List of Unix Commands](https://drive.google.com/open?id=1mn0AFgMwB7imCQtKmvIidyh9myzIxc_D)
-*	[Unix Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
-*   [What is Computer Science?](https://www.youtube.com/playlist?list=PLbg3ZX2pWlgI_ej6ZhGd45-cPoWLZD9pT)
-*   [How Computers Work: Khan Academy](https://www.khanacademy.org/computing/computer-science/how-computers-work2)
-*   [Introduction to Algorithms: Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
-*   [Floating Point Motivation: Computerphile](https://www.youtube.com/watch?v=PZRI1IfStY0&list=PLzH6n4zXuckqmf_xUcvU5caZVoctP2ehL&index=8)
-*   [What do programmers actually do?](https://www.youtube.com/watch?v=g4a7_HH9Wbg)
-
-## Communities
-*  [r/AskComputerScience](https://www.reddit.com/r/AskComputerScience/)
-*  [r/compsci](https://www.reddit.com/r/compsci/)
-*  [r/Programming](https://www.reddit.com/r/programming/)
-*  [GeeksForGeeks](https://www.geeksforgeeks.org/c-programming-language/)
-*  [Code.org](https://www.youtube.com/channel/UCJyEBMU1xVP2be1-AoGS1BA)
-
-## Practice Coding
-*  [HackerRank: Problem Solving](https://www.hackerrank.com/domains/algorithms)
-*  [Project Euler](https://projecteuler.net/archives)
-
-## For The Noobs
-If you're an absolute beginner in programming and enjoy fun ways to learn new topics, try:
-* Coding Planet
-    - [Android](https://play.google.com/store/apps/details?id=com.material.design.codingplanet) 
-* Mimo: Learn To Code
-    - [iOS](https://apps.apple.com/in/app/mimo-learn-to-code/id1133960732)
-    - [Android](https://play.google.com/store/apps/details?id=com.getmimo)
-* Algorithms: Explained and Animated
-    - [Android](https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms)
-    - [iOS](https://apps.apple.com/in/app/algorithms-explained-animated/id1047532631)
-* [SoloLearn: Learn Any Programming Language](https://www.sololearn.com/)  
+| Title | Author(s) | Edition |
+| -------------|-------------|:-----:|
+| [The C Programming Language](https://drive.google.com/open?id=1KH0i1C8IQ5uKO4zGWRz_mAh4XbQvCaiT) | Brian Kernighan & Dennis Ritchie | 2nd (1989) |
+| [The C Answer Book](https://drive.google.com/open?id=1gfgZmONMV6ZcG-lIQOe35jiMVqI-MS3p) | Clovis L. Tondo & Scott E. Gimpel | 2nd (1989) |
+| [Problem Solving and Program Design in C](https://drive.google.com/open?id=13frawLX1gT_0JnKOiEOnSeoHp-kp9-qO) | Jeri R. Hanly & Elliot B. Koffman | 8th (2016) |
+| [Let Us C](https://drive.google.com/open?id=1iaRbBFzDmjXrIHNnwdeBFqJ4kHPkn-cO)| Yashavant P. Kanetkar | 5th (2004) |
+| [C : The Complete Reference](https://drive.google.com/open?id=15mqmtbhY-Dv4mBr1nPEp9bPM3P1tDiZB)| Herbert Schildt | 4th (2000) |
 
 ## Lab Programs
-* [My Repository](https://github.com/eash-98/CPrograms)
 
-## Drive
-*  [Computer Programming: Textbooks, References & Manuals](https://drive.google.com/open?id=1-iRGYbZGxTI7n-SJA5c-mQwAoIDua25V)
+*   [eash-98/CPrograms](https://github.com/eash-98/CPrograms)
 
-This drive contains
-*  Textbook: Problem Solving & Program Design in C
-*  Let Us C: A Beginner's Guide to Programming
-*  Reference Material
+## Videos
+
+*   [C Programming & Data Structures, *Neso Academy*](https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM) *(Full Course)*
+*   [CS50: Introduction to Computer Science, *Harvard*](https://www.youtube.com/watch?v=wEdvGqxafq8) *(Full Course)*
+*   [C Programming Tutorial, *Programming Knowledge*](https://www.youtube.com/watch?v=-CpG3oATGIs&t=1609s) *(Full Course)*
+*   [Programming Foundations, *mycodeschool*](https://www.youtube.com/user/mycodeschool/playlists) *(Full Course)*
+*   [What is Computer Science?, *Art of the Problem*](https://www.youtube.com/playlist?list=PLbg3ZX2pWlgI_ej6ZhGd45-cPoWLZD9pT)
+*   [How Computers Work, *Khan Academy*](https://www.khanacademy.org/computing/computer-science/how-computers-work2)
+*   [Introduction to Algorithms, *Khan Academy*](https://www.khanacademy.org/computing/computer-science/algorithms)
+*   [Floating Point Motivation, *Computerphile*](https://www.youtube.com/watch?v=PZRI1IfStY0&list=PLzH6n4zXuckqmf_xUcvU5caZVoctP2ehL&index=8)
+*   [What do programmers actually do?, *Physics Girl*](https://www.youtube.com/watch?v=g4a7_HH9Wbg)
+
+## Websites
+
+*   [Algorithms, *HackerRank*](https://www.hackerrank.com/domains/algorithms) *(Practice Programming)*
+*   [Project Euler](https://projecteuler.net/archives) *(Practice Programming)*
+*   [Bandit, *OverTheWire*](http://overthewire.org/wargames/bandit/) *(Practice Unix Commands)*
+
+## Articles
+
+*   [List of Unix Commands](https://drive.google.com/open?id=1mn0AFgMwB7imCQtKmvIidyh9myzIxc_D)
+*	  [Unix Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
+*   [Using vi, the Unix Visual Editor, *University of Washington*](https://staff.washington.edu/rells/R110/)
+
+## Communities
+
+*  [r/programming](https://www.reddit.com/r/programming/)
+*  [GeeksForGeeks](https://www.geeksforgeeks.org/c-programming-language/)
+
+## Apps
+
+*   [Py: Learn on the Go](https://www.getpy.com/mobile)
+*   [SoloLearn: Learn Any Programming Language](https://www.sololearn.com/)
+*   [Coding Planet](https://www.producthunt.com/posts/coding-planets)
+*   [Mimo: Learn To Code](https://getmimo.com/)
+*   [Algorithms: Explained and Animated](http://algorithm.wiki/en/app/)
