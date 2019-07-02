@@ -1,26 +1,20 @@
 # Object Oriented Programming
 
 ## Overview
-
 Short and sweet course description
 
 ## Prerequisites
-
-This course is a prerequisite for : 
-
 This course has no prerequisites.
 
 ## Online Material
 
-### YouTube
+### Full Course Playlists
+*	[ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al)
+*	[Derek Banas](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)
+*	[GeeksforGeeks](https://www.geeksforgeeks.org/java/)
 
-#### Specific Topics (if necessary)
-
-*   [Title of Link](https://www.youtube.com)
-
-#### Full Course Playlists (if necessary)
-
-Add links here
+### Specific Topics
+*   [Learn Java in one video: Derek Banas](https://www.youtube.com/watch?v=n-xAqcBCws4)
 
 ## Coursera (if necessary)
 

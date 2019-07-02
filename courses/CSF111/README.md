@@ -52,6 +52,7 @@ This course has no prerequisites.
 ## Articles
 
 *   [List of Unix Commands](https://drive.google.com/open?id=1mn0AFgMwB7imCQtKmvIidyh9myzIxc_D)
+*	  [Unix Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
 *   [Using vi, the Unix Visual Editor, *University of Washington*](https://staff.washington.edu/rells/R110/)
 
 ## Communities

@@ -68,6 +68,10 @@ Getting a good grip on DSA requires you to use the information in class and impl
 
 * Recommended approach: Videos -> GeeksForGeeks -> Texts/Reference -> Lab Programs
 
+## Implementations
+* [William Fiset: Java](https://github.com/williamfiset/Algorithms)
+* [Mohammed Shoaib: C++](https://github.com/Mohammed-Shoaib/Data-Structures-And-Algorithms)
+
 ## Drive
 * [Data Structures & Algorithms: Textbooks, References & Manuals](https://drive.google.com/open?id=1U1A7NOBqfJrFRTjVD6wH1MeDJ5eP9o11)
 

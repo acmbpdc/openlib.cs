@@ -12,15 +12,13 @@ This course has no prerequisites.
 
 ## Online Material
 
-### YouTube
+### Full Course Playlists (if necessary)
 
-#### Specific Topics (if necessary)
+*	[MIPS Assembly Programming](https://www.youtube.com/playlist?list=PL5b07qlmA3P6zUdDf-o97ddfpvPFuNa5A)
+
+### Specific Topics (if necessary)
 
 *   [Title of Link](https://www.youtube.com)
-
-#### Full Course Playlists (if necessary)
-
-Add links here
 
 ## Coursera (if necessary)
 

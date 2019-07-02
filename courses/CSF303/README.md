@@ -27,6 +27,11 @@ This course has no prerequisites.
 * [Online Lecture Notes](https://www.cse.iitk.ac.in/users/dheeraj/cs425//)
 * [Create a Subnet: Cybrary](https://www.cybrary.it/skill-certification-course/subnetting-certification-training-course/)
 
+### Specific Topics
+* [Domain Name Servers(DNS)](https://www.youtube.com/watch?v=72snZctFFtA&t=1s)
+* [Dynamic Host Configuration Protocol(DHCP)](https://www.youtube.com/watch?v=IUOVSIKj6GU&t=1s)
+* [Simple Mail Transfer Protocol(SMTP)](https://www.youtube.com/watch?v=j7kMZD81hec&t=1s)
+
 ## Guidelines
 The textbook is certainly worth a read. Solutions to numericals can be found in the manuals in the drive. Google's networks course is a recommended supplement for beginners. PowerCert covers speicifc topics that you can search for. The reference book can be read for anyone looking at a deeper insight into design techniques. Wireshark can be entirely completed using the lab resources provided in the drive. 
 

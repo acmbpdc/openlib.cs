@@ -12,6 +12,11 @@ This course has the following prerequisites:
 * [Compilers & Interpreters](https://www.youtube.com/watch?v=BjWgdsRDVwY&list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx)
 * [Compiler Blog](https://vipinnpillai.blogspot.com/2011/11/quadruple-c-code_20.html)
 
+### Specific Topics
+* [Register Allocation](https://www.youtube.com/watch?v=4eHdo8GaICY&t=1s)
+* [Graph Coloring](https://www.youtube.com/watch?v=KCCgFMB3vPw&t=2s)
+* [Mark-Sweep Garbage Collector](https://www.youtube.com/watch?v=lXj6j9hVGLQ&t=21s)
+
 ## Guidelines
 Ravindrababu's videos are a go-to for this course. 
 
