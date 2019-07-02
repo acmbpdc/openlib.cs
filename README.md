@@ -28,32 +28,42 @@ OpenLib.cs is a collaborative effort to make textbooks, solution manuals and oth
 *   [Design & Analysis of Algorithms](./courses/CSF364)
 *   [Operating Systems](./courses/CSF372)
 
-### Discipline Electives
+### Electives
 
 *  [Cryptography](./courses/CSF463)
 *  [Service Oriented Computing](./courses/CSF466)
 *  [Artificial Intelligence](./courses/CSF)
 *  [Data Mining](./courses/CSF)
 
-## Guidelines
-* You will find all e-book copies of the prescribed material in the drive link along with solution manuals and reference material. We recommend you do not purchase the hard copies and use the ebooks instead.
-* **For the open-book exams**, borrow a hard-copy from the library or; take b/w printouts of the e-book pdfs in the required page-number ranges that are included in the test syllabus. This is a corner case and it is most likely that you will not require the textbooks in the exam hall. 
+## Usage
 
-## Using the Repository
-* All subject folders have the following formats:
-  * Overview: About the course.
-  * Prerequisites: Courses that need to be completed before attempting the current course.
-  * Online Material: Links to online resources to supplement your learning experience.
-  * Guidelines: Using the resources to maximum benefit.
-  * Drive: Link to the drive folder.
-  
-## General Links
-* [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
-* [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
-*  [r/AskComputerScience](https://www.reddit.com/r/AskComputerScience/)
-*  [r/compsci](https://www.reddit.com/r/compsci/)
-*  [r/Programming](https://www.reddit.com/r/programming/)
-*  [GeeksForGeeks](https://www.geeksforgeeks.org/c-programming-language/)
-*  [Code.org](https://www.youtube.com/channel/UCJyEBMU1xVP2be1-AoGS1BA)
-  
-  
+*   A directory is maintained for each course within which is a README that provides information regarding the course. The README may have the following sections if applicable :
+    *   **Prerequisites** - Courses that need to be completed prior to attempting the particular course
+    *   **Textbooks** - List of textbooks with links to their soft copies
+    *   **Lab Programs** - Implementation of the programs taught during the practical hours
+    *   **Videos** - List of links of video explanations of course concepts
+    *   **Websites** - Useful websites
+    *   **Articles** - Cheat-sheets, tutorials, blog-posts etc.
+    *   **Communities** - Online forums related to the course concepts
+    *   **Apps** - Mobile apps that may enrich the learning experience
+*   There are also [scripts](./scripts) that provide certain useful features (WIP)
+
+## Guidelines
+
+*   This repository provides links to the required study material such as **textbooks**, **solution manuals** and **reference books**.
+*   Copies of the study material can be borrowed from the library while appearing for **open-book exams**. Moreover, printouts of the same can also be taken into the exam hall if required. Written notes are also allowed.
+
+## Communities
+
+*   [r/AskComputerScience](https://www.reddit.com/r/AskComputerScience/)
+*   [r/compsci](https://www.reddit.com/r/compsci/)
+*   [r/Programming](https://www.reddit.com/r/programming/)
+*   [GeeksForGeeks](https://www.geeksforgeeks.org/)
+*   [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
+*   [Code.org](https://www.youtube.com/channel/UCJyEBMU1xVP2be1-AoGS1BA)
+
+
+## Videos
+
+*   [Crash Course Computer Science, *Crash Course*](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+*   [Map of Computer Science, *Domain of Science*](https://www.youtube.com/watch?v=SzJ46YA_RaA)
