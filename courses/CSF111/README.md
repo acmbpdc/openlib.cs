@@ -41,7 +41,7 @@ This course has no prerequisites.
 *   [How Computers Work, *Khan Academy*](https://www.khanacademy.org/computing/computer-science/how-computers-work2)
 *   [Introduction to Algorithms, *Khan Academy*](https://www.khanacademy.org/computing/computer-science/algorithms)
 *   [Floating Point Motivation, *Computerphile*](https://www.youtube.com/watch?v=PZRI1IfStY0&list=PLzH6n4zXuckqmf_xUcvU5caZVoctP2ehL&index=8)
-*   [What do programmers actually do?, *Physics Girl*](https://www.youtube.com/watch?v=g4a7_HH9Wbg)
+*   [What do programmers actually do? *Physics Girl*](https://www.youtube.com/watch?v=g4a7_HH9Wbg)
 
 ## Websites
 
