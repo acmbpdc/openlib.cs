@@ -25,7 +25,7 @@ The following are prerequisites for this course:
 | -------------|-------------|:-----:|
 | [Elements of the Theory of Computation](https://drive.google.com/open?id=1z_DeXa24LtBEjobo3FgygoVx_qFzIyd1) | Lewis & Papadimitriou | 2nd (1998) |
 | [Introduction to Automata Theory, Languages & Computation](https://drive.google.com/open?id=1J37lIwspju4mnKOsiOgW2xKJig_ckknx) | Hopcroft, Motwani & Ullman | 3rd (2007) |
-| [Introduction to Languages and The Theory of Computation](https://drive.google.com/open?id=13frawLX1gT_0JnKOiEOnSeoHp-kp9-qO) | John. C Martin | 4th (2010) |
+| [Introduction to Languages and The Theory of Computation](https://drive.google.com/open?id=1Eoz_fHaEL73upWM88VLYgq9OGfo2yY1U) | John. C Martin | 4th (2010) |
 | [Introduction to the Theory of Computation](https://drive.google.com/open?id=1LgHU3Eq1xNsTWgqkkFDd-DoX4Iczlbrt)| Sipser | 3rd (2013) |
 
 
