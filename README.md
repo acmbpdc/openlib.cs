@@ -1,6 +1,6 @@
 # OpenLib.cs
 
-OpenLib.cs is a collaborative effort to make textbooks, solution manuals and other resources freely available for students who are currently pursuing the following courses (or their equivalents) at university. The syllabus is aligned with that of BITS Pilani. 
+OpenLib.cs is a collaborative effort to make textbooks, solution manuals and other resources freely available for students who are currently pursuing the following courses (or their equivalents) at university. 
 
 ## Course Navigation
 
