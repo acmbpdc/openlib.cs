@@ -33,6 +33,7 @@ The following are prerequisites for this course:
 * [Index of TOC](http://www.krchowdhary.com/toc/)
 * [Scott Aaronson](https://www.scottaaronson.com/blog/)
 * [Practice Questions](https://web.njit.edu/~marvin/cs341/oldexams/)
+* [Homework Problems & Solutions](https://drive.google.com/open?id=1FBZORi3jjLV0tajzllaMQExLqNj6lUlu)
 
 
 ## Videos
