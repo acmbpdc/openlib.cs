@@ -82,3 +82,5 @@ This section is not part of the coursework, however if you are interested in alg
 * [ProjectEuler](https://projecteuler.net/archives)
 * [Sphere Online Judge](https://www.spoj.com/)
 * [A² Online Judge](https://a2oj.com/)
+* [Coding Ninjas](https://www.codingninjas.in/)
+* [Coding Blocks](https://codingblocks.com/)
