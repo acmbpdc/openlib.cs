@@ -67,3 +67,18 @@ OpenLib.cs is a collaborative effort to make textbooks, solution manuals and oth
 
 *   [Crash Course Computer Science, *Crash Course*](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 *   [Map of Computer Science, *Domain of Science*](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+
+## Competitive Programming
+
+This section is not part of the coursework, however if you are interested in algorithms, then try out practice problems and participate in programming tournaments in the following sites.
+
+* [Hackerrank](https://www.hackerrank.com/dashboard)
+* [CodeForces](https://codeforces.com/)
+* [CodeChef](https://www.codechef.com/)
+* [HackerEarth](https://www.hackerearth.com/practice/)
+* [LeetCode](https://leetcode.com/)
+* [topcoder](https://www.topcoder.com/)
+* [Daily Coding Problem](https://www.dailycodingproblem.com/)
+* [ProjectEuler](https://projecteuler.net/archives)
+* [Sphere Online Judge](https://www.spoj.com/)
+* [A² Online Judge](https://a2oj.com/)
