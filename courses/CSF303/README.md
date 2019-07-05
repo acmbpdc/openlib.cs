@@ -25,6 +25,7 @@ This course has no prerequisites.
 
 ### Websites
 * [Online Lecture Notes](https://www.cse.iitk.ac.in/users/dheeraj/cs425//)
+* [Textbook Slides](http://www-net.cs.umass.edu/kurose-ross-ppt-6e/)
 * [Create a Subnet: Cybrary](https://www.cybrary.it/skill-certification-course/subnetting-certification-training-course/)
 
 ### Specific Topics
