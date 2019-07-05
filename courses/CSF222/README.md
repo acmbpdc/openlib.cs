@@ -29,7 +29,7 @@ This course has no prerequisites.
 | [Discrete Mathematics for Computer Scientists & Mathematicians](https://drive.google.com/open?id=1wxJ2zh-3XQ2bqFL_cZcA_Cnxt39ulyNM) | Mott, Kandel & Baker| 2nd (2008) |
 | [Discrete Mathematics and its Applications](https://drive.google.com/open?id=14Hfrd7Ogz7UjI_xFS1ENdMaJQH7STmLb) | Kenneth Rosen | 7th (2012) |
 | [Student's Solution Guide to Accompany Discrete Mathematics and its Applications](https://drive.google.com/open?id=1Y9bDZVoljQCjPt_egUKnqtHi-2mtTY5x) | Jerrold Grossman & Kenneth Rosen | 7th (2012) |
-| [Mathematical Structures for Computer Science: Discrete Mathematics & its Applications](https://drive.google.com/open?id=14Hfrd7Ogz7UjI_xFS1ENdMaJQH7STmLb)| Judith Gersting | 7th (2014) |
+| [Mathematical Structures for Computer Science: Discrete Mathematics & its Applications](https://drive.google.com/open?id=14pZnQh0iN7ATQqFdpkTNBd-etwoNzdOY)| Judith Gersting | 7th (2014) |
 | [Lehman & Leighton Notes](https://drive.google.com/open?id=1r2ajkPY1x6EWp_k38yxH_8MPGvQOUocO)| Lehman & Leighton | Revised (2004) |
 
 ## Videos
