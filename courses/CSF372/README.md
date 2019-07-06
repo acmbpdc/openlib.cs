@@ -10,7 +10,6 @@ OS looks at the underlying principles that govern all operating systems, irrespe
 *   [Textbooks](#textbooks)
 *   [Videos](#videos)
 *   [Websites](#websites)
-*   [Tutorials](#tutorials)
 
 ## Prerequisites
 

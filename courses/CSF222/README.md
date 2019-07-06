@@ -11,8 +11,6 @@ Underlying mathematical rules that govern algorithm design and data structures. 
 *   [Prerequisites](#prerequisites)
 *   [Textbooks](#textbooks)
 *   [Videos](#videos)
-*   [Courses](#courses)
-*   [Guidelines](#Guidelines)
 *   [Apps](#apps)
 
 ## Prerequisites
