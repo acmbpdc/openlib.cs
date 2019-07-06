@@ -12,12 +12,16 @@ TOC deals with computers as a topic of abstraction. Using the tools from Discret
 *   [Articles](#articles)
 
 ## Prerequisites
-This course is a prerequisite for : 
-* [Design & Analysis of Algorithms](../CSF364)
 
-The following are prerequisites for this course:
-* [Discrete Structures for CS](../CSF222)
-* [Logic in CS](../CSF214)
+This course has the following prerequisites :
+
+*   [Discrete Structures for CS](../CSF222)
+*   [Logic in CS](../CSF214)
+
+This course is a prerequisite for :
+
+*   [Design & Analysis of Algorithms](../CSF364)
+
 
 ## Textbooks
 

@@ -14,11 +14,12 @@ OS looks at the underlying principles that govern all operating systems, irrespe
 
 ## Prerequisites
 
+This course has no prerequisites.
+
 This course is a prerequisite for : 
 
 *   [Computer Networks](../CSF303)
 
-This course has no prerequisites.
 
 ## Textbooks
 
