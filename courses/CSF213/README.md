@@ -21,8 +21,9 @@ This course has no prerequisites.
 
 | Title | Author(s) | Edition |
 | -------------|-------------|:-----:|
-| [Object Oriented Design & Patterns](https://drive.google.com/file/d/1WkjRyU7aGcr01MpJ-iQCTeXhFLUHeH7T/view?usp=sharing) | Cay Horstmann | 2nd
-| [Java The Complete Reference](https://drive.google.com/file/d/1FWUTT4x8BI-v0_SIf50HHNvyKdPw1gYq/view?usp=sharing)| Herbert Schildt | 9th |
+| [Object Oriented Design & Patterns](https://drive.google.com/file/d/1WkjRyU7aGcr01MpJ-iQCTeXhFLUHeH7T/view?usp=sharing) | Cay Horstmann | 2nd (2006) |
+| [Java The Complete Reference](https://drive.google.com/file/d/1FWUTT4x8BI-v0_SIf50HHNvyKdPw1gYq/view?usp=sharing)| Herbert Schildt | 9th (2014) |
+
 ## Code
 
 *   [object-oriented-programming-lab, *Dont be a Douche*](https://github.com/dontbeadouche/object-oriented-programming-lab)
