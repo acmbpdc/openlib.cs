@@ -40,7 +40,7 @@ OpenLib.cs is a collaborative effort to make textbooks, solution manuals and oth
 *   A directory is maintained for each course within which is a README that provides information regarding the course. The README may have the following sections if applicable :
     *   **Prerequisites** - Courses that need to be completed prior to attempting the particular course
     *   **Textbooks** - List of textbooks with links to their soft copies
-    *   **Lab Programs** - Implementation of the programs taught during the practical hours
+    *   **Code** - Implementation of course concepts
     *   **Videos** - List of links of video explanations of course concepts
     *   **Websites** - Useful websites
     *   **Articles** - Cheat-sheets, tutorials, blog-posts etc.

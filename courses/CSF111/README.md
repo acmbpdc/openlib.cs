@@ -6,7 +6,7 @@ This is an introductory course to a holistic approach to computer science. Funda
 
 *   [Prerequisites](#prerequisites)
 *   [Textbooks](#textbooks)
-*   [Lab Programs](#lab-programs)
+*   [Code](#code)
 *   [Videos](#videos)
 *   [Websites](#websites)
 *   [Articles](#articles)
@@ -27,9 +27,9 @@ This course has no prerequisites.
 | [Let Us C](https://drive.google.com/open?id=1iaRbBFzDmjXrIHNnwdeBFqJ4kHPkn-cO)| Yashavant P. Kanetkar | 5th (2004) |
 | [C : The Complete Reference](https://drive.google.com/open?id=15mqmtbhY-Dv4mBr1nPEp9bPM3P1tDiZB)| Herbert Schildt | 4th (2000) |
 
-## Lab Programs
+## Code
 
-*   [eash-98/CPrograms](https://github.com/eash-98/CPrograms)
+*   [CPrograms, *Eshwaran Venkat*](https://github.com/eash-98/CPrograms)
 
 ## Videos
 
