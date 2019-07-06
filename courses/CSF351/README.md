@@ -1,14 +1,13 @@
 # Theory of Computation
 
-## Overview
 TOC deals with computers as a topic of abstraction. Using the tools from Discrete Mathematics, we construct rigorous [`proofs`](https://en.wikipedia.org/wiki/Mathematical_proof) for computational systems and analyze what problems can be solved by a computer. This subject is also referred to as `Automata Theory` and includes theoretical models such as [`Finite State Machines`](https://brilliant.org/wiki/finite-state-machines/), [`Turing Machines`](https://brilliant.org/wiki/turing-machines/) and more. The ideas presented here are perhaps some of the most abstract, yet elegant pieces of information you will come across in your journey in CS. 
 
 ## Navigation
 
 *   [Prerequisites](#prerequisites)
 *   [Textbooks](#textbooks)
-*   [Websites](#websites)
 *   [Videos](#videos)
+*   [Websites](#websites)
 *   [Articles](#articles)
 
 ## Prerequisites
@@ -22,7 +21,6 @@ This course is a prerequisite for :
 
 *   [Design & Analysis of Algorithms](../CSF364)
 
-
 ## Textbooks
 
 | Title | Author(s) | Edition |
@@ -32,14 +30,6 @@ This course is a prerequisite for :
 | [Introduction to Languages and The Theory of Computation](https://drive.google.com/open?id=1Eoz_fHaEL73upWM88VLYgq9OGfo2yY1U) | John. C Martin | 4th (2010) |
 | [Introduction to the Theory of Computation](https://drive.google.com/open?id=1LgHU3Eq1xNsTWgqkkFDd-DoX4Iczlbrt)| Sipser | 3rd (2013) |
 
-
-## Websites
-
-*   [Index of TOC, *Prof. K. R. Chowdhary*](http://www.krchowdhary.com/toc/)
-*   [Scott Aaronson](https://www.scottaaronson.com/blog/)
-*   [Old Exams and Quizzes, *Marvin K. Nakayama*](https://web.njit.edu/~marvin/cs341/oldexams/)
-
-
 ## Videos
 
 *   [NP-Hard and NP-Complete Problems, *Abdul Bari*](https://www.youtube.com/watch?v=e2cF8a5aAhE&t=10s)
@@ -48,6 +38,12 @@ This course is a prerequisite for :
 *   [Theory of Computation part-1, *Knowledge Gate*](https://www.youtube.com/watch?v=i6JhheV01dU&list=PLmXKhU9FNesQe1bKW0w7APAGiJVlQP8Zx) *(Full Course)*
 *   [Theory of Computation part-1, *Knowledge Gate*](https://www.youtube.com/watch?v=00cXiux2Kjk&list=PLmXKhU9FNesSdCsn6YQqu9DmXRMsYdZ2T) *(Full Course)*
 *   [Theory Of Computation or Automata Theory, *Ravindrababu Ravula*](https://www.youtube.com/watch?v=eqCkkC9A0Q4&list=PLEbnTDJUr_IdM___FmDFBJBz0zCsOFxfK) *(Full Course)*
+
+## Websites
+
+*   [Index of TOC, *Prof. K. R. Chowdhary*](http://www.krchowdhary.com/toc/)
+*   [Scott Aaronson](https://www.scottaaronson.com/blog/)
+*   [Old Exams and Quizzes, *Marvin K. Nakayama*](https://web.njit.edu/~marvin/cs341/oldexams/)
 
 ## Articles 
 

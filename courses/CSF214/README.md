@@ -1,7 +1,5 @@
 # Logic in Computer Science
 
-## Overview
-
 LCS is a relatively easy course where you'll learn about `propositional`, `predicate` and `temporal` logic along with `Program Correctness` & `Model Checking`. It's an abstract subject that finds some applications in rule-based AI.  It forms the bases for reasoning about computational systems and arguments/proofs related to computer programs. 
 
 *   [Prerequisites](#prerequisites)

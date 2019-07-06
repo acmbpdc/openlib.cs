@@ -1,15 +1,14 @@
 # Cryptography
 
-## Overview
 Topics include Ancient ciphers, modern stream and block ciphers, `DES`, `AES`, `Public Key Encryption` & `Key Management`. The course also covers related mathematics in [`number theory`](https://brilliant.org/wiki/number-theory/) and [`group theory`](https://brilliant.org/wiki/group-theory-introduction/).
 
 ## Navigation
 
 *   [Prerequisites](#prerequisites)
 *   [Textbooks](#textbooks)
+*   [Code](#code)
 *   [Videos](#videos)
 *   [Websites](#websites)
-*   [Programming](#Programming)
 *   [Apps](#apps)
 
 ## Prerequisites
@@ -28,6 +27,11 @@ Topics include Ancient ciphers, modern stream and block ciphers, `DES`, `AES`, `
 | [IT Security: Computer Networks Top Down Approach](https://drive.google.com/open?id=1zrokwRuL0QJFpEImzlI4EoDP-cdYSI9k)| Kurose & Ross | 6th (2012) |
 | [Network Security Overview](https://drive.google.com/open?id=1nqJ0-KzcggBg_huWSgSjfm5WNByJwwt5)| Kurose & Ross | - |
 
+## Code
+*   [Cryptography Programs](https://www.github.com/eash-98/Cryptography)
+*   [Cryptography.io for Python](https://cryptography.io/en/latest/)
+*   [VisualCrypto](https://github.com/ageron/visual_crypto)
+
 ## Videos
 *   [Cryptography I, Stanford University](https://www.coursera.org/learn/crypto?)
 *   [Cryptography Lecture Series](https://www.youtube.com/playlist?list=PL2jrku-ebl3H50FiEPr4erSJiJHURM9BX)
@@ -40,10 +44,6 @@ Topics include Ancient ciphers, modern stream and block ciphers, `DES`, `AES`, `
 *   [Cryptool](https://www.cryptool.org/en/)
 *   [Sobolven's Github Repo on Cryptography](https://github.com/sobolevn/awesome-cryptography)
 
-## Programming
-*   [Cryptography Programs](https://www.github.com/eash-98/Cryptography)
-*   [Cryptography.io for Python](https://cryptography.io/en/latest/)
-*   [VisualCrypto](https://github.com/ageron/visual_crypto)
 
 ## Apps
 *   [Cryptography: Collections of Ciphers & Hashes](https://play.google.com/store/apps/details?id=com.nitramite.cryptography&hl=en_IN)

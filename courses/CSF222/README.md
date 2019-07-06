@@ -1,7 +1,5 @@
 # Discrete Structures for Computer Science
 
-## Overview
-
 Underlying mathematical rules that govern algorithm design and data structures. Leans in on more of a mathematics course than a CS one. The course covers [`set theory`](https://brilliant.org/wiki/set-theory/), [`combinatorics`](https://brilliant.org/wiki/combinatorics/), [`recurrence relations`](https://brilliant.org/wiki/recurrence-relations/), [`graph theory`](https://brilliant.org/wiki/graph-theory/) and [`group theory`](https://brilliant.org/wiki/group-theory-introduction/)
 
 [Judith Gerstring's book](https://drive.google.com/open?id=14pZnQh0iN7ATQqFdpkTNBd-etwoNzdOY) is a perfect introduction to the course for beginners. It is recommended to use [Kenneth Rosen's book]((https://drive.google.com/open?id=14Hfrd7Ogz7UjI_xFS1ENdMaJQH7STmLb)) which provides examples and problems whose solutions can be found [here](https://drive.google.com/open?id=1Y9bDZVoljQCjPt_egUKnqtHi-2mtTY5x)
