@@ -1,7 +1,8 @@
+
 # Operating Systems
 
 ## Overview
-OS looks at the underlying principles that govern all operating systems, irrespective of the choice of OS you make. Operating systems are involved in the management and smooth functioning of programs, memory and I/O devices. They bridge the gap between the hardware and the user. Topics covered include Scheduling, Synchronization, Paging and more. 
+OS looks at the underlying principles that govern all operating systems, irrespective of the choice of OS you make. Operating systems are involved in the management and smooth functioning of programs, memory and I/O devices. They bridge the gap between the hardware and the user. Topics covered include [`Scheduling`](https://en.wikipedia.org/wiki/Scheduling_(computing)), [`Synchronization`](https://en.wikipedia.org/wiki/Synchronization_(computer_science)), [`Paging`](https://en.wikipedia.org/wiki/Paging) and more. 
 
 ## Navigation
 
@@ -9,7 +10,7 @@ OS looks at the underlying principles that govern all operating systems, irrespe
 *   [Textbooks](#textbooks)
 *   [Videos](#videos)
 *   [Websites](#websites)
-*   [Drive](#drive)
+*   [Tutorials](#tutorials)
 
 ## Prerequisites
 
@@ -24,8 +25,14 @@ This course has no prerequisites.
 | Title | Author(s) | Edition |
 | -------------|-------------|:-----:|
 | [Operating System Concepts](https://drive.google.com/file/d/1_lLlhYRJEw-f3z9pR0dTKJcvszQKqKFT/view?usp=sharing) | Silverschatz, A, Galvin P.B. and Gange G | 9th
-| [Operating Systems Internals and Design Principles](https://drive.google.com/file/d/1M3mxCdMUiC90jH8ppt22nar6m9ylr17i/view?usp=sharing)| William Stallings | 6th |
-
+| [Operating Systems Internals and Design Principles](https://drive.google.com/file/d/1M3mxCdMUiC90jH8ppt22nar6m9ylr17i/view?usp=sharing)| William Stallings | 6th
+| [Operating Systems Three Easy Pieces](https://drive.google.com/file/d/1rxzeZj2B9BS4-5H7ZF3KY1t57GJs5ca4/view?usp=sharing)| Remzi H. Arpacidusseau| 2014 (Version 0.8)
+| [Operating Systems Design and Implementation](https://drive.google.com/file/d/1MLHBuOVMtlOBKsC0OydhjInG2NkXOfHK/view?usp=sharing) | Andrew S. Tanenbaum and Albert S. Woodhull | 3rd
+| [Modern Operating Systems](https://drive.google.com/file/d/19qbB6gg2xNfL-te3MQBj9iIToH4WE6HN/view?usp=sharing) | Andrew S. Tanenbaum and Herbert Bos | 4th
+| [Linux Kernel Internals](https://drive.google.com/file/d/1oP4dn19ex5lRK6RZld6PWZIG_05UnWb-/view?usp=sharing) | M. Beck, H. Bohme, M. Dziadzka,U. Kunitz, R. Magnus and D. Verworner | 2nd
+| [The Linux Programming Interface](https://drive.google.com/file/d/1B9NUIZ0SHgPBOIswO_El7ioRDMS19dux/view?usp=sharing)| Michael Kerrisk | 
+| [Instructor's Manual To Accompany Operating System Concepts](https://drive.google.com/file/d/1xvbwR5g-t1iyMtpEI_GbAdVkuA4Jflj3/view?usp=sharing) | Silverschatz, A, Galvin P.B. and Gange G | 7th
+| [Solutions To Practice Problems Operating Systems Internals and Design Principles](https://drive.google.com/file/d/1Pih8jrpW8ci415N4BGtmGS66tEXjGmid/view?usp=sharing) | William Stallings | 6th
 
 ## Videos
 * [Knowedge Gate - OS course](https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)
@@ -36,12 +43,8 @@ This course has no prerequisites.
 *	[GeeksforGeeks](https://www.geeksforgeeks.org/operating-systems/)
 *	[JavaTpoint](https://www.javatpoint.com/os-tutorial)
 
-## Drive
+## Tutorials
 
-* [Operating Systems: Textbooks, References & Manuals](https://drive.google.com/open?id=1YGTasJDlMA3blx8nGNUxvLQlg9dcvo4t)
+* [Operating Systems: Tutorials](https://drive.google.com/drive/folders/1m4s4GAbuujI7YHMq_UQtf1ap4oeP9Zx7?usp=sharing)
 
-This drive contains
-* Textbook(s)
-* Solution Manual for Textbook
-* Reference Book(s)
-* Tutorials Folder
+This link contains previous year tutorial problems from Bits Pilani Dubai
