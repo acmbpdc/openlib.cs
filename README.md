@@ -58,9 +58,10 @@ OpenLib.cs is a collaborative effort to make textbooks, solution manuals and oth
 *   [r/AskComputerScience](https://www.reddit.com/r/AskComputerScience/)
 *   [r/compsci](https://www.reddit.com/r/compsci/)
 *   [r/Programming](https://www.reddit.com/r/programming/)
-*   [GeeksForGeeks](https://www.geeksforgeeks.org/)
+*   [GeeksforGeeks](https://www.geeksforgeeks.org/)
 *   [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
 *   [Code.org](https://www.youtube.com/channel/UCJyEBMU1xVP2be1-AoGS1BA)
+*   [Brilliant](https://brilliant.org/computer-science/) 
 
 
 ## Videos
@@ -79,7 +80,7 @@ This section is not part of the coursework, however if you are interested in alg
 * [LeetCode](https://leetcode.com/)
 * [topcoder](https://www.topcoder.com/)
 * [Daily Coding Problem](https://www.dailycodingproblem.com/)
-* [ProjectEuler](https://projecteuler.net/archives)
+* [Project Euler](https://projecteuler.net/archives)
 * [Sphere Online Judge](https://www.spoj.com/)
 * [A² Online Judge](https://a2oj.com/)
 * [Coding Ninjas](https://www.codingninjas.in/)
