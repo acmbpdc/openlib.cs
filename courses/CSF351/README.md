@@ -30,27 +30,23 @@ The following are prerequisites for this course:
 
 
 ## Websites
-* [Index of TOC](http://www.krchowdhary.com/toc/)
-* [Scott Aaronson](https://www.scottaaronson.com/blog/)
-* [Practice Questions](https://web.njit.edu/~marvin/cs341/oldexams/)
-* [Homework Problems & Solutions](https://drive.google.com/open?id=1FBZORi3jjLV0tajzllaMQExLqNj6lUlu)
+
+*   [Index of TOC, *Prof. K. R. Chowdhary*](http://www.krchowdhary.com/toc/)
+*   [Scott Aaronson](https://www.scottaaronson.com/blog/)
+*   [Old Exams and Quizzes, *Marvin K. Nakayama*](https://web.njit.edu/~marvin/cs341/oldexams/)
 
 
 ## Videos
-* [P & NP Problems](https://www.youtube.com/watch?v=e2cF8a5aAhE&t=10s)
-* [P vs. NP Computational Complexity](https://www.youtube.com/watch?v=YX40hbAHx3s)
 
-* [Neso Academy](https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev) _Full Course_
-* [Knowledge Gate - I](https://www.youtube.com/watch?v=i6JhheV01dU&list=PLmXKhU9FNesQe1bKW0w7APAGiJVlQP8Zx) _Full Course_
-* [Knowledge Gate - II](https://www.youtube.com/watch?v=00cXiux2Kjk&list=PLmXKhU9FNesSdCsn6YQqu9DmXRMsYdZ2T) _Full Course_
-* [Ravindrababu Ravula](https://www.youtube.com/watch?v=eqCkkC9A0Q4&list=PLEbnTDJUr_IdM___FmDFBJBz0zCsOFxfK) _Full Course_
+*   [NP-Hard and NP-Complete Problems, *Abdul Bari*](https://www.youtube.com/watch?v=e2cF8a5aAhE&t=10s)
+*   [P vs. NP and the Computational Complexity Zoo, *hackerdashery*](https://www.youtube.com/watch?v=YX40hbAHx3s)
+*   [Introduction to Theory of Computation, *Neso Academy*](https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev) *(Full Course)*
+*   [Theory of Computation part-1, *Knowledge Gate*](https://www.youtube.com/watch?v=i6JhheV01dU&list=PLmXKhU9FNesQe1bKW0w7APAGiJVlQP8Zx) *(Full Course)*
+*   [Theory of Computation part-1, *Knowledge Gate*](https://www.youtube.com/watch?v=00cXiux2Kjk&list=PLmXKhU9FNesSdCsn6YQqu9DmXRMsYdZ2T) *(Full Course)*
+*   [Theory Of Computation or Automata Theory, *Ravindrababu Ravula*](https://www.youtube.com/watch?v=eqCkkC9A0Q4&list=PLEbnTDJUr_IdM___FmDFBJBz0zCsOFxfK) *(Full Course)*
 
 ## Articles 
 
-* [The Computational Complexity Blog](https://blog.computationalcomplexity.org/)
-* [Gödel's Lost Letter and P = NP ](https://rjlipton.wordpress.com/)
-* [The Physics Arxiv blog on P/NP](https://medium.com/the-physics-arxiv-blog/the-astounding-link-between-the-p-np-problem-and-the-quantum-nature-of-universe-7ef5eea6fd7a)
-
-
-
-
+*   [The Computational Complexity Blog](https://blog.computationalcomplexity.org/)
+*   [Gödel's Lost Letter and P = NP ](https://rjlipton.wordpress.com/)
+*   [The Physics Arxiv blog on P/NP](https://medium.com/the-physics-arxiv-blog/the-astounding-link-between-the-p-np-problem-and-the-quantum-nature-of-universe-7ef5eea6fd7a)

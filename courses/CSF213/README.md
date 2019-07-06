@@ -29,30 +29,25 @@ This course has no prerequisites.
 
 ## Videos
 
-*	[ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al)
-*	[Derek Banas](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)
-*   [Learn Java in one video: Derek Banas](https://www.youtube.com/watch?v=n-xAqcBCws4)
-* [Java (Beginner) Programming Tutorial](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28)
+*   [Java Tutorial for Beginners, *ProgrammingKnowledge*](https://www.youtube.com/playlist?list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al)
+*   [Java Video Tutorial, *Derek Banas*](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)
+*   [Java Tutorial, *Derek Banas*](https://www.youtube.com/watch?v=n-xAqcBCws4)
+*   [Java (Beginner) Programming Tutorial, *thenewboston*](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28)
 
 ## Websites
 
-*	[GeeksforGeeks](https://www.geeksforgeeks.org/java/)
-*	[JavaTpoint](https://www.javatpoint.com/java-tutorial)
-*	[Coursera](https://www.coursera.org/learn/object-oriented-java)
+*   [Java Programming Language, *GeeksforGeeks*](https://www.geeksforgeeks.org/java/)
+*   [Java Tutorial, *JavaTpoint*](https://www.javatpoint.com/java-tutorial)
+*   [Object Oriented Programming in Java, *Coursera*](https://www.coursera.org/learn/object-oriented-java)
 
-## Lab Programs
-
-*  [dontbeadouche/object-oriented-programming-lab](https://github.com/dontbeadouche/object-oriented-programming-lab)
 
 ## Articles
 
-*  [Java Programming Cheatsheet](https://drive.google.com/file/d/1FUOgQrPB_sUsPSGrj8LOuMRIELRx0LD3/view?usp=sharing)
+*   [Java Programming Cheatsheet](https://drive.google.com/file/d/1FUOgQrPB_sUsPSGrj8LOuMRIELRx0LD3/view?usp=sharing)
 
 ## Apps
 
-* [SoloLearn : Java Tutorial](https://www.sololearn.com/Course/Java/)
-*   [Mimo: Learn To Code](https://getmimo.com/)
-
+*   [Java, *SoloLearn*](https://www.sololearn.com/Course/Java/)
 
 
 

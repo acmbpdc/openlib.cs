@@ -35,16 +35,10 @@ This course has no prerequisites.
 | [Solutions To Practice Problems Operating Systems Internals and Design Principles](https://drive.google.com/file/d/1Pih8jrpW8ci415N4BGtmGS66tEXjGmid/view?usp=sharing) | William Stallings | 6th
 
 ## Videos
-* [Knowedge Gate - OS course](https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)
-* [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
-* [CrashCourse OS](https://www.youtube.com/watch?v=26QPDBe-NB8)
+*   [Operating System, *Knowedge Gate*](https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)
+*   [Operating System, *Gate Smashers*](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
+*   [Operating Systems, *CrashCourse*](https://www.youtube.com/watch?v=26QPDBe-NB8)
 
 ## Websites
-*	[GeeksforGeeks](https://www.geeksforgeeks.org/operating-systems/)
-*	[JavaTpoint](https://www.javatpoint.com/os-tutorial)
-
-## Tutorials
-
-* [Operating Systems: Tutorials](https://drive.google.com/drive/folders/1m4s4GAbuujI7YHMq_UQtf1ap4oeP9Zx7?usp=sharing)
-
-This link contains previous year tutorial problems from Bits Pilani Dubai
+*   [Operating Systems, *GeeksforGeeks*](https://www.geeksforgeeks.org/operating-systems/)
+*   [Operating System, *JavaTpoint*](https://www.javatpoint.com/os-tutorial)

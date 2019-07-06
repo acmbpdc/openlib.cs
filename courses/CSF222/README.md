@@ -36,30 +36,17 @@ This course has no prerequisites.
 
 ## Videos
 
-*   [Set Theory, Playlist by Knowledge Gate](https://www.youtube.com/playlist?list=PLmXKhU9FNesTSqP8hWDncxpCj8a4uzmu7)
-*   [Relations, Posets, etc., Playlist by Knowledge Gate](https://www.youtube.com/playlist?list=PLmXKhU9FNesTpQNP_OpXN7WaPwGx7NWsq)
-*   [Relations Intro., Playlist by Knowledge Gate ](https://www.youtube.com/playlist?list=PLmXKhU9FNesQSH0J7qjWJ1TFS49o-EVFC)
-*   [Graph Theory Playlist by Knowledge Gate](https://www.youtube.com/playlist?list=PLmXKhU9FNesS7GpOddHDX3ZCl86_cwcIn)
-*   [Group Theory, Playlist by Knowledge Gate](https://www.youtube.com/watch?v=7ifHq5J58cE&list=PLmXKhU9FNesQrSgLxm6zx3XxH_M_8n3LA)
-*   [Group Theory & Abstract Algebra, Playlist by Socratica](https://www.youtube.com/watch?v=IP7nW_hKB7I&list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
-
-*   [Discrete Math Full Course: Sets, Logic, Proofs, Probability, Graph Theory, etc](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)(_Full Course_)
-*   [Discrete Math 1, By TrevTutor](https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
-*   [Discrete Math 2, By TrevTutor](https://www.youtube.com/watch?v=DBugSTeX1zw&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
-
-
-## Courses
-
-*   [Introduction to Mathematical Thinking by Stanford University](https://www.coursera.org/learn/mathematical-thinking)
-*   [Discrete Mathematics Specialisation by UC San Diego](https://www.coursera.org/specializations/discrete-mathematics)
-
-## Guidelines
-
-Use:
-* Judith Gerstring's book for beginner level introductions
-* Kenneth Rosen for more examples and problems. (Recommended)
-* Student Manual for Rosen to see solutions to exercise problems 
-* Lehman & Leighton's notes for reference.
+*   [Set Theory, *Knowledge Gate*](https://www.youtube.com/playlist?list=PLmXKhU9FNesTSqP8hWDncxpCj8a4uzmu7)
+*   [Relations, Posets, etc., *Knowledge Gate*](https://www.youtube.com/playlist?list=PLmXKhU9FNesTpQNP_OpXN7WaPwGx7NWsq)
+*   [Relations Intro., *Knowledge Gate* ](https://www.youtube.com/playlist?list=PLmXKhU9FNesQSH0J7qjWJ1TFS49o-EVFC)
+*   [Graph Theory *Knowledge Gate*](https://www.youtube.com/playlist?list=PLmXKhU9FNesS7GpOddHDX3ZCl86_cwcIn)
+*   [Group Theory, *Knowledge Gate*](https://www.youtube.com/watch?v=7ifHq5J58cE&list=PLmXKhU9FNesQrSgLxm6zx3XxH_M_8n3LA)
+*   [Group Theory & Abstract Algebra, *Socratica*](https://www.youtube.com/watch?v=IP7nW_hKB7I&list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+*   [Discrete Math Full Course: Sets, Logic, Proofs, Probability, Graph Theory, etc, *Trefor Bazett*](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS) *(Full Course)*
+*   [Discrete Math 1, *TrevTutor*](https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
+*   [Discrete Math 2, *TrevTutor*](https://www.youtube.com/watch?v=DBugSTeX1zw&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
+*   [Introduction to Mathematical Thinking, *Stanford University*](https://www.coursera.org/learn/mathematical-thinking)
+*   [Discrete Mathematics Specialisation, *UC San Diego*](https://www.coursera.org/specializations/discrete-mathematics)
 
 ## Apps
 
