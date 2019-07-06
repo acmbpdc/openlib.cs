@@ -14,6 +14,7 @@ Topics include Ancient ciphers, modern stream and block ciphers, `DES`, `AES`, `
 
 ## Prerequisites
 This course has no prerequisites.
+Courses that have similar/overlapping topics include [Service Oriented Computing](./CSF466) and [Number Theory](./MATHF2)
 
 ## Textbooks
 
