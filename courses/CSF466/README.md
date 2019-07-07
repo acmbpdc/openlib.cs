@@ -7,11 +7,10 @@ Course covers `XML` and `Web Service Principles` & technology. XML topics includ
 *   [Prerequisites](#prerequisites)
 *   [Textbooks](#textbooks)
 *   [Videos](#videos)
-*   [Websites](#websites)
-
 
 ## Prerequisites
-*   This course has no prerequisites.
+*   This course has the following prerequisites
+    * [Object Oriented Programming](../CSF213)
 *   Courses that have similar/overlapping topics include [Cryptography](/courses/CSF463) and [Computer Networks](/courses/CSF303)
 
 ## Textbooks
