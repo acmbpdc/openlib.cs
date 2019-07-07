@@ -37,17 +37,20 @@ This course has the following prerequisites :
 
 ## Code
 
-* [computer-architecture-lab-programs, Don't be a Douche](https://github.com/dontbeadouche/computer-architecture-lab-programs)
+* [computer-architecture-lab-programs, *DBAD*](https://github.com/dontbeadouche/computer-architecture-lab-programs)
 
 ## Videos
 
-*	[MIPS Assembly Programming Tutorial, Amell Peralta](https://www.youtube.com/playlist?list=PL5b07qlmA3P6zUdDf-o97ddfpvPFuNa5A)
-*	[MIPS Assembly Architecture/Data path Tutorial, q liu](https://www.youtube.com/playlist?list=PLPXsMt57rLthe1kihStAdRgGdj3IZ7WHe)
+*	[MIPS Assembly Programming Tutorial, *Amell Peralta*](https://www.youtube.com/playlist?list=PL5b07qlmA3P6zUdDf-o97ddfpvPFuNa5A)
+*	[MIPS Assembly Architecture/Data path Tutorial, *q liu*](https://www.youtube.com/playlist?list=PLPXsMt57rLthe1kihStAdRgGdj3IZ7WHe)
+* [Computer Architecture Lecture Series, *Carnegie Mellon University*](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq) 
+* [Advanced CPU Designs, *CrashCourse CS*](https://www.youtube.com/watch?v=rtAlC5J1U40)
+* [Computer Architecture, *Princeton*](https://www.coursera.org/learn/comparch)
 
 ## Websites
 
-* [Computer Organization and Architecture Tutorials, GeeksforGeeks](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/)
-* [Computer Architecture course, CCSU](https://cs.ccsu.edu/~markov/ccsu_courses/385Syllabus.html)
+* [Computer Organization and Architecture Tutorials, *GeeksforGeeks*](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/)
+* [Computer Architecture course, *CCSU*](https://cs.ccsu.edu/~markov/ccsu_courses/385Syllabus.html)
 
 
 ## Articles
