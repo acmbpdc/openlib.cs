@@ -1,48 +1,48 @@
 # Computer Networks
 
-## Overview
+The entire CN course covers all five layers of the **Internet protocol stack**. namely: 
+* The **Application** layer where mails, http, websites, etc exist. 
+* The **Transport** layer: TCP/UDP protocols
+* The **Network** layer: IP protocols and routing. 
+* The **Physical** and **Data Link** layers: for packaging and moving data across wires
 
-The entire CN course covers all five layers of the Internet protocol stack. namely: 
-* The application layer where mails, http, websites, etc exist. 
-* The transport layer: TCP/UDP protocols
-* The network layer: IP protocols and routing. 
-* The Physical and Data Link layers: For packaging and moving data across wires
+Kurose & Ross is certainly worth a read. Google's networks course is a recommended supplement for beginners. PowerCert covers speicifc topics that you can search for. The reference books can be read for anyone looking at a deeper insight into design techniques.
 
 ## Prerequisites
 
 This course has no prerequisites.
 
-## Online Material
+## Textbooks
 
-### YouTube
+| Title | Author(s) | Edition |
+| -------------|-------------|:-----:|
+| [Computer Networks: A Top Down Approach](https://drive.google.com/open?id=1p6meleR3Eutf97yRag-McLrjv8olPTLE) | Kurose & Ross | 6th (2013) |
+| [Computer Networks: A Systems Approach](https://drive.google.com/open?id=13NzfDz6FbRoHUmeL6bkQfUjUCpQyd_QA) | Peterson & Davie | 5th (2012) |
+| [Data Communication & Networking](https://drive.google.com/open?id=13frawLX1gT_0JnKOiEOnSeoHp-kp9-qO) | Forouzan | 5th (2013) |
+| [TCP/IP Protocol Suite](https://drive.google.com/open?id=1Usfu1MlxY2PJfYZx1NXbeXlRrMQbrvk8)| Forouzan | 4th (2010) |
+| [Computer Networks](https://drive.google.com/open?id=1QKS_Za5p9vAbifwbO9Wsws2xjg5Wj4pG)| Tanenbaum & Wetherall | 5th (2011) |
+| [Computer Networks: A Top Down Approach Solution Manual](https://drive.google.com/open?id=1JXNP7EmQBdI8xZHxzpm21TjzhcFwVOsS)| Kurose & Ross | 6th (2013) |
+| [Computer Networks: A Systems Approach Solution Manual](https://drive.google.com/open?id=1HmJ_FGfoTFYT187ex-l0UUZ4vs7I9OOd)| Peterson & Davie | 5th (2012) |
+| [Data Communication & Networking Solution Manual](https://drive.google.com/open?id=1RFxqwxCWB0gMeb9HIBZ3cJMZXspJsisz)| Forouzan | 5th (2013) |
+| [Computer Networks Solution Manual](https://drive.google.com/open?id=18NnsSUl_vkjY1_EcOFIWNFVqbLql6d-q)| Tanenbaum & Wetherall | 5th (2011) |
 
-* [Google's Course](https://www.coursera.org/learn/computer-networking?specialization=google-it-support)
-* [Microsoft Course](https://www.youtube.com/watch?v=svkGASq8mNM&t=9772s)
-* [Ravindrababu Ravula](https://www.youtube.com/watch?v=UXMIxCYZu8o&list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)
+
+## Videos
+
+* [Google's Course](https://www.coursera.org/learn/computer-networking?specialization=google-it-support) (_Full Course_)
+* [Microsoft Course](https://www.youtube.com/watch?v=svkGASq8mNM&t=9772s) (_Full Course_)
+* [Ravindrababu Ravula](https://www.youtube.com/watch?v=UXMIxCYZu8o&list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j) (_Full Course_)
 * [NetworKING CCNA Course](https://www.youtube.com/watch?v=n2D1o-aM-2s&list=PLh94XVT4dq02frQRRZBHzvj2hwuhzSByN)
-* [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
+* [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_) (_Full Course_)
 * [PowerCert Animated Videos](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg)
 
-### Websites
-* [Online Lecture Notes](https://www.cse.iitk.ac.in/users/dheeraj/cs425//)
-* [Textbook Slides](http://www-net.cs.umass.edu/kurose-ross-ppt-6e/)
-* [Create a Subnet: Cybrary](https://www.cybrary.it/skill-certification-course/subnetting-certification-training-course/)
-
-### Specific Topics
 * [Domain Name Servers(DNS)](https://www.youtube.com/watch?v=72snZctFFtA&t=1s)
 * [Dynamic Host Configuration Protocol(DHCP)](https://www.youtube.com/watch?v=IUOVSIKj6GU&t=1s)
 * [Simple Mail Transfer Protocol(SMTP)](https://www.youtube.com/watch?v=j7kMZD81hec&t=1s)
 * [Network Address Translation (NAT)](https://www.youtube.com/watch?v=QBqPzHEDzvo)
 
-## Guidelines
-The textbook is certainly worth a read. Solutions to numericals can be found in the manuals in the drive. Google's networks course is a recommended supplement for beginners. PowerCert covers speicifc topics that you can search for. The reference book can be read for anyone looking at a deeper insight into design techniques. Wireshark can be entirely completed using the lab resources provided in the drive. 
+## Websites
 
-## Drive
-* [Computer Networks: Textbooks, References & Manuals](https://drive.google.com/open?id=1pLqjXFU2FkhHsaCkN_-0Vz1xtS4c9iDl)
-
-This drive contains
-* Textbook: Computer Networks: A Top Down Approach, Kurose & Ross.
-* Solution Manual for Textbook.
-* Reference Books: Tannenbaum, Computer Networks: A Systems Approach, DCN and TCP/IP by Forouzan.
-* Solution Manuals for Reference books. 
-* Lab Resources
+* [Online Lecture Notes](https://www.cse.iitk.ac.in/users/dheeraj/cs425//)
+* [Textbook Slides](http://www-net.cs.umass.edu/kurose-ross-ppt-6e/)
+* [Create a Subnet: Cybrary](https://www.cybrary.it/skill-certification-course/subnetting-certification-training-course/)
