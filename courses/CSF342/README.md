@@ -3,7 +3,7 @@
 
 ## Overview
 
-This course aims at introducing the concept of Computer Architecture. It involves design aspects, and deals with the current trends in Computing Architecture and Organisation. It mostly focuses on `[MIPS architecture`](https://en.wikipedia.org/wiki/MIPS_architecture) whereas topics such as [`Computer Arithmetic`](https://andybargh.com/fixed-and-floating-point-binary/), [`Datapath design`](https://en.m.wikipedia.org/wiki/Datapath), [`Pipelining`](https://en.wikipedia.org/wiki/Instruction_pipelining), [`Memory  Organisation`](https://www.geeksforgeeks.org/cache-memory/) and [`I/O Organisation`](https://www.studytonight.com/computer-architecture/input-output-organisation) are given utmost attention. The course also features lab tutorials mostly based upon MIPS Assembly and Verilog HDL.
+This course aims at introducing the concept of Computer Architecture. It involves design aspects, and deals with the current trends in Computing Architecture and Organisation. It mostly focuses on [`MIPS architecture`](https://en.wikipedia.org/wiki/MIPS_architecture) whereas topics such as [`Computer Arithmetic`](https://andybargh.com/fixed-and-floating-point-binary/), [`Datapath design`](https://en.m.wikipedia.org/wiki/Datapath), [`Pipelining`](https://en.wikipedia.org/wiki/Instruction_pipelining), [`Memory  Organisation`](https://www.geeksforgeeks.org/cache-memory/) and [`I/O Organisation`](https://www.studytonight.com/computer-architecture/input-output-organisation) are given utmost attention. The course also features lab tutorials mostly based upon MIPS Assembly and Verilog HDL.
 
 
 ## Navigation
