@@ -53,6 +53,10 @@ OpenLib.cs is a collaborative effort to make textbooks, solution manuals and oth
 *   This repository provides links to the required study material such as **textbooks**, **solution manuals** and **reference books**.
 *   Copies of the study material can be borrowed from the library while appearing for **open-book exams**. Moreover, printouts of the same can also be taken into the exam hall if required. Written notes are also allowed.
 
+## Tracks
+
+![Computer Science Tracks](Tracks.png)
+
 ## Communities
 
 *   [r/AskComputerScience](https://www.reddit.com/r/AskComputerScience/)
