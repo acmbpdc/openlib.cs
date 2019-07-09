@@ -33,16 +33,16 @@ Topics include Ancient ciphers, modern stream and block ciphers, `DES`, `AES`, `
 *   [VisualCrypto](https://github.com/ageron/visual_crypto)
 
 ## Videos
-*   [Cryptography I, Stanford University](https://www.coursera.org/learn/crypto?)
-*   [Cryptography Lecture Series](https://www.youtube.com/playlist?list=PL2jrku-ebl3H50FiEPr4erSJiJHURM9BX)
-*   [Khan Academy: Cryptography Series](https://www.khanacademy.org/computing/computer-science/cryptography)
+*   [Cryptography I, *Stanford University*](https://www.coursera.org/learn/crypto?)
+*   [Cryptography Lecture Series, *Christof Paar*](https://www.youtube.com/playlist?list=PL2jrku-ebl3H50FiEPr4erSJiJHURM9BX)
+*   [Journey Into Cryptography, *Khan Academy*](https://www.khanacademy.org/computing/computer-science/cryptography)
 
 ## Websites
 *   [Understanding Cryptography: Slides, Problems & Links](http://www.crypto-textbook.com/)
 *   [Modular Arithmetic Calculator](http://users.wpi.edu/~martin/mod.html)
 *   [Ancient Ciphers](http://rumkin.com/tools/cipher/)
 *   [Cryptool](https://www.cryptool.org/en/)
-*   [Sobolven's Github Repo on Cryptography](https://github.com/sobolevn/awesome-cryptography)
+*   [Github Repo on Cryptography, *Sobolven*](https://github.com/sobolevn/awesome-cryptography)
 
 
 ## Apps
