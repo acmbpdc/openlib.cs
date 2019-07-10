@@ -33,7 +33,10 @@ This course has the following prerequisites :
 | [Inside the machine : An Illustrated Introduction to Microprocessors and Computer Architecture](https://drive.google.com/file/d/1_Xvj7vijj6chKM6tPglo2Ny_ZItzeDUd/view?usp=sharing) | Jon Stokes |
 | [Computer Organization and Design Solutions](https://drive.google.com/file/d/1IIsDVOpq5G7OIQZE_DVBm0lNN-AsCX6c/view?usp=sharing) | David A. Patterson, John L. Hennessy |
 | [MIPS Assembly Language Programming](https://drive.google.com/file/d/14cV0euXsj2bGjfiDUaoyrjV8JSl7moJQ/view?usp=sharing)| Robert Britton | 
-| [Verilog HDL: A Guide to Digital Design and Synthesis](https://drive.google.com/file/d/1Jsir-0wUtU4odRxciu5W4Kj0tD2lauqi/view?usp=sharing) | Samir Palnitkar | 2nd
+| [Verilog HDL: A Guide to Digital Design and Synthesis](https://drive.google.com/file/d/1Jsir-0wUtU4odRxciu5W4Kj0tD2lauqi/view?usp=sharing) | Samir Palnitkar | 2nd |
+| [Computer System Architecture](https://drive.google.com/open?id=1m7yQj3PseHdS1lb3Shg07fin1qQUVxMB)| Morris Mano | 
+| [Solution Manual to Accompany Computer System Architecture](https://drive.google.com/open?id=1t11HHEnuweWS2-kjUXje2j27Qy7bFKYf)| Morris Mano | 
+| [Structured Computer Organization](https://drive.google.com/open?id=1fVYBSMM0VX-cqI6R1-ZzIGtB61kEXwEd)| Tanenbaum | 6th (2013) |
 
 ## Code
 
