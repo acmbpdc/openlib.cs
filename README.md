@@ -1,6 +1,6 @@
 # OpenLib.cs
 
-OpenLib.cs is a collaborative effort to make textbooks, solution manuals and other resources freely available for students who are currently pursuing the following courses (or their equivalents) at university. 
+OpenLib.cs is a collaborative project to make textbooks, references, solution manuals and other resources freely available for students who are currently pursuing the following courses (or their equivalents) at university. As an open project, any member of the community can contribute his/her share to build an index of computer science references across the web. 
 
 ## Course Navigation
 
@@ -53,8 +53,6 @@ OpenLib.cs is a collaborative effort to make textbooks, solution manuals and oth
 *   This repository provides links to the required study material such as **textbooks**, **solution manuals** and **reference books**.
 *   Copies of the study material can be borrowed from the library while appearing for **open-book exams**. Moreover, printouts of the same can also be taken into the exam hall if required. Written notes are also allowed.
 
-## Tracks
-
 ![Computer Science Tracks](Tracks.png)
 
 ## Communities
@@ -72,6 +70,23 @@ OpenLib.cs is a collaborative effort to make textbooks, solution manuals and oth
 
 *   [Crash Course Computer Science, *Crash Course*](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 *   [Map of Computer Science, *Domain of Science*](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+
+## General Reference
+
+| Title | Author(s) | Edition |
+| -------------|-------------|:-----:|
+| [Computer Science Distilled](https://drive.google.com/open?id=1lpWLMdcGXQnHV-sB2aP07oWgqrG0srIA) | Ferreria | (2017) |
+| [The Art Of Computer Programming: Volume 1, Fundamental Algorithms](https://drive.google.com/open?id=1J3jI4P1MRzRYHmZaBy5uhCik7Ele292H) | Donald Knuth | 3rd (1997) |
+| [The Art Of Computer Programming: Volume 2, Seminumerical Algorithms](https://drive.google.com/open?id=1wkRNZxR8xp4emNv-3QJ3gIj9VQtD2_EY) | Donald Knuth | 3rd (1997) |
+| [The Art Of Computer Programming: Volume 3, Sorting and Searching](https://drive.google.com/open?id=1v_oupnWGeLtTmOcJojEYBHVuYYLHJh9R) | Donald Knuth | 3rd (1997) |
+| [The Art Of Computer Programming: Volume 4a, Combinatorial Algorithms Part I](https://drive.google.com/open?id=1_BQyJ127DMrcMV8l_i-jbdGfOgpdLolc) | Donald Knuth | 1st (2011) |
+| [Essays in Computing Science](https://drive.google.com/open?id=1h9NkxRzFUC4V9yYzJDCxHfmLHnmswTIw) | C.A.R Hoare & CB Jones | (1989) |
+| [Programming Pearls](https://drive.google.com/open?id=1rOf06WwpXhj07DB-F6KHr7kMJw4jLoMT) | Jon Bentley | 2nd (2000) |
+| [Concrete Mathematics: A Foundation for Computer Science](https://drive.google.com/open?id=1ZoNH96efRaWCIVTaGs4wmYJuu_ErqhJ_) | Graham, Knuth & Patashnik | 2nd (1994) |
+| [Structure & Intepretation of Computer Programs](https://drive.google.com/open?id=1oBMC4nuOaiVSCLK2-qlq0F8M8rWzAYOY) | Abelson & The Sussmans | 2nd (1996) |
+| [The Pragmatic Programmer: From Journeyman to Master](https://drive.google.com/open?id=1oBMC4nuOaiVSCLK2-qlq0F8M8rWzAYOY) | Hunt & Thomas | 2nd (2010) |
+
+
 
 ## Competitive Programming
 
