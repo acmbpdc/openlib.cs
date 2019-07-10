@@ -76,6 +76,7 @@ OpenLib.cs is a collaborative project to make textbooks, references, solution ma
 | Title | Author(s) | Edition |
 | -------------|-------------|:-----:|
 | [Computer Science Distilled](https://drive.google.com/open?id=1lpWLMdcGXQnHV-sB2aP07oWgqrG0srIA) | Ferreria | (2017) |
+| [Foundations of Computer Science](https://drive.google.com/open?id=1CUdvGahzvtCM3c9GEQBvGClvnzW64Etr) | Forouzan | (2018) |
 | [The Art Of Computer Programming: Volume 1, Fundamental Algorithms](https://drive.google.com/open?id=1J3jI4P1MRzRYHmZaBy5uhCik7Ele292H) | Donald Knuth | 3rd (1997) |
 | [The Art Of Computer Programming: Volume 2, Seminumerical Algorithms](https://drive.google.com/open?id=1wkRNZxR8xp4emNv-3QJ3gIj9VQtD2_EY) | Donald Knuth | 3rd (1997) |
 | [The Art Of Computer Programming: Volume 3, Sorting and Searching](https://drive.google.com/open?id=1v_oupnWGeLtTmOcJojEYBHVuYYLHJh9R) | Donald Knuth | 3rd (1997) |
