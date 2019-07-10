@@ -9,7 +9,6 @@ DBMS teaches you all about database creation and management. You will pick up My
 *   [Textbooks](#textbooks)
 *   [Videos](#videos)
 *   [Websites](#websites)
-*   [Guidelines](#guidelines)
 
 ## Prerequisites
 This course has no prerequisites.
@@ -37,10 +36,3 @@ This course has no prerequisites.
 
 * [SQL Tutorial, W3Schools](https://www.w3schools.com/sql/)
 * [DBMS Tutorial, W3Schools](https://www.w3schools.in/dbms/)
-
-
-## Guidelines
-The solutions for each chapter of the textbook can be found on the companion website. The course is a good place to learn SQL in depth as you will have repeated lab exercises on using some SQL functions. Use the SQl tutorial link to achieve this. Knowledge Gate's videos can be used for the rest. It takes a while to view, even at 2x. 
-
-* Recommended Approach: Videos -> Silberschatz/RaghuRamakrishna reading based on your preference -> Practice Exercises/Papers
-
