@@ -34,6 +34,9 @@ This course is a prerequisite for :
 | [Data Structures and Algorithms in C++](https://drive.google.com/open?id=17lgGGjhuI_myp5oz-m8GLnonbWpVa2A4) | Adam Drozdek | 4th (2013) |
 | [Data Structures and Algorithm Analysis in Java](https://drive.google.com/open?id=1Mim-tKxsLnllB0chx6x9mGb19Nn8hw7g) | Mark Allen Weiss | 3rd (2012) |
 | [Data Structures and Algorithms in Python](https://drive.google.com/open?id=1BiPZSJ--KaJd-Tt8F1poDAhboI74Ff3s) | Michael T. Goodrich, Roberto Tamassia & Michael H. Goldwasser | 1st (2013) |
+| [Data Structures and Algorithms Made Easy](https://drive.google.com/open?id=1lDx8YvxHzBDK6rMbjt15syeAtXqQrXEG) | Narasimha Karumanchi | 1st (2010) |
+| [Algorithms Part I - Princeton](https://drive.google.com/open?id=10co0mZmo2CNqthb7IRzqOBSyhP1AeB4U) | Sedgewick & Wayne | 4th (2014) |
+| [Algorithms + Data Structures = Programs](https://drive.google.com/open?id=17xSrA6wTmNGa7_v60xDnVaO4gwcFfMLL) | Niklaus Wirth | 1st (1978) |
 
 ## Code
 
