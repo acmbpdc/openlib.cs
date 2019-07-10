@@ -30,10 +30,12 @@ OpenLib.cs is a collaborative project to make textbooks, references, solution ma
 
 ### Electives
 
-*  [Cryptography](./courses/CSF463)
-*  [Service Oriented Computing](./courses/CSF466)
 *  [Artificial Intelligence](./courses/CSF)
 *  [Data Mining](./courses/CSF)
+*  [Information Retrieval](/courses/CSF4)
+*  [Cryptography](./courses/CSF463)
+*  [Number Theory](/courses/CSF4)
+*  [Service Oriented Computing](./courses/CSF466)
 
 ## Usage
 
@@ -62,8 +64,8 @@ OpenLib.cs is a collaborative project to make textbooks, references, solution ma
 *   [r/Programming](https://www.reddit.com/r/programming/)
 *   [GeeksforGeeks](https://www.geeksforgeeks.org/)
 *   [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
-*   [Code.org](https://www.youtube.com/channel/UCJyEBMU1xVP2be1-AoGS1BA)
-*   [Brilliant](https://brilliant.org/computer-science/) 
+*   [Code.Org](https://www.youtube.com/channel/UCJyEBMU1xVP2be1-AoGS1BA)
+*   [Brilliant.Org](https://brilliant.org/computer-science/) 
 
 
 ## Videos
@@ -80,28 +82,9 @@ OpenLib.cs is a collaborative project to make textbooks, references, solution ma
 | [The Art Of Computer Programming: Volume 1, Fundamental Algorithms](https://drive.google.com/open?id=1J3jI4P1MRzRYHmZaBy5uhCik7Ele292H) | Donald Knuth | 3rd (1997) |
 | [The Art Of Computer Programming: Volume 2, Seminumerical Algorithms](https://drive.google.com/open?id=1wkRNZxR8xp4emNv-3QJ3gIj9VQtD2_EY) | Donald Knuth | 3rd (1997) |
 | [The Art Of Computer Programming: Volume 3, Sorting and Searching](https://drive.google.com/open?id=1v_oupnWGeLtTmOcJojEYBHVuYYLHJh9R) | Donald Knuth | 3rd (1997) |
-| [The Art Of Computer Programming: Volume 4a, Combinatorial Algorithms Part I](https://drive.google.com/open?id=1_BQyJ127DMrcMV8l_i-jbdGfOgpdLolc) | Donald Knuth | 1st (2011) |
+| [The Art Of Computer Programming: Volume 4a, Combinatorial Algorithms](https://drive.google.com/open?id=1_BQyJ127DMrcMV8l_i-jbdGfOgpdLolc) | Donald Knuth | 1st (2011) |
 | [Essays in Computing Science](https://drive.google.com/open?id=1h9NkxRzFUC4V9yYzJDCxHfmLHnmswTIw) | C.A.R Hoare & CB Jones | (1989) |
 | [Programming Pearls](https://drive.google.com/open?id=1rOf06WwpXhj07DB-F6KHr7kMJw4jLoMT) | Jon Bentley | 2nd (2000) |
 | [Concrete Mathematics: A Foundation for Computer Science](https://drive.google.com/open?id=1ZoNH96efRaWCIVTaGs4wmYJuu_ErqhJ_) | Graham, Knuth & Patashnik | 2nd (1994) |
 | [Structure & Intepretation of Computer Programs](https://drive.google.com/open?id=1oBMC4nuOaiVSCLK2-qlq0F8M8rWzAYOY) | Abelson & The Sussmans | 2nd (1996) |
 | [The Pragmatic Programmer: From Journeyman to Master](https://drive.google.com/open?id=1oBMC4nuOaiVSCLK2-qlq0F8M8rWzAYOY) | Hunt & Thomas | 2nd (2010) |
-
-
-
-## Competitive Programming
-
-This section is not part of the coursework, however if you are interested in algorithms, then try out practice problems and participate in programming tournaments in the following sites.
-
-* [Hackerrank](https://www.hackerrank.com/dashboard)
-* [CodeForces](https://codeforces.com/)
-* [CodeChef](https://www.codechef.com/)
-* [HackerEarth](https://www.hackerearth.com/practice/)
-* [LeetCode](https://leetcode.com/)
-* [topcoder](https://www.topcoder.com/)
-* [Daily Coding Problem](https://www.dailycodingproblem.com/)
-* [Project Euler](https://projecteuler.net/archives)
-* [Sphere Online Judge](https://www.spoj.com/)
-* [A² Online Judge](https://a2oj.com/)
-* [Coding Ninjas](https://www.codingninjas.in/)
-* [Coding Blocks](https://codingblocks.com/)
