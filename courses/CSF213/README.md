@@ -26,10 +26,11 @@ This course has the following prerequisites :
 | -------------|-------------|:-----:|
 | [Object Oriented Design & Patterns](https://drive.google.com/file/d/1WkjRyU7aGcr01MpJ-iQCTeXhFLUHeH7T/view?usp=sharing) | Cay Horstmann | 2nd (2006) |
 | [Java The Complete Reference](https://drive.google.com/file/d/1FWUTT4x8BI-v0_SIf50HHNvyKdPw1gYq/view?usp=sharing)| Herbert Schildt | 9th (2014) |
+| [C++: An Object Oriented Approach](https://drive.google.com/file/d/1FWUTT4x8BI-v0_SIf50HHNvyKdPw1gYq/view?usp=sharing)| Forouzan & Gilberg | (2019) |
 
 ## Code
 
-*   [object-oriented-programming-lab, *Dont be a Douche*](https://github.com/dontbeadouche/object-oriented-programming-lab)
+*   [object-oriented-programming-lab, *DBAD*](https://github.com/dontbeadouche/object-oriented-programming-lab)
 
 ## Videos
 
