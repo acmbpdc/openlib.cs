@@ -1,4 +1,4 @@
-# Quantum Computing & Quantum Information Systems
+# Quantum Computing 
 
 ## Navigation
 
