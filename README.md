@@ -34,7 +34,7 @@ OpenLib.cs is a collaborative project to make textbooks, references, solution ma
 *  [Data Mining](./courses/CSF415)
 *  [Information Retrieval](/courses/CSF469)
 *  [Cryptography](./courses/CSF463)
-*  [Number Theory](/courses/CSF231)
+*  [Number Theory](./courses/CSF231)
 *  [Service Oriented Computing](./courses/CSF466)
 *  [Quantum Computing](./courses/CSF386)
 
