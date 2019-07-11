@@ -88,3 +88,8 @@ OpenLib.cs is a collaborative project to make textbooks, references, solution ma
 | [Concrete Mathematics: A Foundation for Computer Science](https://drive.google.com/open?id=1ZoNH96efRaWCIVTaGs4wmYJuu_ErqhJ_) | Graham, Knuth & Patashnik | 2nd (1994) |
 | [Structure & Intepretation of Computer Programs](https://drive.google.com/open?id=1oBMC4nuOaiVSCLK2-qlq0F8M8rWzAYOY) | Abelson & The Sussmans | 2nd (1996) |
 | [The Pragmatic Programmer: From Journeyman to Master](https://drive.google.com/open?id=1oBMC4nuOaiVSCLK2-qlq0F8M8rWzAYOY) | Hunt & Thomas | 2nd (2010) |
+| [Selected Writings on Computing: A Personal Perspective](https://drive.google.com/open?id=1jenl1eMyw-mG1vN5oSUPZuYAX1ArKvuL) | Edsger W Dijkstra | (1982) |
+| [On Computability With An Application To The Entscheidungsproblem](https://drive.google.com/open?id=1PCzqv5qfSoWmoIbTGhrtmuUxWkWwzNKo) | Alan M Turing | (1936) |
+| [A Protocol for Packet Network Intercommunication](https://drive.google.com/open?id=1-ftaggSsAjri7nYnrEuEuHAvJyEJJ2a9) | Vint Cerf & Bob Kahn | (1974) |
+| [Information Management: A Proposal](https://www.w3.org/History/1989/proposal.html) |Tim Berners Lee | (1990) |
+| [List Of Important Publications In Computer Science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science) | Wikipedia |
