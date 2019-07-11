@@ -36,6 +36,7 @@ This course is a prerequisite for :
 *   [Operating System, *Knowedge Gate*](https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)
 *   [Operating System, *Gate Smashers*](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
 *   [Operating Systems, *CrashCourse*](https://www.youtube.com/watch?v=26QPDBe-NB8)
+*   [Memory Management, *TechGuiders*](https://www.youtube.com/playlist?list=PLskQvPDUk0sJnmLgi4qBRyshlmHydbsAJ)
 
 ## Websites
 *   [Operating Systems, *GeeksforGeeks*](https://www.geeksforgeeks.org/operating-systems/)
