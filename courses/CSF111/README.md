@@ -29,7 +29,7 @@ This course has no prerequisites.
 
 ## Code
 
-*   [CPrograms, *Eshwaran Venkat*](https://github.com/eash-98/CPrograms)
+*   [CPrograms, *EV*](https://github.com/eash-98/CPrograms)
 
 ## Videos
 
