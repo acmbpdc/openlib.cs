@@ -28,7 +28,7 @@ This course has the following prerequisites:
 | [Programming Languages : Principles and Practice](https://drive.google.com/file/d/1vWsMkAeMeVybZw0KidUIs19W2EOWQYU3/view?usp=sharing)| Kenneth C. Louden & Kenneth A. Lambert | 3rd
 | [Programming Language Design Concepts](https://drive.google.com/file/d/1eJ2lWu91j4GCYCCWxZdogakeFmqmAgjx/view?usp=sharing) | David A. Watt & William Findlay | 
 | [Concepts of Programming Languages](https://drive.google.com/file/d/1CPYmIegnpRCKtjqOALLp9kmyUaYEfv1i/view?usp=sharing) | Robert W. Sebesta | 11th
-| [Compilers : Principles, Techniques, & Tools](https://drive.google.com/file/d/1AOm3Pduu5asup7C_zEN2PQoX2cflUufm/view?usp=sharing) | Alfred V. Aho, Monica S. Lam, Ravi Sethi & Jeffrey D. Ullman | 2nd
+| [Compilers : Principles, Techniques & Tools](https://drive.google.com/file/d/1AOm3Pduu5asup7C_zEN2PQoX2cflUufm/view?usp=sharing) | Alfred V. Aho, Monica S. Lam, Ravi Sethi & Jeffrey D. Ullman | 2nd
 
 ## Videos
 
