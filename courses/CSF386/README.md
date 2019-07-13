@@ -9,13 +9,13 @@
 
 ## Prerequisites
 
-This course has the following prerequisites
+This course has the following prerequisites:
 
-* [Theory of Computation](/courses/CSF222)
-* [Design & Analysis of Algorithms](/courses/CSF222)
-* [Computer Architecture](/courses/CSF222)
-* [Cryptography](/courses/CSF222)
-* [Principles of Programming Languages](/courses/CSF222)
+*	[Theory of Computation](/courses/CSF222)
+*	[Design & Analysis of Algorithms](/courses/CSF222)
+*	[Computer Architecture](/courses/CSF222)
+*	[Cryptography](/courses/CSF222)
+*	[Principles of Programming Languages](/courses/CSF222)
 
 ## Textbooks
 
@@ -33,4 +33,3 @@ This course has the following prerequisites
 ## Apps
 
 *   [Quantum](https://play.google.com/store/apps/details?id=brychta.stepan.quantum_en&hl=en_IN)
-

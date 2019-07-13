@@ -1,6 +1,7 @@
 # Database Systems
 
 ## Overview
+
 DBMS teaches you all about database creation and management. You will pick up MySQL as a language in the lab. In the theory courses, you wil learn about [`ER Diagrams`](https://en.wikipedia.org/wiki/Entity–relationship_model), [`Database Normalization`](https://en.wikipedia.org/wiki/Database_normalization), [`Data Storage, Indexing`](https://en.wikipedia.org/wiki/Database_index) and [`Transaction Management`](https://en.wikipedia.org/wiki/Database_transaction). 
 
 ## Navigation
@@ -11,6 +12,7 @@ DBMS teaches you all about database creation and management. You will pick up My
 *   [Websites](#websites)
 
 ## Prerequisites
+
 This course has no prerequisites.
 
 ## Textbooks
@@ -26,13 +28,13 @@ This course has no prerequisites.
 
 ## Videos
 
-* [SQL Tutorial, freeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=11s)
-* [Learn MySQL in one video: Derek Banas](https://www.youtube.com/watch?v=yPu6qV5byu4)
-* [DBMS Tutorial, Knowedge Gate](https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV)
-* [DBMS Tutorial, Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
-* [Functional Dependency & Normalization, Knowledge Gate](https://www.youtube.com/playlist?list=PLeNFpOhruv2iM5EFv04SH4d84AO9WD2bA)
+*	[SQL Tutorial, *freeCodeCamp*](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=11s)
+*	[Learn MySQL in one video, *Derek Banas*](https://www.youtube.com/watch?v=yPu6qV5byu4)
+*	[DBMS Tutorial, *Knowedge Gate*](https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV)
+*	[DBMS Tutorial, *Gate Smashers*](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
+*	[Functional Dependency & Normalization, *Knowledge Gate*](https://www.youtube.com/playlist?list=PLeNFpOhruv2iM5EFv04SH4d84AO9WD2bA)
 
 ## Websites
 
-* [SQL Tutorial, W3Schools](https://www.w3schools.com/sql/)
-* [DBMS Tutorial, W3Schools](https://www.w3schools.in/dbms/)
+*	[SQL Tutorial, *W3Schools*](https://www.w3schools.com/sql/)
+*	[DBMS Tutorial, *W3Schools*](https://www.w3schools.in/dbms/)

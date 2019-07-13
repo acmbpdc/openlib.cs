@@ -1,5 +1,7 @@
 # Data Structures & Algorithms
 
+## Overview
+
 DSA is really the bread and butter for good programming practices. Organizing code and data in your program using the tools you learn in this course will allow you to perform well in technical/coding interviews and make you a proficient programmer.
 
 ## Navigation
@@ -13,16 +15,16 @@ DSA is really the bread and butter for good programming practices. Organizing co
 
 ## Prerequisites
 
-This course has the following prerequisites :
+This course has the following prerequisites:
 
 *   [Discrete Structures for CS](../CSF222)
 *   [Computer Programming](../CSF111)
 
-This course is a prerequisite for : 
+This course is a prerequisite for: 
 
 *   [Design & Analysis of Algorithms](../CSF364)
 
-# Textbooks
+## Textbooks
 
 | Title | Author(s) | Edition |
 | -------------|-------------|:-----:|

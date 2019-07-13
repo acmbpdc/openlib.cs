@@ -12,11 +12,15 @@ In this course you will study the design of the 8086 Intel Microprocessor, and b
 
 ## Prerequisites
 
-This course is a prerequisite for : 
-* [Compiler Construction](../CSF363)
+This course is a prerequisite for:
+
+*	[Compiler Construction](../CSF363)
 
 This course has the following prerequisites:
-* [Digital Design](../CSF215)
+
+*	[Digital Design](../CSF215)
+
+## Textbooks
 
 | Title | Author(s) | Edition |
 | -------------|-------------|:-----:|
@@ -27,6 +31,5 @@ This course has the following prerequisites:
 
 ## Videos
 
-* [x86 Assembly Programming Tutorial](https://www.youtube.com/watch?v=zEuvNYe7WG0)
-* [x86 Assembly](https://www.youtube.com/watch?v=vWlAg-pwMsM&list=PLan2CeTAw3pFOq5qc9urw8w7R-kvAT8Yb)
-
+*	[x86 Assembly Programming Tutorial](https://www.youtube.com/watch?v=zEuvNYe7WG0)
+*	[x86 Assembly](https://www.youtube.com/watch?v=vWlAg-pwMsM&list=PLan2CeTAw3pFOq5qc9urw8w7R-kvAT8Yb)

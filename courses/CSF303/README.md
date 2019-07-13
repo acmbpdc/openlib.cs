@@ -1,10 +1,12 @@
 # Computer Networks
 
+## Overview
+
 The entire CN course covers all five layers of the **Internet protocol stack**. namely: 
-* The **Application** layer where mails, http, websites, etc exist. 
-* The **Transport** layer: TCP/UDP protocols
-* The **Network** layer: IP protocols and routing. 
-* The **Physical** and **Data Link** layers: for packaging and moving data across wires
+*	The **Application** layer where mails, http, websites, etc exist. 
+*	The **Transport** layer: TCP/UDP protocols
+*	The **Network** layer: IP protocols and routing. 
+*	The **Physical** and **Data Link** layers: for packaging and moving data across wires
 
 Kurose & Ross is certainly worth a read. Google's networks course is a recommended supplement for beginners. PowerCert covers speicifc topics that you can search for. The reference books can be read for anyone looking at a deeper insight into design techniques.
 
@@ -29,20 +31,20 @@ This course has no prerequisites.
 
 ## Videos
 
-* [Google's Course](https://www.coursera.org/learn/computer-networking?specialization=google-it-support) (_Full Course_)
-* [Microsoft Course](https://www.youtube.com/watch?v=svkGASq8mNM&t=9772s) (_Full Course_)
-* [Ravindrababu Ravula](https://www.youtube.com/watch?v=UXMIxCYZu8o&list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j) (_Full Course_)
-* [NetworKING CCNA Course](https://www.youtube.com/watch?v=n2D1o-aM-2s&list=PLh94XVT4dq02frQRRZBHzvj2hwuhzSByN)
-* [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_) (_Full Course_)
-* [PowerCert Animated Videos](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg)
+*	[Google's Course](https://www.coursera.org/learn/computer-networking?specialization=google-it-support) *(Full Course)*
+*	[Microsoft Course](https://www.youtube.com/watch?v=svkGASq8mNM&t=9772s) *(Full Course)*
+*	[Ravindrababu Ravula](https://www.youtube.com/watch?v=UXMIxCYZu8o&list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j) *(Full Course)*
+*	[NetworKING CCNA Course](https://www.youtube.com/watch?v=n2D1o-aM-2s&list=PLh94XVT4dq02frQRRZBHzvj2hwuhzSByN)
+*	[Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_) *(Full Course)*
+*	[PowerCert Animated Videos](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg)
 
-* [Domain Name Servers(DNS)](https://www.youtube.com/watch?v=72snZctFFtA&t=1s)
-* [Dynamic Host Configuration Protocol(DHCP)](https://www.youtube.com/watch?v=IUOVSIKj6GU&t=1s)
-* [Simple Mail Transfer Protocol(SMTP)](https://www.youtube.com/watch?v=j7kMZD81hec&t=1s)
-* [Network Address Translation (NAT)](https://www.youtube.com/watch?v=QBqPzHEDzvo)
+*	[Domain Name Servers(DNS)](https://www.youtube.com/watch?v=72snZctFFtA&t=1s)
+*	[Dynamic Host Configuration Protocol(DHCP)](https://www.youtube.com/watch?v=IUOVSIKj6GU&t=1s)
+*	[Simple Mail Transfer Protocol(SMTP)](https://www.youtube.com/watch?v=j7kMZD81hec&t=1s)
+*	[Network Address Translation (NAT)](https://www.youtube.com/watch?v=QBqPzHEDzvo)
 
 ## Websites
 
-* [Online Lecture Notes](https://www.cse.iitk.ac.in/users/dheeraj/cs425//)
-* [Textbook Slides](http://www-net.cs.umass.edu/kurose-ross-ppt-6e/)
-* [Create a Subnet: Cybrary](https://www.cybrary.it/skill-certification-course/subnetting-certification-training-course/)
+*	[Online Lecture Notes](https://www.cse.iitk.ac.in/users/dheeraj/cs425//)
+*	[Textbook Slides](http://www-net.cs.umass.edu/kurose-ross-ppt-6e/)
+*	[Create a Subnet: Cybrary](https://www.cybrary.it/skill-certification-course/subnetting-certification-training-course/)

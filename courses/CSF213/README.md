@@ -1,5 +1,6 @@
-
 # Object Oriented Programming
+
+## Overview
 
 This course gives an in-depth understanding of Object-Oriented programming using the Java programming language, Object Oriented Design, and Design Patterns. The main concepts discussed include [`Objects`](https://en.wikipedia.org/wiki/Object_(computer_science)), [`Data Abstraction`](https://en.wikipedia.org/wiki/Abstraction_(computer_science)#Abstraction_in_object_oriented_programming), [` Data Encapsulation`](https://en.wikipedia.org/wiki/Object-oriented_programming#Encapsulation), [`Polymorphism`](https://en.wikipedia.org/wiki/Object-oriented_programming#Polymorphism), and [`Inheritance`](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)). The course also offers proficient lab tutorials and experiments in order for the students to master the art of writing object oriented code. 
 
@@ -16,7 +17,7 @@ This course gives an in-depth understanding of Object-Oriented programming using
 
 ## Prerequisites
 
-This course has the following prerequisites :
+This course has the following prerequisites:
 
 *   [Computer Programming](../CSF111)
 
@@ -42,7 +43,7 @@ This course has the following prerequisites :
 ## Websites
 
 *   [Java Programming Language, *GeeksforGeeks*](https://www.geeksforgeeks.org/java/)
-*   [Java Tutorial, *JavaTpoint*](https://www.javatpoint.com/java-tutorial)
+*   [Java Tutorial, *Javatpoint*](https://www.javatpoint.com/java-tutorial)
 *   [Object Oriented Programming in Java, *Coursera*](https://www.coursera.org/learn/object-oriented-java)
 
 

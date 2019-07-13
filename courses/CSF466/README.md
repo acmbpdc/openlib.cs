@@ -1,5 +1,7 @@
 # Service Oriented Computing
 
+## Overview
+
 Course covers `XML` and `Web Service Principles` & technology. XML topics include `Signatures`, `Encryption` and `WS security`. Other topics include `PKI`, `SAML`, `Ajax`, `REST` and `SOAP` services. 
 
 ## Navigation
@@ -9,9 +11,12 @@ Course covers `XML` and `Web Service Principles` & technology. XML topics includ
 *   [Videos](#videos)
 
 ## Prerequisites
-*   This course has the following prerequisites
-    * [Object Oriented Programming](../CSF213)
-*   Courses that have similar/overlapping topics include [Cryptography](/courses/CSF463) and [Computer Networks](/courses/CSF303)
+
+This course has the following prerequisites:
+
+* 	[Object Oriented Programming](../CSF213)
+
+Courses that have similar/overlapping topics include [Cryptography](/courses/CSF463) and [Computer Networks](/courses/CSF303)
 
 ## Textbooks
 

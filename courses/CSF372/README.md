@@ -1,5 +1,7 @@
 # Operating Systems
 
+## Overview
+
 OS looks at the underlying principles that govern all operating systems, irrespective of the choice of OS you make. Operating systems are involved in the management and smooth functioning of programs, memory and I/O devices. They bridge the gap between the hardware and the user. Topics covered include [`Scheduling`](https://en.wikipedia.org/wiki/Scheduling_(computing)), [`Synchronization`](https://en.wikipedia.org/wiki/Synchronization_(computer_science)), [`Paging`](https://en.wikipedia.org/wiki/Paging) and more. 
 
 ## Navigation
@@ -13,7 +15,7 @@ OS looks at the underlying principles that govern all operating systems, irrespe
 
 This course has no prerequisites.
 
-This course is a prerequisite for : 
+This course is a prerequisite for: 
 
 *   [Computer Networks](../CSF303)
 
@@ -33,11 +35,13 @@ This course is a prerequisite for :
 | [Solutions To Practice Problems Operating Systems Internals and Design Principles](https://drive.google.com/file/d/1Pih8jrpW8ci415N4BGtmGS66tEXjGmid/view?usp=sharing) | William Stallings | 6th
 
 ## Videos
+
 *   [Operating System, *Knowedge Gate*](https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)
 *   [Operating System, *Gate Smashers*](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
 *   [Operating Systems, *CrashCourse*](https://www.youtube.com/watch?v=26QPDBe-NB8)
 *   [Memory Management, *TechGuiders*](https://www.youtube.com/playlist?list=PLskQvPDUk0sJnmLgi4qBRyshlmHydbsAJ)
 
 ## Websites
+
 *   [Operating Systems, *GeeksforGeeks*](https://www.geeksforgeeks.org/operating-systems/)
-*   [Operating System, *JavaTpoint*](https://www.javatpoint.com/os-tutorial)
+*   [Operating System, *Javatpoint*](https://www.javatpoint.com/os-tutorial)

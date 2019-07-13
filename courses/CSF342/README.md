@@ -1,10 +1,8 @@
-
 # Computer Architecture
 
 ## Overview
 
 This course aims at introducing the concept of Computer Architecture. It involves design aspects, and deals with the current trends in Computing Architecture and Organisation. It mostly focuses on [`MIPS architecture`](https://en.wikipedia.org/wiki/MIPS_architecture) whereas topics such as [`Computer Arithmetic`](https://andybargh.com/fixed-and-floating-point-binary/), [`Datapath design`](https://en.m.wikipedia.org/wiki/Datapath), [`Pipelining`](https://en.wikipedia.org/wiki/Instruction_pipelining), [`Memory  Organisation`](https://www.geeksforgeeks.org/cache-memory/) and [`I/O Organisation`](https://www.studytonight.com/computer-architecture/input-output-organisation) are given utmost attention. The course also features lab tutorials mostly based upon MIPS Assembly and Verilog HDL.
-
 
 ## Navigation
 
@@ -18,7 +16,7 @@ This course aims at introducing the concept of Computer Architecture. It involve
 
 ## Prerequisites
 
-This course has the following prerequisites :
+This course has the following prerequisites:
 
 *   [Microprocessors & Interfacing](../CSF241)
 
@@ -40,24 +38,23 @@ This course has the following prerequisites :
 
 ## Code
 
-* [computer-architecture-lab-programs, *DBAD*](https://github.com/dontbeadouche/computer-architecture-lab-programs)
+*	[computer-architecture-lab-programs, *DBAD*](https://github.com/dontbeadouche/computer-architecture-lab-programs)
 
 ## Videos
 
 *	[MIPS Assembly Programming Tutorial, *Amell Peralta*](https://www.youtube.com/playlist?list=PL5b07qlmA3P6zUdDf-o97ddfpvPFuNa5A)
 *	[MIPS Assembly Architecture/Data path Tutorial, *q liu*](https://www.youtube.com/playlist?list=PLPXsMt57rLthe1kihStAdRgGdj3IZ7WHe)
-* [Computer Architecture Lecture Series, *Carnegie Mellon University*](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq) 
-* [Advanced CPU Designs, *CrashCourse CS*](https://www.youtube.com/watch?v=rtAlC5J1U40)
-* [Computer Architecture, *Princeton*](https://www.coursera.org/learn/comparch)
+* 	[Computer Architecture Lecture Series, *Carnegie Mellon University*](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq) 
+* 	[Advanced CPU Designs, *CrashCourse CS*](https://www.youtube.com/watch?v=rtAlC5J1U40)
+* 	[Computer Architecture, *Princeton*](https://www.coursera.org/learn/comparch)
 
 ## Websites
 
-* [Computer Organization and Architecture Tutorials, *GeeksforGeeks*](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/)
-* [Computer Architecture course, *CCSU*](https://cs.ccsu.edu/~markov/ccsu_courses/385Syllabus.html)
+*	[Computer Organization and Architecture Tutorials, *GeeksforGeeks*](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/)
+*	[Computer Architecture course, *CCSU*](https://cs.ccsu.edu/~markov/ccsu_courses/385Syllabus.html)
 
 
 ## Articles
 
-* [MIPS Assembly Instruction set](https://drive.google.com/file/d/1BALeU_H4ljlzb37aLAAIvElQhalvnVde/view?usp=sharing)
-* [MIPS Reference](https://drive.google.com/file/d/1sBjUZfIpwE-Z5DnzeA-lADrYW0SUd3sh/view?usp=sharing)
-
+*	[MIPS Assembly Instruction set](https://drive.google.com/file/d/1BALeU_H4ljlzb37aLAAIvElQhalvnVde/view?usp=sharing)
+*	[MIPS Reference](https://drive.google.com/file/d/1sBjUZfIpwE-Z5DnzeA-lADrYW0SUd3sh/view?usp=sharing)

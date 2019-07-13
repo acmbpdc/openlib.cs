@@ -1,5 +1,7 @@
 # Cryptography
 
+## Overview
+
 Topics include Ancient ciphers, modern stream and block ciphers, `DES`, `AES`, `Public Key Encryption` & `Key Management`. The course also covers related mathematics in [`number theory`](https://brilliant.org/wiki/number-theory/) and [`group theory`](https://brilliant.org/wiki/group-theory-introduction/).
 
 ## Navigation
@@ -12,6 +14,7 @@ Topics include Ancient ciphers, modern stream and block ciphers, `DES`, `AES`, `
 *   [Apps](#apps)
 
 ## Prerequisites
+
 *   This course has no prerequisites.
 *   Courses that have similar/overlapping topics include [Service Oriented Computing](/courses/CSF466) and [Number Theory](/courses/MATHF2)
 
@@ -28,22 +31,25 @@ Topics include Ancient ciphers, modern stream and block ciphers, `DES`, `AES`, `
 | [Network Security Overview](https://drive.google.com/open?id=1nqJ0-KzcggBg_huWSgSjfm5WNByJwwt5)| Kurose & Ross | - |
 
 ## Code
+
 *   [Cryptography Programs](https://www.github.com/eash-98/Cryptography)
 *   [Cryptography.io for Python](https://cryptography.io/en/latest/)
 *   [VisualCrypto](https://github.com/ageron/visual_crypto)
 
 ## Videos
+
 *   [Cryptography I, *Stanford University*](https://www.coursera.org/learn/crypto?)
 *   [Cryptography Lecture Series, *Christof Paar*](https://www.youtube.com/playlist?list=PL2jrku-ebl3H50FiEPr4erSJiJHURM9BX)
 *   [Journey Into Cryptography, *Khan Academy*](https://www.khanacademy.org/computing/computer-science/cryptography)
 
 ## Websites
+
 *   [Understanding Cryptography: Slides, Problems & Links](http://www.crypto-textbook.com/)
 *   [Modular Arithmetic Calculator](http://users.wpi.edu/~martin/mod.html)
 *   [Ancient Ciphers](http://rumkin.com/tools/cipher/)
 *   [Cryptool](https://www.cryptool.org/en/)
 *   [Github Repo on Cryptography, *Sobolven*](https://github.com/sobolevn/awesome-cryptography)
 
-
 ## Apps
+
 *   [Cryptography: Collections of Ciphers & Hashes](https://play.google.com/store/apps/details?id=com.nitramite.cryptography&hl=en_IN)

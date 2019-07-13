@@ -1,5 +1,7 @@
 # Course Title
 
+## Overview
+
 Course description
 
 ## Navigation
@@ -15,7 +17,11 @@ Course description
 
 ## Prerequisites
 
-Specify if any prerequsites or leave at, This course has no prerequisites.
+This course has the following prerequisites:
+
+* [Course](../CourseNo)
+
+This course has no prerequisites.
 
 ## Textbooks
 
@@ -29,7 +35,7 @@ Specify if any prerequsites or leave at, This course has no prerequisites.
 
 ## Videos
 
-*   [Title, *Author*](Link to video)
+*   [Title, *Channel*](Link to video)
 
 ## Websites
 
@@ -46,3 +52,7 @@ Specify if any prerequsites or leave at, This course has no prerequisites.
 ## Apps
 
 *   [App Name](Link to app)
+
+## Recreational Links
+
+*	[Title, *Author*](Link)

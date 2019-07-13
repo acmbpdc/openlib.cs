@@ -1,5 +1,7 @@
 # Theory of Computation
 
+## Overview
+
 TOC deals with computers as a topic of abstraction. Using the tools from Discrete Mathematics, we construct rigorous [`proofs`](https://en.wikipedia.org/wiki/Mathematical_proof) for computational systems and analyze what problems can be solved by a computer. This subject is also referred to as `Automata Theory` and includes theoretical models such as [`Finite State Machines`](https://brilliant.org/wiki/finite-state-machines/), [`Turing Machines`](https://brilliant.org/wiki/turing-machines/) and more. The ideas presented here are perhaps some of the most abstract, yet elegant pieces of information you will come across in your journey in CS. 
 
 ## Navigation
@@ -12,12 +14,12 @@ TOC deals with computers as a topic of abstraction. Using the tools from Discret
 
 ## Prerequisites
 
-This course has the following prerequisites :
+This course has the following prerequisites:
 
 *   [Discrete Structures for CS](../CSF222)
 *   [Logic in CS](../CSF214)
 
-This course is a prerequisite for :
+This course is a prerequisite for:
 
 *   [Design & Analysis of Algorithms](../CSF364)
 
