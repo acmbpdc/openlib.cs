@@ -94,3 +94,14 @@ OpenLib.cs is a collaborative project to make textbooks, references, solution ma
 | [A Protocol for Packet Network Intercommunication](https://drive.google.com/open?id=1-ftaggSsAjri7nYnrEuEuHAvJyEJJ2a9) | Vint Cerf & Bob Kahn | (1974) |
 | [Information Management: A Proposal](https://www.w3.org/History/1989/proposal.html) |Tim Berners Lee | (1990) |
 | [List Of Important Publications In Computer Science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science) | Wikipedia |
+
+
+## Contributing
+
+Please kindly see the [guidelines](CONTRIBUTING.md) before contributing to this repo.
+
+You can also contribute by sharing! :relaxed:
+
+Share this list with your batchmates, friends or anyone just interested in Computer Science! :hearts:
+
+By connecting more people with information, you are doing everyone a HUGE favor.
