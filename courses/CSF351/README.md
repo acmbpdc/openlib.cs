@@ -35,7 +35,7 @@ This course is a prerequisite for:
 ## Videos
 
 *   [NP-Hard and NP-Complete Problems, *Abdul Bari*](https://www.youtube.com/watch?v=e2cF8a5aAhE&t=10s)
-*   [P vs. NP and the Computational Complexity Zoo, *hackerdashery*](https://www.youtube.com/watch?v=YX40hbAHx3s)
+*   [P vs. NP and the Computational Complexity Zoo, *Hackerdashery*](https://www.youtube.com/watch?v=YX40hbAHx3s)
 *   [Introduction to Theory of Computation, *Neso Academy*](https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev) *(Full Course)*
 *   [Theory of Computation part-1, *Knowledge Gate*](https://www.youtube.com/watch?v=i6JhheV01dU&list=PLmXKhU9FNesQe1bKW0w7APAGiJVlQP8Zx) *(Full Course)*
 *   [Theory of Computation part-1, *Knowledge Gate*](https://www.youtube.com/watch?v=00cXiux2Kjk&list=PLmXKhU9FNesSdCsn6YQqu9DmXRMsYdZ2T) *(Full Course)*
@@ -44,7 +44,7 @@ This course is a prerequisite for:
 ## Websites
 
 *   [Index of TOC, *Prof. K. R. Chowdhary*](http://www.krchowdhary.com/toc/)
-*   [Scott Aaronson](https://www.scottaaronson.com/blog/)
+*   [Shtetl-Optimized, *Scott Aaronson*](https://www.scottaaronson.com/blog/)
 *   [Old Exams and Quizzes, *Marvin K. Nakayama*](https://web.njit.edu/~marvin/cs341/oldexams/)
 
 ## Articles 
