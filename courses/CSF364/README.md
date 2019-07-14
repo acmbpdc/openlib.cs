@@ -2,7 +2,7 @@
 
 ## Overview
 
-DAA reconciles Data Structures & Algorithms with the Theory of Computation. In this course, you will learn to systematically create and  analyze algorithms of your own making and set boundaries on its running time using the notion of Complexity Classes. The course also covers various algorithm design & problem solving strategies such as Divide & Conquer, Dynamic Programming & Approximation Algorithms. 
+DAA reconciles Data Structures & Algorithms with the Theory of Computation. In this course, you will learn to systematically create and  analyze algorithms of your own making and set boundaries on its running time using the notion of `Complexity Classes`. The course also covers various algorithm design & problem solving strategies such as `Divide & Conquer`, `Dynamic Programming` & `Approximation Algorithms`. 
 
 Use CLRS along with the supplementary video material. The polynomial reductions are also present in the Text. For additional information on reductions, refer to the TOC textbook. The coursera course by Tim Roughgarden is recommended. 
 
@@ -46,10 +46,9 @@ This course has the following prerequisites.
 *	[Algorithms Specialization, *Stanford University*](https://www.coursera.org/specializations/algorithms)
 *	[Algorithms, *Abdul Bari*](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 *	[Design and Analysis of Algorithms, *MIT Spring 2015*](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
-*	[Quick Sort](https://www.youtube.com/watch?v=Hoixgm4-P4M&feature=youtu.be)
-*	[Bin Packing](https://www.youtube.com/watch?v=4SEtBCsYpKY&t=355s)
-*	[Four Color Theorem](https://www.youtube.com/watch?v=42-ws3bkrKM&feature=youtu.be)
-*	[Approximation Algorithms](https://www.youtube.com/watch?v=hdch8ioLRqE&feature=youtu.be)
+*	[Quick Sort, *Michael Sambol*](https://www.youtube.com/watch?v=Hoixgm4-P4M&feature=youtu.be)
+*	[Four Color Theorem, *Up and Atom*](https://www.youtube.com/watch?v=42-ws3bkrKM&feature=youtu.be)
+*	[Approximation Algorithms, *UHMICSAlgorithms*](https://www.youtube.com/watch?v=hdch8ioLRqE&feature=youtu.be)
 *	[Network Flow, *UC Davis*](https://www.youtube.com/watch?v=_G6_-ljgmXE&feature=youtu.be)
 
 ## Websites
