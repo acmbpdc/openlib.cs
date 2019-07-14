@@ -2,7 +2,7 @@
 
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
-The following is a set of guidelines for contributing to [openlib.cs](https://github.com/bpdc-acm/openlib.cs), which are hosted in the [BPDC ACM Organization](https://github.com/bpdc-acm) on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+The following is a set of guidelines for contributing to [OpenLib.cs](https://github.com/bpdc-acm/OpenLib.cs), which are hosted in the [BPDC ACM Organization](https://github.com/bpdc-acm) on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 Please note that this repository is a **curated** list which means it's not a complete catalogue of everything.
 
@@ -45,6 +45,6 @@ The process described here has several goals:
 - Fix dead links that aren't useful to students anymore.
 - Engage the community in building towards the repo that would truly benefit everyone.
 
-To add a new course, please use the [template](TEMPLATE.md) provided.
+To add a new course, please use the [template](Assets/TEMPLATE.md) provided.
 
 If you are not sure how to submit a pull request, [learn how to](https://help.github.com/articles/using-pull-requests/), while the prerequisites above must be satisfied prior to having your pull request reviewed, the reviewer(s) may ask you for additional changes before your pull request can be ultimately accepted.

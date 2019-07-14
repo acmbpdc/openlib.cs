@@ -2,7 +2,7 @@
 
 ## Overview
 
-Course description
+Course description.
 
 ## Navigation
 
@@ -19,7 +19,7 @@ Course description
 
 This course has the following prerequisites:
 
-* [Course](../CourseNo)
+* [Course Name](../courses/Course No)
 
 This course has no prerequisites.
 
@@ -27,7 +27,7 @@ This course has no prerequisites.
 
 | Title | Author(s) | Edition |
 | -------------|-------------|:-----:|
-| [Textbook Name](Google drive link) |
+| [Textbook Name](Google drive link) | Author(s) | Edition No. (Year) |
 
 ## Code
 
@@ -43,7 +43,7 @@ This course has no prerequisites.
 
 ## Articles
 
-*   [Title](Link to article)
+*   [Title, *Writer*](Link to article)
 
 ## Communities
 
