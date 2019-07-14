@@ -52,7 +52,3 @@ This course has no prerequisites.
 ## Apps
 
 *   [App Name](Link to app)
-
-## Recreational Links
-
-*	[Title, *Author*](Link)
