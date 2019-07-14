@@ -24,15 +24,15 @@ This course is a prerequisite for:
 
 | Title | Author(s) | Edition |
 | -------------|-------------|:-----:|
-| [Operating System Concepts](https://drive.google.com/file/d/1_lLlhYRJEw-f3z9pR0dTKJcvszQKqKFT/view?usp=sharing) | Silverschatz, A, Galvin P.B. and Gange G | 9th
-| [Operating Systems Internals and Design Principles](https://drive.google.com/file/d/1M3mxCdMUiC90jH8ppt22nar6m9ylr17i/view?usp=sharing)| William Stallings | 6th
-| [Operating Systems Three Easy Pieces](https://drive.google.com/file/d/1rxzeZj2B9BS4-5H7ZF3KY1t57GJs5ca4/view?usp=sharing)| Remzi H. Arpacidusseau| 2014 (Version 0.8)
-| [Operating Systems Design and Implementation](https://drive.google.com/file/d/1MLHBuOVMtlOBKsC0OydhjInG2NkXOfHK/view?usp=sharing) | Andrew S. Tanenbaum and Albert S. Woodhull | 3rd
-| [Modern Operating Systems](https://drive.google.com/file/d/19qbB6gg2xNfL-te3MQBj9iIToH4WE6HN/view?usp=sharing) | Andrew S. Tanenbaum and Herbert Bos | 4th
-| [Linux Kernel Internals](https://drive.google.com/file/d/1oP4dn19ex5lRK6RZld6PWZIG_05UnWb-/view?usp=sharing) | M. Beck, H. Bohme, M. Dziadzka,U. Kunitz, R. Magnus and D. Verworner | 2nd
-| [The Linux Programming Interface](https://drive.google.com/file/d/1B9NUIZ0SHgPBOIswO_El7ioRDMS19dux/view?usp=sharing)| Michael Kerrisk | 
-| [Instructor's Manual To Accompany Operating System Concepts](https://drive.google.com/file/d/1xvbwR5g-t1iyMtpEI_GbAdVkuA4Jflj3/view?usp=sharing) | Silverschatz, A, Galvin P.B. and Gange G | 7th
-| [Solutions To Practice Problems Operating Systems Internals and Design Principles](https://drive.google.com/file/d/1Pih8jrpW8ci415N4BGtmGS66tEXjGmid/view?usp=sharing) | William Stallings | 6th
+| [Operating System Concepts](https://drive.google.com/file/d/1_lLlhYRJEw-f3z9pR0dTKJcvszQKqKFT/view?usp=sharing) | Silverschatz, A, Galvin P.B. and Gange G | 9th (2013) |
+| [Operating Systems Internals and Design Principles](https://drive.google.com/file/d/1M3mxCdMUiC90jH8ppt22nar6m9ylr17i/view?usp=sharing)| William Stallings | 6th (2009) |
+| [Operating Systems Three Easy Pieces](https://drive.google.com/file/d/1rxzeZj2B9BS4-5H7ZF3KY1t57GJs5ca4/view?usp=sharing)| Remzi H. Arpacidusseau| 0.8 (2014) |
+| [Operating Systems Design and Implementation](https://drive.google.com/file/d/1MLHBuOVMtlOBKsC0OydhjInG2NkXOfHK/view?usp=sharing) | Andrew S. Tanenbaum and Albert S. Woodhull | 3rd (2006) |
+| [Modern Operating Systems](https://drive.google.com/file/d/19qbB6gg2xNfL-te3MQBj9iIToH4WE6HN/view?usp=sharing) | Andrew S. Tanenbaum and Herbert Bos | 4th (2015) |
+| [Linux Kernel Internals](https://drive.google.com/file/d/1oP4dn19ex5lRK6RZld6PWZIG_05UnWb-/view?usp=sharing) | M. Beck, H. Bohme, M. Dziadzka,U. Kunitz, R. Magnus and D. Verworner | 2nd (2008) |
+| [The Linux Programming Interface](https://drive.google.com/file/d/1B9NUIZ0SHgPBOIswO_El7ioRDMS19dux/view?usp=sharing)| Michael Kerrisk | 1st (2010) |
+| [Instructor's Manual To Accompany Operating System Concepts](https://drive.google.com/file/d/1xvbwR5g-t1iyMtpEI_GbAdVkuA4Jflj3/view?usp=sharing) | Silverschatz, A, Galvin P.B. and Gange G | 7th (2013) |
+| [Solutions To Practice Problems Operating Systems Internals and Design Principles](https://drive.google.com/file/d/1Pih8jrpW8ci415N4BGtmGS66tEXjGmid/view?usp=sharing) | William Stallings | 6th (2009) |
 
 ## Videos
 
