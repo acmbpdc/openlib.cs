@@ -19,11 +19,11 @@ This course has no prerequisites.
 
 | Title | Author(s) | Edition |
 | -------------|-------------|:-----:|
-| [Database System Concepts](https://drive.google.com/file/d/1KxlCPBmPCgPR30S_00hB_jnzR_H76sJl/view?usp=sharing) | Abraham Silberschatz, Henry F. Korth & S. Sudarshan | 6th
-| [Database System Concepts](https://drive.google.com/file/d/1j9ek781Se3N2jSW1Y_rwR5YPK1X19o1y/view?usp=sharing) | Abraham Silberschatz, Henry F. Korth & S. Sudarshan | 4th
-| [Database Management Systems](https://drive.google.com/file/d/1Y3xmhKNUqklmkXszeGjyw_WFZs5oQ12O/view?usp=sharing) | Raghu Ramakrishna & Johannes Gehrke| 2nd
-| [Database Systems : The Complete Book](https://drive.google.com/file/d/1EaIboE5O2ijUNiuntrhes1IIrI_N-ftD/view?usp=sharing) | Hector Garcia-Molina, Jeffrey D. Ullman & Jennifer Widom | 2nd
-| [Instructor's Manual To Accompany Database System Concepts](https://drive.google.com/file/d/1a73_t39hOEkAdPyQArkRf-DcMGxKncsH/view?usp=sharing)| Abraham Silberschatz, Henry F. Korth & S. Sudarshan | 4th
+| [Database System Concepts](https://drive.google.com/file/d/1KxlCPBmPCgPR30S_00hB_jnzR_H76sJl/view?usp=sharing) | Abraham Silberschatz, Henry F. Korth & S. Sudarshan | 6th (2006) |
+| [Database System Concepts](https://drive.google.com/file/d/1j9ek781Se3N2jSW1Y_rwR5YPK1X19o1y/view?usp=sharing) | Abraham Silberschatz, Henry F. Korth & S. Sudarshan | 4th (2001) |
+| [Database Management Systems](https://drive.google.com/file/d/1Y3xmhKNUqklmkXszeGjyw_WFZs5oQ12O/view?usp=sharing) | Raghu Ramakrishna & Johannes Gehrke| 2nd (2002) |
+| [Database Systems : The Complete Book](https://drive.google.com/file/d/1EaIboE5O2ijUNiuntrhes1IIrI_N-ftD/view?usp=sharing) | Hector Garcia-Molina, Jeffrey D. Ullman & Jennifer Widom | 2nd (2001) |
+| [Instructor's Manual To Accompany Database System Concepts](https://drive.google.com/file/d/1a73_t39hOEkAdPyQArkRf-DcMGxKncsH/view?usp=sharing)| Abraham Silberschatz, Henry F. Korth & S. Sudarshan | 4th (2006) |
 
 
 ## Videos
