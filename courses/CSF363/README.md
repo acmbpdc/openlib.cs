@@ -2,7 +2,7 @@
 
 ## Overview
 
-Compiler Construction looks at each stage of the compiler in depth, from preprocessing to code generation and optimization. The lab covers programs in LEX, YACC & Java/C for some data structure programming. 
+Compiler Construction looks at each stage of the compiler in depth, from preprocessing to code generation and optimization. The lab covers programs in `LEX`, `YACC` & Java/C for some data structure programming. 
 
 ## Navigation
 
@@ -24,11 +24,11 @@ This course has the following prerequisites:
 
 | Title | Author(s) | Edition |
 | -------------|-------------|:-----:|
-| [Compilers : Principles, Techniques & Tools](https://drive.google.com/file/d/1DePXPjuwEQFkw31hFTrXOWPvnhiMkphp/view?usp=sharing) | Alfred V. Aho, Monica S. Lam, Ravi Sethi & Jeffrey D. Ullman | 2nd
-| [Concepts of Programming Languages](https://drive.google.com/file/d/1OSI9mBUHcsFjiZG9Mi1fTc1fR3lEBFcV/view?usp=sharing) | Robert W. Sebesta | 11th
-| [Engineering a Compiler](https://drive.google.com/file/d/1X1q8zhvxqWDItIVBnmApbKbxWSdqNGp1/view?usp=sharing) | Keith D. Cooper & Linda Torczon | 2nd
-| [Advanced Compiler Design and Implementation ](https://drive.google.com/file/d/1wA5s62MXLk12X7gN4dFWpkiv5Gc2vP4f/view?usp=sharing)| Steven S. Muchnick |
-| [Modern Compiler Implementation in Java](https://drive.google.com/file/d/1KVOs2YkIF8Iu32Fd8drw3zKWhFxTu3Ad/view?usp=sharing)| Andrew W. Appel | 2nd
+| [Compilers : Principles, Techniques & Tools](https://drive.google.com/file/d/1DePXPjuwEQFkw31hFTrXOWPvnhiMkphp/view?usp=sharing) | Alfred V. Aho, Monica S. Lam, Ravi Sethi & Jeffrey D. Ullman | 2nd (2006) |
+| [Concepts of Programming Languages](https://drive.google.com/file/d/1OSI9mBUHcsFjiZG9Mi1fTc1fR3lEBFcV/view?usp=sharing) | Robert W. Sebesta | 11th (2016) |
+| [Engineering a Compiler](https://drive.google.com/file/d/1X1q8zhvxqWDItIVBnmApbKbxWSdqNGp1/view?usp=sharing) | Keith D. Cooper & Linda Torczon | 2nd (2012) |
+| [Advanced Compiler Design and Implementation ](https://drive.google.com/file/d/1wA5s62MXLk12X7gN4dFWpkiv5Gc2vP4f/view?usp=sharing)| Steven S. Muchnick | 1st (1997) |
+| [Modern Compiler Implementation in Java](https://drive.google.com/file/d/1KVOs2YkIF8Iu32Fd8drw3zKWhFxTu3Ad/view?usp=sharing)| Andrew W. Appel | 2nd (2004) |
 
 
 ## Code
@@ -37,14 +37,12 @@ This course has the following prerequisites:
 
 ## Videos
 
-*	[Compiler Design Tutorial, *Ravindrababu Ravula*](https://www.youtube.com/watch?v=Qkwj65l_96I&list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS) *(Recommended)*
+*	[Compiler Design Tutorial, *Ravindrababu Ravula*](https://www.youtube.com/watch?v=Qkwj65l_96I&list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS) *(Full Course)*
 *	[Compilers & Interpreters Tutorial, *TO Courses*](https://www.youtube.com/watch?v=BjWgdsRDVwY&list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx)
 
-### Specific Topics
-
-*	[Register Allocation](https://www.youtube.com/watch?v=4eHdo8GaICY&t=1s)
-*	[Graph Coloring](https://www.youtube.com/watch?v=KCCgFMB3vPw&t=2s)
-*	[Mark-Sweep Garbage Collector](https://www.youtube.com/watch?v=lXj6j9hVGLQ&t=21s)
+*	[Register Allocation, *TO Courses*](https://www.youtube.com/watch?v=4eHdo8GaICY&t=1s)
+*	[Graph Coloring, *TO Courses*](https://www.youtube.com/watch?v=KCCgFMB3vPw&t=2s)
+*	[Mark-Sweep Garbage Collector, *Dmitry Soshnikov*](https://www.youtube.com/watch?v=lXj6j9hVGLQ&t=21s)
 
 ## Websites
 
