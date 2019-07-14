@@ -10,7 +10,7 @@ DD lets you take your first steps into the `Computer Organization & Architecture
 *   [Textbooks](#textbooks)
 *   [Videos](#videos)
 *   [Websites](#websites)
-*   [Recreational Links](#recreational-links)
+*   [Apps](#apps)
 
 ## Prerequisites
 
@@ -39,5 +39,8 @@ This course is a prerequisite for:
 *	[Digital Circuits Tutorial, *tutorialspoint*](https://www.tutorialspoint.com/digital_circuits/)
 *	[From Circuits to Assembly, *Ben Eater*](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA)
 *	[Domino Addition, *Numberphile*](https://www.youtube.com/watch?v=lNuPy-r1GuQ)
-*	[Circuit Scramble: A Logic Circuit Game](https://play.google.com/store/apps/details?id=com.Suborbital.CircuitScramble)
 *	[Circuits, *Instructables*](https://www.instructables.com/circuits/)
+
+## Apps
+
+*	[Circuit Scramble: A Logic Circuit Game](https://play.google.com/store/apps/details?id=com.Suborbital.CircuitScramble)
