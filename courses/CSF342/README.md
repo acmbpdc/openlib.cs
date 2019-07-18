@@ -34,6 +34,8 @@ This course has the following prerequisites:
 | [Computer System Architecture](https://drive.google.com/open?id=1m7yQj3PseHdS1lb3Shg07fin1qQUVxMB)| Morris Mano | 3rd (1992) | 
 | [Solution Manual to Accompany Computer System Architecture](https://drive.google.com/open?id=1t11HHEnuweWS2-kjUXje2j27Qy7bFKYf)| Morris Mano | 3rd (1992) | 
 | [Structured Computer Organization](https://drive.google.com/open?id=1fVYBSMM0VX-cqI6R1-ZzIGtB61kEXwEd)| Tanenbaum | 6th (2013) |
+| [Computer Organization & Architecture: Designing for Performance](https://drive.google.com/open?id=1orxlxMBif_dfWc2rdwIVfNYi2AzTRNjG)| William Stallings | 10th (2016) |
+
 
 ## Code
 
