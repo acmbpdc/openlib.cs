@@ -19,7 +19,10 @@ if __name__ == "__main__":
                 e = indices[i+1] if i+1 < len(indices) else len(raw)
                 texts.append(raw[s:e])
             
-            data = {}
+            data = {
+                "code" : c,
+                "title" : BeautifulSoup(markdown(raw, extensions=['tables']), 'html.parser').find('h1').text,
+            }
             overview = ""
             for t in texts:
                 html = markdown(t, extensions=['tables'])
@@ -43,10 +46,12 @@ if __name__ == "__main__":
                             if m is not None:
                                 b["edition"] = m.groups()[0]
                                 b["year"] = m.groups()[1]
-                            
+                            b["url"] = row.find('a').get("href")
                             data["textbooks"].append(b)
                         assert len(rows) == len(data["textbooks"])
-                    elif ht != "Navigation":
+                    elif ht not in ["Navigation", "Prerequisites"]:
+                        if ht == "Code":
+                            ht = "source-code"
                         links = []
                         for l in soup.find_all('a'):
                             link = {}
@@ -59,9 +64,13 @@ if __name__ == "__main__":
                             links.append(link)
                         data[ht.lower()] = links
             
-            output_file = join("../courses", f"{c}.md")
+            output_file = join("../../temp", f"{c}.md")
             with open(output_file, "w") as of:
                 of.write("---\n")
-                of.write(yaml.dump(data, allow_unicode=True, default_flow_style=False, indent=4))
+                keys = ["code", "title", "textbooks", "source-code", "videos", "websites", "articles", "communities", "apps"]
+                for k in keys:
+                    val = data.get(k)
+                    if val is not None:
+                        of.write(yaml.dump({k : val}, allow_unicode=True, default_flow_style=False, indent=4))
                 of.write("---\n\n")
                 of.write(overview)
