@@ -2,7 +2,7 @@
 
 ## Overview
 
-POPL is meant as a precursor for Compiler Construction. This course takes you through the design of programming languages and programming grammars. It also covers programming paradigms like functional programming ([`LISP`](https://en.wikipedia.org/wiki/Lisp_(programming_language))), logic programming ([`Prolog`](https://en.wikipedia.org/wiki/Prolog)) and `C++`. You will also learn the various data structures and ideas involved in the backend of these languages such as `activation records`, `tail recursion`, etc. 
+POPL is meant as a precursor for Compiler Construction. This course takes you through the design of programming languages and programming grammars. It also covers programming paradigms like functional programming ([`LISP`](https://bit.ly/2hcgoMq), logic programming ([`Prolog`](https://en.wikipedia.org/wiki/Prolog)) and `C++`. You will also learn the various data structures and ideas involved in the backend of these languages such as `activation records`, `tail recursion`, etc. 
 
 ## Navigation
 

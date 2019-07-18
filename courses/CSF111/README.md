@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is an introductory course to a holistic approach to computer science. Fundamental programming concepts including but not limited to `arrays`, `pointers`, `structs` etc. will be discovered through the [C programming language](https://en.wikipedia.org/wiki/C_(programming_language) ). The course requires that students use a *command line environment* when programming. Hence, having an understanding about concepts such as [`Linux`](https://en.wikipedia.org/wiki/Linux), [`telnet`](https://en.wikipedia.org/wiki/Telnet), [`vi editor`](https://en.wikipedia.org/wiki/Vi) etc. will prove to be essential.
+This is an introductory course to a holistic approach to computer science. Fundamental programming concepts including but not limited to `arrays`, `pointers`, `structs` etc. will be discovered through the [C programming language](https://bit.ly/1eSKXTB). The course requires that students use a *command line environment* when programming. Hence, having an understanding about concepts such as [`Linux`](https://en.wikipedia.org/wiki/Linux), [`telnet`](https://en.wikipedia.org/wiki/Telnet), [`vi editor`](https://en.wikipedia.org/wiki/Vi) etc. will prove to be essential.
 
 ## Navigation
 
