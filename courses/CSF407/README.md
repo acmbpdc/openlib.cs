@@ -30,6 +30,7 @@ This course has no prerequisites.
 * [Search Techniques, *John Levine*](https://www.youtube.com/channel/UCUbp3Qabq6iYQrN2QC-ZUXw/videos)
 * [Plannning, *Wheeler Rumi*](https://www.youtube.com/channel/UCUbp3Qabq6iYQrN2QC-ZUXw/videos) 
 * [Machine Learning, *Aqib Mumtaz*](https://www.youtube.com/playlist?list=PLz6omOc3kWOBsX34vlhPzBdmqDbzdKnSV)
+* [Natural Language Processing, *Dan Jurafsky and Christopher Manning*](https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)
 
 ## Websites
 
