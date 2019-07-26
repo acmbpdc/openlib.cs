@@ -27,6 +27,7 @@ This course has no prerequisites.
 | [Computer Networks: A Systems Approach Solution Manual](https://drive.google.com/open?id=1HmJ_FGfoTFYT187ex-l0UUZ4vs7I9OOd)| Peterson & Davie | 5th (2012) |
 | [Data Communication & Networking Solution Manual](https://drive.google.com/open?id=1RFxqwxCWB0gMeb9HIBZ3cJMZXspJsisz)| Forouzan | 5th (2013) |
 | [Computer Networks Solution Manual](https://drive.google.com/open?id=18NnsSUl_vkjY1_EcOFIWNFVqbLql6d-q)| Tanenbaum & Wetherall | 5th (2011) |
+| [The Illustrated Network: How TCP/IP Works](https://drive.google.com/open?id=1yhGt1Jvr2fx41wWDmTxEPoVZaZxufD_1)| Walter Goraski | 2nd (2017) |
 
 
 ## Videos
