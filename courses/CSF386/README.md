@@ -22,7 +22,7 @@ This course has the following prerequisites:
 
 | Title | Author(s) | Edition |
 | -------------|-------------|:-----:|
-| [An Intorudction to Quantum Computing](https://drive.google.com/open?id=19VvmhdNaqKI40yOOV_0Xts99M3GvLK8m) | Kaye, Laflamme & Mosca | (2007) |
+| [An Introduction to Quantum Computing](https://drive.google.com/open?id=19VvmhdNaqKI40yOOV_0Xts99M3GvLK8m) | Kaye, Laflamme & Mosca | (2007) |
 | [Quantum Computing for Computer Scientists](https://drive.google.com/open?id=1JuDLPdndv9ur-bD6TKZi91RiGXjytLvX) | Yanofsky & Mannucci | (2008) |
 | [Quantum Computer Science](https://drive.google.com/open?id=1T9oOi0IB1P2eeH5BOHpmwICCS4lkdis0) | David Mermin | (2007) |
 | [Quantum Computing Explained](https://drive.google.com/open?id=1TBFTxBtNEo-MPuQ3B4vZT2nepJaxOwwT) | David McMahon | (2007) |
