@@ -27,7 +27,7 @@ This course has the following prerequisites (none of them are university courses
 
 | Title | Author(s) | Edition |
 | -------------|-------------|:-----:|
-| [Machine Learning](https://drive.google.com/file/d/1QDdURNqE31wy1rXiGhHlwzFhQDtRxXIs/view?usp=sharing) | Tom M. Mitchell | 1st (1997) |
+| [Machine Learning](https://drive.google.com/file/d/1FUGcYAIKkBXizGwIzPR4e9hZgFoRk3qx/view?usp=sharing) | Tom M. Mitchell | 1st (1997) |
 | [Pattern Recognition & Machine Learning](https://drive.google.com/file/d/1UoybxG2w-bZmKdOcqUdif3yLU5XEosQA/view?usp=sharing) | Christopher M. Bhisop | 1st (2006) |
 | [Machine Learning – An Algorithmic Perspective](https://drive.google.com/file/d/1AHo4cXt-l-a6hbCJ8spMJctG-LAqRnHJ/view?usp=sharing) | Marsland Stephen | 2nd (2015) |
 | [Introduction to Machine Learning](https://drive.google.com/file/d/1j8xYR63yWTN-Z4u7kxnskXMtvUwkqDXH/view?usp=sharing) | Alpaydin Ethem | 3rd (2014) |
