@@ -20,7 +20,7 @@ This course has the following prerequisites:
 *   [Discrete Structures for CS](../CSF222)
 *   [Computer Programming](../CSF111)
 
-This course is a prerequisite for: 
+This course is a prerequisite for:
 
 *   [Design & Analysis of Algorithms](../CSF364)
 
@@ -52,7 +52,7 @@ This course is a prerequisite for:
 *   [Algorithms, *Abdul Bari*](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 *   [Data Structures, *mycodeschool*](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 *   [Playlists, *GeeksforGeeks*](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/playlists)
-*   [Playlists, *Lalitha Natraj*](https://www.youtube.com/channel/UCNsGQ_oLlH89HoKd5uyoAEQ/playlists) 
+*   [Playlists, *Lalitha Natraj*](https://www.youtube.com/channel/UCNsGQ_oLlH89HoKd5uyoAEQ/playlists)
 *   [Algorithms, *Khan Academy*](https://www.khanacademy.org/computing/computer-science/algorithms)
 *   [CS50: Algorithms, *Harvard*](https://www.youtube.com/watch?v=U9o49qwa6hk&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu&index=4)
 *   [CrashCourse CS: Algorithms, *Crash Course*](https://www.youtube.com/watch?v=rL8X2mlNHPM)
@@ -60,13 +60,15 @@ This course is a prerequisite for:
 *   [Dijkstra's Algorithm, *Computerphile*](https://www.youtube.com/watch?v=GazC3A4OQTE)
 *   [Sorting Algorithms, *TED-Ed*](https://www.youtube.com/watch?v=WaNLJf8xzC4)
 *   [15 Sorting Algorithms Visualized, *Timo Bingmann*](https://www.youtube.com/watch?v=kPRA0W1kECg)
+*   [Big O Explained, *Undefined Behaviour*](https://www.youtube.com/watch?v=MyeV2_tGqvw)
 
 ## Websites
 
 *   [GATE CS Notes, *GeeksforGeeks*](https://www.geeksforgeeks.org/gate-cs-notes-gq/)
 *   [BaseCS, *Vaidehi Joshi*](https://medium.com/basecs)
 *   [Algorithms, *Princeton*](https://algs4.cs.princeton.edu/home/)
-*   [Algorithms, *Brilliant*](https://brilliant.org/wiki/algorithm/)
+*   [Algorithms, *Brilliant.org*](https://brilliant.org/wiki/algorithm/)
+*   [Big O, *Brilliant.org*](https://brilliant.org/wiki/big-o-notation/)
 *   [Competitive Programming Resources, *BPDC ACM CP*](https://www.acmbpdc.org/cp)
 *   [VisuAlgo, *Dr Steven Halim*](https://visualgo.net/en)
 *   [Data Structure Visualizations, *David Galles*](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
@@ -74,4 +76,4 @@ This course is a prerequisite for:
 
 ## Communities
 
-*   [AlgoMation](http://www.algomation.com/) 
+*   [AlgoMation](http://www.algomation.com/)

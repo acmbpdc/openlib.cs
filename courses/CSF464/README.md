@@ -33,7 +33,8 @@ This course has the following prerequisites (none of them are university courses
 | [Introduction to Machine Learning](https://drive.google.com/file/d/1j8xYR63yWTN-Z4u7kxnskXMtvUwkqDXH/view?usp=sharing) | Alpaydin Ethem | 3rd (2014) |
 | [Machine Learning Yearning](https://drive.google.com/file/d/1OuRPDVmdmhYvWSoFbOoEA_sdK3aroai3/view?usp=sharing) | Andrew Ng | Draft (2018) |
 | [Deep Learning](https://drive.google.com/file/d/1xZL-Due1d0oPKix5WGkaY4JIdSmRTZjc/view?usp=sharing) | Ian Goodfellow, Yoshua Bengio, and Aaron Courville | 1st (2016) |
-
+| [The Manga Guide to Linear Algebra](https://drive.google.com/open?id=1R7_TjZw2oLGUL6PTiv5GW1qynbIsOOrf) | Takashi & Inoue | 1st (2012) |
+| [Essentials of Statistics](https://drive.google.com/open?id=1ychIz4VGHZ81yW2Yjs-hK1WLFpQDU7Kh) | Mario Triola | 5th (2015) |
 
 ## Videos
 

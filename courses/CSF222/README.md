@@ -31,7 +31,7 @@ This course is a prerequisite for:
 | [Mathematical Structures for Computer Science: Discrete Mathematics & its Applications](https://drive.google.com/open?id=14pZnQh0iN7ATQqFdpkTNBd-etwoNzdOY)| Judith Gersting | 7th (2014) |
 | [Lehman & Leighton Notes](https://drive.google.com/open?id=1r2ajkPY1x6EWp_k38yxH_8MPGvQOUocO)| Lehman & Leighton | Revised (2004) |
 | [Discrete Mathematics with Applications](https://drive.google.com/open?id=1r2ajkPY1x6EWp_k38yxH_8MPGvQOUocO)| Susanna S. Epp | 4th (2011) |
-
+| [Discrete Mathematics](https://drive.google.com/open?id=1p5Liv6lPqxVbKL7gFzcs_RhZP8V-6GJ2)| Jean Gallier | 1st (2017) |
 
 ## Videos
 
@@ -44,8 +44,13 @@ This course is a prerequisite for:
 *   [Discrete Math Full Course: Sets, Logic, Proofs, Probability, Graph Theory, etc, *Trefor Bazett*](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS) *(Full Course)*
 *   [Discrete Math 1, *TrevTutor*](https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
 *   [Discrete Math 2, *TrevTutor*](https://www.youtube.com/watch?v=DBugSTeX1zw&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
+*   [Group Theory Playlist, *Ben1994*](https://www.youtube.com/watch?v=O4plQ5ppg9c&list=PLAvgI3H-gclb_Xy7eTIXkkKt3KlV6gk9_)
 *   [Introduction to Mathematical Thinking, *Stanford University*](https://www.coursera.org/learn/mathematical-thinking)
 *   [Discrete Mathematics Specialisation, *UC San Diego*](https://www.coursera.org/specializations/discrete-mathematics)
+
+## Websites
+
+*   [Brilliant.org Practice Problems](https://brilliant.org/discrete-mathematics/)
 
 ## Apps
 
