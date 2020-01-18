@@ -38,6 +38,7 @@ OpenLib.cs is a collaborative project to make textbooks, references, solution ma
 *  [Service Oriented Computing](./courses/CSF466)
 *  [Quantum Computing](./courses/CSF386)
 *  [Machine Learning](./courses/CSF464)
+*  [Foundations of Data Science](./courses/CSF320)
 
 ## Usage
 
