@@ -40,7 +40,7 @@ This course has the following prerequisites.
 ## Code
 
 *   [Algorithms & Data Structures Project, *William Fiset*](https://github.com/williamfiset/Algorithms)
-*   [Data Structures And Algorithms, *Mohammed Shoaib*](https://github.com/Mohammed-Shoaib/Data-Structures-And-Algorithms)
+*   [WhatsAlgo, *Mohammed Shoaib*](https://github.com/Mohammed-Shoaib/WhatsAlgo)
 
 ## Videos
 *	[Algorithms Specialization, *Stanford University*](https://www.coursera.org/specializations/algorithms)
