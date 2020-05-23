@@ -43,7 +43,7 @@ This course is a prerequisite for:
 ## Code
 
 *   [Algorithms & data structures project, *William Fiset*](https://github.com/williamfiset/Algorithms)
-*   [Data Structures And Algorithms, *Mohammed Shoaib*](https://github.com/Mohammed-Shoaib/Data-Structures-And-Algorithms)
+*   [WhatsAlgo, *Mohammed Shoaib*](https://github.com/Mohammed-Shoaib/WhatsAlgo)
 
 ## Videos
 
