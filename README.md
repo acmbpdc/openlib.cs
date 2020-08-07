@@ -98,6 +98,17 @@ OpenLib.cs is a collaborative project to make textbooks, references, solution ma
 | [Information Management: A Proposal](https://www.w3.org/History/1989/proposal.html) |Tim Berners Lee | (1990) |
 | [List Of Important Publications In Computer Science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science) | Wikipedia |
 
+## Source Code
+
+> We do not condone plagiarism.
+> Use these for reference.
+
+- [kelvindecosta/undergrad](https://github.com/kelvindecosta/undergrad)
+- [Mohammed-Shoaib/WhatsAlgo](https://github.com/Mohammed-Shoaib/WhatsAlgo)
+- [Mohammed-Shoaib/Coding-Problems](https://github.com/Mohammed-Shoaib/Coding-Problems)
+- [dontbeadouche](https://github.com/dontbeadouche?tab=repositories)
+- [cricksmaidiene/CPrograms](https://github.com/cricksmaidiene/CPrograms)
+- [cricksmaidiene/algorithms-repository](https://github.com/cricksmaidiene/algorithms-repository)
 
 ## Contributing
 
