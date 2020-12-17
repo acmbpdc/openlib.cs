@@ -34,7 +34,7 @@ if __name__ == "__main__":
                     filename = join(tbdir, f"{name}.pdf")
 
                     if not exists(filename):
-                        id = re.search("/[-\w]{25,}/",url).group(0)
+                        id = re.search("[-\w]{25,}",url).group(0)
                         download_link = f"""https://drive.google.com/uc?id={id}&export=download"""
                         gdown.download(download_link, filename, quiet=False)
                     else:
