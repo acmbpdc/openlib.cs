@@ -23,11 +23,11 @@ This course has no prerequisites.
 
 | Title | Author(s) | Edition |
 | -------------|-------------|:-----:|
-| [The C Programming Language](https://drive.google.com/open?id=1KH0i1C8IQ5uKO4zGWRz_mAh4XbQvCaiT) | Brian Kernighan & Dennis Ritchie | 2nd (1989) |
-| [The C Answer Book](https://drive.google.com/open?id=1gfgZmONMV6ZcG-lIQOe35jiMVqI-MS3p) | Clovis L. Tondo & Scott E. Gimpel | 2nd (1989) |
-| [Problem Solving and Program Design in C](https://drive.google.com/open?id=13frawLX1gT_0JnKOiEOnSeoHp-kp9-qO) | Jeri R. Hanly & Elliot B. Koffman | 8th (2016) |
-| [Let Us C](https://drive.google.com/open?id=1iaRbBFzDmjXrIHNnwdeBFqJ4kHPkn-cO)| Yashavant P. Kanetkar | 5th (2004) |
-| [C : The Complete Reference](https://drive.google.com/open?id=15mqmtbhY-Dv4mBr1nPEp9bPM3P1tDiZB)| Herbert Schildt | 4th (2000) |
+| [The C Programming Language](https://drive.google.com/file/d/1KH0i1C8IQ5uKO4zGWRz_mAh4XbQvCaiT/view?usp=sharing) | Brian Kernighan & Dennis Ritchie | 2nd (1989) |
+| [The C Answer Book](https://drive.google.com/file/d/1gfgZmONMV6ZcG-lIQOe35jiMVqI-MS3p/view?usp=sharing) | Clovis L. Tondo & Scott E. Gimpel | 2nd (1989) |
+| [Problem Solving and Program Design in C](https://drive.google.com/file/d/13frawLX1gT_0JnKOiEOnSeoHp-kp9-qO/view?usp=sharing) | Jeri R. Hanly & Elliot B. Koffman | 8th (2016) |
+| [Let Us C](https://drive.google.com/file/d/1iaRbBFzDmjXrIHNnwdeBFqJ4kHPkn-cO/view?usp=sharing)| Yashavant P. Kanetkar | 5th (2004) |
+| [C : The Complete Reference](https://drive.google.com/file/d/15mqmtbhY-Dv4mBr1nPEp9bPM3P1tDiZB/view?usp=sharing)| Herbert Schildt | 4th (2000) |
 
 ## Code
 
@@ -53,7 +53,7 @@ This course has no prerequisites.
 
 ## Articles
 
-*   [List of Unix Commands](https://drive.google.com/open?id=1mn0AFgMwB7imCQtKmvIidyh9myzIxc_D)
+*   [List of Unix Commands](https://drive.google.com/file/d/1mn0AFgMwB7imCQtKmvIidyh9myzIxc_D/view?usp=sharing)
 *   [Unix Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
 *   [Using vi, the Unix Visual Editor, *University of Washington*](https://staff.washington.edu/rells/R110/)
 

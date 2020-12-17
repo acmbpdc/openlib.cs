@@ -28,17 +28,17 @@ This course is a prerequisite for:
 
 | Title | Author(s) | Edition |
 | -------------|-------------|:-----:|
-| [Introduction to Algorithms](https://drive.google.com/open?id=1nZpc4TKg92e5Ai9i2wtH3qJ7MGraIShD) | Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest & Clifford Stein | 2nd (2001) |
-| [Problem Solving with Algorithms and Data Structures](https://drive.google.com/open?id=1vzz398U-ayIBsFVPy_ochaZ5LBnUnq7h) | Brad Miller & David Ranum | 3rd (2013) |
-| [Algorithm Design and Applications](https://drive.google.com/open?id=14reI4oUtePBeC7Ej0rat5JbTEHOejAiI) | Michael T. Goodrich & Roberto Tamassia | 1st (2015) |
-| [Introduction to Algorithms](https://drive.google.com/open?id=1M_2-jGxWyo1u5eHMXBKdxIgIJHY3wgI8) | Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest & Clifford Stein | 3rd (2009) |
-| [Competitive Programmer’s Handbook](https://drive.google.com/open?id=1o8Ar-5fEezvc5HgKOo584puepcmKCeWX) | Antti Laaksonen | Draft (2017) |
-| [Data Structures and Algorithms in C++](https://drive.google.com/open?id=17lgGGjhuI_myp5oz-m8GLnonbWpVa2A4) | Adam Drozdek | 4th (2013) |
-| [Data Structures and Algorithm Analysis in Java](https://drive.google.com/open?id=1Mim-tKxsLnllB0chx6x9mGb19Nn8hw7g) | Mark Allen Weiss | 3rd (2012) |
-| [Data Structures and Algorithms in Python](https://drive.google.com/open?id=1BiPZSJ--KaJd-Tt8F1poDAhboI74Ff3s) | Michael T. Goodrich, Roberto Tamassia & Michael H. Goldwasser | 1st (2013) |
-| [Data Structures and Algorithms Made Easy](https://drive.google.com/open?id=1OeO4Xfr_TnY6HJZ5l2OUZYXvTs2jjNqm) | Narasimha Karumanchi | 1st (2010) |
-| [Algorithms Part I - Princeton](https://drive.google.com/open?id=10co0mZmo2CNqthb7IRzqOBSyhP1AeB4U) | Sedgewick & Wayne | 4th (2014) |
-| [Algorithms + Data Structures = Programs](https://drive.google.com/open?id=17xSrA6wTmNGa7_v60xDnVaO4gwcFfMLL) | Niklaus Wirth | 1st (1978) |
+| [Introduction to Algorithms](https://drive.google.com/file/d/1nZpc4TKg92e5Ai9i2wtH3qJ7MGraIShD/view?usp=sharing) | Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest & Clifford Stein | 2nd (2001) |
+| [Problem Solving with Algorithms and Data Structures](https://drive.google.com/file/d/1vzz398U-ayIBsFVPy_ochaZ5LBnUnq7h/view?usp=sharing) | Brad Miller & David Ranum | 3rd (2013) |
+| [Algorithm Design and Applications](https://drive.google.com/file/d/14reI4oUtePBeC7Ej0rat5JbTEHOejAiI/view?usp=sharing) | Michael T. Goodrich & Roberto Tamassia | 1st (2015) |
+| [Introduction to Algorithms](https://drive.google.com/file/d/1M_2-jGxWyo1u5eHMXBKdxIgIJHY3wgI8/view?usp=sharing) | Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest & Clifford Stein | 3rd (2009) |
+| [Competitive Programmer’s Handbook](https://drive.google.com/file/d/1o8Ar-5fEezvc5HgKOo584puepcmKCeWX/view?usp=sharing) | Antti Laaksonen | Draft (2017) |
+| [Data Structures and Algorithms in C++](https://drive.google.com/file/d/17lgGGjhuI_myp5oz-m8GLnonbWpVa2A4/view?usp=sharing) | Adam Drozdek | 4th (2013) |
+| [Data Structures and Algorithm Analysis in Java](https://drive.google.com/file/d/1Mim-tKxsLnllB0chx6x9mGb19Nn8hw7g/view?usp=sharing) | Mark Allen Weiss | 3rd (2012) |
+| [Data Structures and Algorithms in Python](https://drive.google.com/file/d/1BiPZSJ--KaJd-Tt8F1poDAhboI74Ff3s/view?usp=sharing) | Michael T. Goodrich, Roberto Tamassia & Michael H. Goldwasser | 1st (2013) |
+| [Data Structures and Algorithms Made Easy](https://drive.google.com/file/d/1OeO4Xfr_TnY6HJZ5l2OUZYXvTs2jjNqm/view?usp=sharing) | Narasimha Karumanchi | 1st (2010) |
+| [Algorithms Part I - Princeton](https://drive.google.com/file/d/10co0mZmo2CNqthb7IRzqOBSyhP1AeB4U/view?usp=sharing) | Sedgewick & Wayne | 4th (2014) |
+| [Algorithms + Data Structures = Programs](https://drive.google.com/file/d/17xSrA6wTmNGa7_v60xDnVaO4gwcFfMLL/view?usp=sharing) | Niklaus Wirth | 1st (1978) |
 
 ## Code
 

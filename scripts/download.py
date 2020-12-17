@@ -4,7 +4,6 @@ from os.path import join, exists
 from markdown import markdown
 import re
 import gdown
-from urllib.parse import urlparse, parse_qs
 
 
 if __name__ == "__main__":
@@ -35,8 +34,8 @@ if __name__ == "__main__":
                     filename = join(tbdir, f"{name}.pdf")
 
                     if not exists(filename):
-                        par = parse_qs(urlparse(url).query)
-                        download_link = f"""https://drive.google.com/uc?id={par["id"][0]}&export=download"""
+                        id = re.search("/[-\w]{25,}/",url).group(0)
+                        download_link = f"""https://drive.google.com/uc?id={id}&export=download"""
                         gdown.download(download_link, filename, quiet=False)
                     else:
                         print(f"\t{name} already exists")
