@@ -33,3 +33,5 @@ This course has the following prerequisites:
 
 *	[x86 Assembly Programming Tutorial, *Rasim Murotovik*](https://www.youtube.com/watch?v=zEuvNYe7WG0)
 *	[x86 Assembly, *Vikram Salunke*](https://www.youtube.com/watch?v=vWlAg-pwMsM&list=PLan2CeTAw3pFOq5qc9urw8w7R-kvAT8Yb)
+*	[Dr. Shazia's Classroom, *Dr. Shazia Hasan*](https://www.youtube.com/channel/UCRC_gJgJiAvVnVbNCnJLibw)
+*	[Jag's Academy, *Dr. Jagdish Nayak*](https://www.youtube.com/channel/UCZtZVJjiCoNwPem5_d833ig)
