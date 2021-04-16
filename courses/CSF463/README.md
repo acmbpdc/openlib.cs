@@ -41,6 +41,7 @@ Topics include Ancient ciphers, modern stream and block ciphers, `DES`, `AES`, `
 *   [Cryptography I, *Stanford University*](https://www.coursera.org/learn/crypto?)
 *   [Cryptography Lecture Series, *Christof Paar*](https://www.youtube.com/playlist?list=PL2jrku-ebl3H50FiEPr4erSJiJHURM9BX)
 *   [Journey Into Cryptography, *Khan Academy*](https://www.khanacademy.org/computing/computer-science/cryptography)
+*   [Cryptography by Abhishek Sharma *(Includes theorems - Hindi)* ](https://www.youtube.com/watch?v=9X1rSWLFhLY&list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8) 
 
 ## Websites
 
