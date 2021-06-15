@@ -58,6 +58,7 @@ This course has the following prerequisites.
 *	[Vertex Cover Problem, *Brilliant.Org*](https://brilliant.org/wiki/vertex-cover/)
 *	[Travelling Salesman Problem, *Brilliant.Org*](https://brilliant.org/wiki/traveling-salesperson-problem/)
 *	[Ford Fulkerson Algorithm, *Brilliant.Org*](https://brilliant.org/wiki/ford-fulkerson-algorithm/)
+*	[Introduction and Sorting Algorithms (T1 Notes), *lecturenotes.in*](https://lecturenotes.in/notes/17784-note-for-design-and-analysis-of-algorithm-daa-by-shekharesh-barik?reading=true)
 
 ## Apps
 *   [Algorithms: Explained and Animated](http://algorithm.wiki/en/app/)
