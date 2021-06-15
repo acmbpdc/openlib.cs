@@ -50,6 +50,7 @@ This course has the following prerequisites.
 *	[Four Color Theorem, *Up and Atom*](https://www.youtube.com/watch?v=42-ws3bkrKM&feature=youtu.be)
 *	[Approximation Algorithms, *UHMICSAlgorithms*](https://www.youtube.com/watch?v=hdch8ioLRqE&feature=youtu.be)
 *	[Network Flow, *UC Davis*](https://www.youtube.com/watch?v=_G6_-ljgmXE&feature=youtu.be)
+*	[Design and Analysis of Algorithms, *Gate Smashers - Hindi*](https://www.youtube.com/watch?v=u8JZ9gU5o4g&list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa)
 
 ## Websites
 *	[TOC Directory, *KR Chowdhary*](http://www.krchowdhary.com/toc/)
