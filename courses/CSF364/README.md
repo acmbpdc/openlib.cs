@@ -18,7 +18,7 @@ Use CLRS along with the supplementary video material. The polynomial reductions 
 ## Prerequisites
 
 This course has the following prerequisites.
-*	[Data Structures of Algorithms](../CSF211)
+*	[Data Structures & Algorithms](../CSF211)
 *	[Theory of Computation](../CSF351)
 
 ## Textbooks
