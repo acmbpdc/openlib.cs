@@ -59,6 +59,7 @@ This course has the following prerequisites.
 *	[Travelling Salesman Problem, *Brilliant.Org*](https://brilliant.org/wiki/traveling-salesperson-problem/)
 *	[Ford Fulkerson Algorithm, *Brilliant.Org*](https://brilliant.org/wiki/ford-fulkerson-algorithm/)
 *	[Introduction and Sorting Algorithms (T1 Notes), *lecturenotes.in*](https://lecturenotes.in/notes/17784-note-for-design-and-analysis-of-algorithm-daa-by-shekharesh-barik?reading=true)
+*	[Recurrence Relation, *Stanford University*](https://web.stanford.edu/class/archive/cs/cs161/cs161.1168/lecture3.pdf)
 
 ## Apps
 *   [Algorithms: Explained and Animated](http://algorithm.wiki/en/app/)
