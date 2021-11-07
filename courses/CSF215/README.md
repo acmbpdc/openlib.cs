@@ -14,8 +14,6 @@ DD lets you take your first steps into the `Computer Organization & Architecture
 
 ## Prerequisites
 
-This course has no prerequisites.
-
 This course is a prerequisite for:
 
 *	[Microprocessors & Interfacing](../CSF241)
