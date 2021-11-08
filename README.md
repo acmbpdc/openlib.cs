@@ -39,6 +39,8 @@ OpenLib.cs is a collaborative project to make textbooks, references, solution ma
 *  [Quantum Computing](./courses/CSF386)
 *  [Machine Learning](./courses/CSF464)
 *  [Foundations of Data Science](./courses/CSF320)
+*  [Deep Learning](./courses/CSF425)
+
 
 ## Usage
 
