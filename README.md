@@ -30,17 +30,22 @@ OpenLib.cs is a collaborative project to make textbooks, references, solution ma
 
 ### Electives
 
-*  [Artificial Intelligence](./courses/CSF407)
-*  [Data Mining](./courses/CSF415)
+#### Computer Science
+
 *  [Information Retrieval](/courses/CSF469)
 *  [Cryptography](./courses/CSF463)
 *  [Number Theory](./courses/CSF231)
 *  [Service Oriented Computing](./courses/CSF466)
 *  [Quantum Computing](./courses/CSF386)
+
+#### Data Science
+
+*  [Artificial Intelligence](./courses/CSF407)
+*  [Data Mining](./courses/CSF415)
 *  [Machine Learning](./courses/CSF464)
 *  [Foundations of Data Science](./courses/CSF320)
 *  [Deep Learning](./courses/CSF425)
-
+*  [Probability & Statistics](./courses/DATASCIW203)
 
 ## Usage
 
@@ -69,8 +74,8 @@ OpenLib.cs is a collaborative project to make textbooks, references, solution ma
 *   [r/Programming](https://www.reddit.com/r/programming/)
 *   [GeeksforGeeks](https://www.geeksforgeeks.org/)
 *   [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
-*   [Code.Org](https://www.youtube.com/channel/UCJyEBMU1xVP2be1-AoGS1BA)
-*   [Brilliant.Org](https://brilliant.org/computer-science/) 
+*   [Code.org](https://www.youtube.com/channel/UCJyEBMU1xVP2be1-AoGS1BA)
+*   [Brilliant.org](https://brilliant.org/computer-science/) 
 
 
 ## Videos
