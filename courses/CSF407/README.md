@@ -34,6 +34,6 @@ This course has no prerequisites.
 
 ## Websites
 
-*   [AI Tutorial, *javatpoint*](https://www.javatpoint.com/artificial-intelligence-tutorial)
+* [AI Tutorial, *javatpoint*](https://www.javatpoint.com/artificial-intelligence-tutorial)
 * [AI Course, *University of Texas*](https://www.cs.utexas.edu/~mooney/cs343/)
 
