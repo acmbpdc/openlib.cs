@@ -35,6 +35,8 @@ Probability & Statistics underpins the process by which uncertainty can be quant
 | [The Cartoon Guide to Statistics](https://drive.google.com/file/d/1R-SsPmRautyBBhH5lqn6rUenoM7GfOEI/view?usp=sharing) | Smith, Gonick, Larry | |
 | [The Signal & The Noise: Why so many Predictions Fail](https://drive.google.com/file/d/1W2E6C0FBlWcwnmSeTIX49Y_Wnt1vsFsr/view?usp=sharing) | Nate Silver | |
 | [Philosophy of Statistics](https://drive.google.com/file/d/1SPMjVM1QpmXWCoA0gWDDhazEZF3muzMI/view?usp=sharing) | Elseiver BV | |
+| [The Art of Statistics](https://drive.google.com/file/d/1BnFwJrdV7flN-vSBt_Gl0e4CHo8npG1C/view?usp=sharing) | Spiegelhalter | |
+| [Statistics without Tears](https://drive.google.com/file/d/1YcKuFLL_ELC2zJDeghFNXsF3e6LQRZh1/view?usp=sharing) | Rowntree | |
 
 ## Videos
 
