@@ -6,11 +6,13 @@ Probability & Statistics underpins the process by which uncertainty can be quant
 
 ## Navigation
 
-*   [Prerequisites](#prerequisites)
-*   [Textbooks](#textbooks)
-*   [Code](#code)
-*   [Videos](#videos)
-*   [Articles](#articles)
+- [Probability & Statistics](#probability--statistics)
+  - [Overview](#overview)
+  - [Navigation](#navigation)
+  - [Prerequisites](#prerequisites)
+  - [Textbooks](#textbooks)
+  - [Videos](#videos)
+  - [Articles](#articles)
 
 ## Prerequisites
 
@@ -37,6 +39,9 @@ Probability & Statistics underpins the process by which uncertainty can be quant
 | [Philosophy of Statistics](https://drive.google.com/file/d/1SPMjVM1QpmXWCoA0gWDDhazEZF3muzMI/view?usp=sharing) | Elseiver BV | |
 | [The Art of Statistics](https://drive.google.com/file/d/1BnFwJrdV7flN-vSBt_Gl0e4CHo8npG1C/view?usp=sharing) | Spiegelhalter | |
 | [Statistics without Tears](https://drive.google.com/file/d/1YcKuFLL_ELC2zJDeghFNXsF3e6LQRZh1/view?usp=sharing) | Rowntree | |
+| [The Statistical Sleuth](https://drive.google.com/file/d/1BVaIH2QMqNzYUZaQ8fL50-X0kK072yHQ/view?usp=sharing) | Ramsey, Schafer | 3rd |
+| [The Statistical Sleuth Solutions Manual](https://drive.google.com/file/d/1SeHMXG9iYpRHRKKegkaa3bYdXSYV4i6z/view?usp=sharing) | Ramsey, Schafer | 3rd | 
+| [Manga Guide to Statistics](https://drive.google.com/file/d/1OR6jOFDL4sEIS4mfQAe8qgj5Dc_BOoxm/view?usp=sharing) | Takahashi | |
 
 ## Videos
 
