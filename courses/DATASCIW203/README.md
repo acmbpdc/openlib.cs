@@ -42,6 +42,8 @@ Probability & Statistics underpins the process by which uncertainty can be quant
 | [The Statistical Sleuth](https://drive.google.com/file/d/1BVaIH2QMqNzYUZaQ8fL50-X0kK072yHQ/view?usp=sharing) | Ramsey, Schafer | 3rd |
 | [The Statistical Sleuth Solutions Manual](https://drive.google.com/file/d/1SeHMXG9iYpRHRKKegkaa3bYdXSYV4i6z/view?usp=sharing) | Ramsey, Schafer | 3rd | 
 | [Manga Guide to Statistics](https://drive.google.com/file/d/1OR6jOFDL4sEIS4mfQAe8qgj5Dc_BOoxm/view?usp=sharing) | Takahashi | |
+| [Prob 140, Probability for Data Science](http://prob140.org/textbook/content/README.html) | Ani Adhikari, Jim Pitman | |
+| [Stat 88, Probability & Mathematical Statistics for Data Science](http://stat88.org/textbook/content/notebooks/intro.html) | Ani Adhikari |
 
 ## Videos
 
@@ -67,3 +69,5 @@ Probability & Statistics underpins the process by which uncertainty can be quant
 ## Articles
 
 * [Custom Medium Article Collection on Statistics](https://medium.com/@eash98/list/w203-398208fb7b38)
+* [Statistics Computing Workshop](https://statistics.berkeley.edu/computing/training)
+* [Stat 88 - Probability & Mathematical Statistics in Data Science](http://stat88.org/)

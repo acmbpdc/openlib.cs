@@ -33,15 +33,17 @@ This course has no prerequisites.
 
 ## Videos
 
-*	[*StatQuest with Josh Starmer*](https://www.youtube.com/user/joshstarmer/featured)
+*	  [*StatQuest with Josh Starmer*](https://www.youtube.com/user/joshstarmer/featured)
 *   [Data Science Specialization, *coursera*](https://www.coursera.org/specializations/jhu-data-science)
 *   [Machine Learning by Andrew NG, *coursera*](https://www.coursera.org/learn/machine-learning)
 
 ## Websites
 
 *   [Towards Data Science](https://towardsdatascience.com)
-*	[Machine Learning, *Medium*](https://medium.com/topic/machine-learning)
+*	  [Machine Learning, *Medium*](https://medium.com/topic/machine-learning)
 *   [UC Berkeley's Data 8 Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html)
+*   [Computational Structures in Data Science](https://cs88-website.github.io/sp22/)
+*   [Data Science Central](https://www.datasciencecentral.com/author/caprigranville733/page/5/)
 
 ## Communities
 
