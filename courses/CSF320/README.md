@@ -6,11 +6,14 @@ Data Science is the study of the generalizable extraction of knowledge from data
 
 ## Navigation
 
-*   [Prerequisites](#prerequisites)
-*   [Textbooks](#textbooks)
-*   [Videos](#videos)
-*   [Websites](#websites)
-*   [Communities](#communities)
+- [Foundations of Data Science](#foundations-of-data-science)
+  - [Overview](#overview)
+  - [Navigation](#navigation)
+  - [Prerequisites](#prerequisites)
+  - [Textbooks](#textbooks)
+  - [Videos](#videos)
+  - [Websites](#websites)
+  - [Communities](#communities)
 
 ## Prerequisites
 
@@ -38,10 +41,10 @@ This course has no prerequisites.
 
 *   [Towards Data Science](https://towardsdatascience.com)
 *	[Machine Learning, *Medium*](https://medium.com/topic/machine-learning)
+*   [UC Berkeley's Data 8 Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html)
 
 ## Communities
 
 *   [r/datascience](https://www.reddit.com/r/datascience/)
 *   [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
 *   [r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
-
