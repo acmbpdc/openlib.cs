@@ -41,4 +41,4 @@ This course is a prerequisite for:
 
 ## Apps
 
-*	[Circuit Scramble: A Logic Circuit Game](https://play.google.com/store/apps/details?id=com.Suborbital.CircuitScramble)
+*	[Circuit Scramble: A Logic Circuit Game](https://www.amazon.com/Circuit-Scramble-Computer-Logic-Puzzles/dp/B078X99YQG)
