@@ -30,12 +30,9 @@ This course has the following prerequisites:
 
 ## Code
 
-*   [Qiskit, *IBM*](https://github.com/Qiskit/qiskit-api-py)
 *   [QVM, *Rigetti*](https://github.com/rigetti/qvm)
 *   [QuantumKatas, *Microsoft*](https://github.com/microsoft/QuantumKatas)
 *   [Quantum Programming Studio, *Quantum Circuit*](https://quantum-circuit.com/)
-*   [Forest SDK, *Rigetti*](https://rigetti.com/forest)
-*   [Quantum Cloud Services, *Rigetti*](https://www.rigetti.com/qcs)
 *   [Quirk: An Interactive Quantum Circuit Simulator, *Strilanc*](https://github.com/Strilanc/Quirk)
 
 
