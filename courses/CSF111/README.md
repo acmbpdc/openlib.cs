@@ -40,7 +40,7 @@ This course has no prerequisites.
 *   [C Programming Tutorial, *Programming Knowledge*](https://www.youtube.com/watch?v=-CpG3oATGIs&t=1609s) *(Full Course)*
 *   [Programming Foundations, *mycodeschool*](https://www.youtube.com/user/mycodeschool/playlists) *(Full Course)*
 *   [What is Computer Science?, *Art of the Problem*](https://www.youtube.com/playlist?list=PLbg3ZX2pWlgI_ej6ZhGd45-cPoWLZD9pT)
-*   [How Computers Work, *Khan Academy*](https://www.khanacademy.org/computing/computer-science/how-computers-work2)
+*   [How Computers Work, *Khan Academy*](https://www.khanacademy.org/computing/computer-science/how-computers-work)
 *   [Introduction to Algorithms, *Khan Academy*](https://www.khanacademy.org/computing/computer-science/algorithms)
 *   [Floating Point Motivation, *Computerphile*](https://www.youtube.com/watch?v=PZRI1IfStY0&list=PLzH6n4zXuckqmf_xUcvU5caZVoctP2ehL&index=8)
 *   [What do programmers actually do?, *Physics Girl*](https://www.youtube.com/watch?v=g4a7_HH9Wbg)
