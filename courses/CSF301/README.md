@@ -45,9 +45,7 @@ This course has the following prerequisites:
 	*	[Evaluate postfix expression, *Education4U*](https://www.youtube.com/watch?v=84BsI5VJPq4)
 *	[Leftmost & rightmost derivation, *Neso Academy*](https://www.youtube.com/watch?v=u4-rpIlV9NI)
 *	[Ambiguous grammar, *Neso Academy*](https://www.youtube.com/watch?v=wQjppolFdas)
-*	[Abstract syntax tree (AST), *TO Courses*](https://www.youtube.com/watch?v=kUKfvHkzpYE)
 *	[Left Recursion & Left Factoring, *Knowledge Gate*](https://www.youtube.com/watch?v=rDBafyxYCW8&list=PLmXKhU9FNesSmu-_DKC7APRoFkaQvGurx&index=9)
-*	[Left Recursion & Left Factoring II, *Ravindrababu Ravula*](https://www.youtube.com/watch?v=3_VCoBfrt9c&list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS&index=4)
 
 ## Websites
 
