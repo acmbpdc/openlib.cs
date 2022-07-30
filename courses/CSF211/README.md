@@ -11,7 +11,6 @@ DSA is really the bread and butter for good programming practices. Organizing co
 *   [Code](#code)
 *   [Videos](#videos)
 *   [Websites](#websites)
-*   [Communities](#communities)
 
 ## Prerequisites
 
