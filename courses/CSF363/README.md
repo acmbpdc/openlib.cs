@@ -38,10 +38,6 @@ This course has the following prerequisites:
 ## Videos
 
 *	[Compiler Design Tutorial, *Ravindrababu Ravula*](https://www.youtube.com/watch?v=Qkwj65l_96I&list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS) *(Full Course)*
-*	[Compilers & Interpreters Tutorial, *TO Courses*](https://www.youtube.com/watch?v=BjWgdsRDVwY&list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx)
-
-*	[Register Allocation, *TO Courses*](https://www.youtube.com/watch?v=4eHdo8GaICY&t=1s)
-*	[Graph Coloring, *TO Courses*](https://www.youtube.com/watch?v=KCCgFMB3vPw&t=2s)
 *	[Mark-Sweep Garbage Collector, *Dmitry Soshnikov*](https://www.youtube.com/watch?v=lXj6j9hVGLQ&t=21s)
 
 ## Websites

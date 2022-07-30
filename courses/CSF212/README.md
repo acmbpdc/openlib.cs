@@ -32,7 +32,6 @@ This course has no prerequisites.
 *	[Learn MySQL in one video, *Derek Banas*](https://www.youtube.com/watch?v=yPu6qV5byu4)
 *	[DBMS Tutorial, *Knowedge Gate*](https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV)
 *	[DBMS Tutorial, *Gate Smashers*](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
-*	[Functional Dependency & Normalization, *Knowledge Gate*](https://www.youtube.com/playlist?list=PLeNFpOhruv2iM5EFv04SH4d84AO9WD2bA)
 
 ## Websites
 

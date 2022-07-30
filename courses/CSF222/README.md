@@ -35,10 +35,7 @@ This course is a prerequisite for:
 
 ## Videos
 
-*   [Set Theory, *Knowledge Gate*](https://www.youtube.com/playlist?list=PLmXKhU9FNesTSqP8hWDncxpCj8a4uzmu7)
 *   [Relations, Posets, etc., *Knowledge Gate*](https://www.youtube.com/playlist?list=PLmXKhU9FNesTpQNP_OpXN7WaPwGx7NWsq)
-*   [Relations Intro., *Knowledge Gate* ](https://www.youtube.com/playlist?list=PLmXKhU9FNesQSH0J7qjWJ1TFS49o-EVFC)
-*   [Graph Theory *Knowledge Gate*](https://www.youtube.com/playlist?list=PLmXKhU9FNesS7GpOddHDX3ZCl86_cwcIn)
 *   [Group Theory, *Knowledge Gate*](https://www.youtube.com/watch?v=7ifHq5J58cE&list=PLmXKhU9FNesQrSgLxm6zx3XxH_M_8n3LA)
 *   [Group Theory & Abstract Algebra, *Socratica*](https://www.youtube.com/watch?v=IP7nW_hKB7I&list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 *   [Discrete Math Full Course: Sets, Logic, Proofs, Probability, Graph Theory, etc, *Trefor Bazett*](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS) *(Full Course)*
