@@ -2,7 +2,7 @@
 
 ## Overview
 
-This course will cover basic properties of the `integers`, [`greatest common divisors`](https://en.wikipedia.org/wiki/Greatest_common_divisor), primes, congruences, [`Chinese remainder theorem`](https://en.wikipedia.org/wiki/Chinese_remainder_theorem), [`Fermat’s Little theorem`](https://en.wikipedia.org/wiki/Fermat%27s_little_theorem), `integer functions`, `primitive roots`, [`quadratic residues`](https://en.wikipedia.org/wiki/Quadratic_residue).
+This course will cover basic properties of the `integers`, [`greatest common divisors`](https://en.wikipedia.org/wiki/Greatest_common_divisor), `primes`, `congruences`, [`Chinese remainder theorem`](https://en.wikipedia.org/wiki/Chinese_remainder_theorem), [`Fermat’s Little theorem`](https://en.wikipedia.org/wiki/Fermat%27s_little_theorem), `integer functions`, `primitive roots`, [`quadratic residues`](https://en.wikipedia.org/wiki/Quadratic_residue).
 
 ## Navigation
 
