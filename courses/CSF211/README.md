@@ -11,6 +11,7 @@ DSA is really the bread and butter for good programming practices. Organizing co
 *   [Code](#code)
 *   [Videos](#videos)
 *   [Websites](#websites)
+*   [Communities](#communities)
 
 ## Prerequisites
 
@@ -72,3 +73,9 @@ This course is a prerequisite for:
 *   [VisuAlgo, *Dr Steven Halim*](https://visualgo.net/en)
 *   [Data Structure Visualizations, *David Galles*](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 *   [Algorithm Visualizer, *Jinseo Jason Park*](https://algorithm-visualizer.org/)
+
+## Communities
+
+*   [r/datastructures](https://www.reddit.com/r/datastructures/)
+*   [r/algorithms](https://www.reddit.com/r/algorithms/)
+*   [Data Structures and Algorithms, *CodeChef*](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)
