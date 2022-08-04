@@ -1,0 +1,9 @@
+site_name: ACMBPDC
+docs_dir: '.'
+theme:
+  name: material
+nav:
+    - Home: 'README.md'
+plugins:
+  - search
+  - same-dir
