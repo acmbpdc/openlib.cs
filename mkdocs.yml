@@ -1,7 +1,25 @@
 site_name: ACMBPDC
 docs_dir: '.'
 theme:
-  name: material
+  name: null
+  custom_dir: mkdocs-material/material
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Necessary for search to work properly
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon.png
+  icon:
+    logo: logo
 nav:
     - Home: 'README.md'
 plugins:
