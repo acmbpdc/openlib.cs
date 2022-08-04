@@ -2,7 +2,7 @@ site_name: ACMBPDC
 docs_dir: '.'
 theme:
   name: null
-  theme_dir: mkdocs-material/material
+  custom_dir: mkdocs-material/material
 
   # 404 page
   static_templates:
@@ -17,9 +17,6 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/favicon.png
-  icon:
-    logo: logo
 nav:
     - Home: 'README.md'
 plugins:
