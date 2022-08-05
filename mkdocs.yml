@@ -1,4 +1,4 @@
-site_name: ACMBPDC
+site_name: Openlib.cs
 docs_dir: '.'
 theme:
   name: null
@@ -17,7 +17,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/favicon.png
+  favicon: 'https://raw.githubusercontent.com/acmbpdc/.github/main/assets/logo.png'
   icon:
     logo: logo
 nav:
