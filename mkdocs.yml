@@ -1,5 +1,6 @@
 site_name: Openlib.cs
 docs_dir: '.'
+remote_branch: mkdocs-webpage
 theme:
   name: null
   custom_dir: mkdocs-material/material
@@ -9,8 +10,8 @@ theme:
     - 404.html
 
   # Necessary for search to work properly
-  include_search_page: true
-  search_index_only: false
+  include_search_page: false
+  search_index_only: true
 
   # Default values, taken from mkdocs_theme.yml
   language: en
@@ -23,6 +24,39 @@ theme:
   icon: assets/logo.png
 nav:
     - Home: 'README.md'
+    - Courses:
+        - 1st Year:
+            - Computer Programming: /courses/CSF111/README.md
+        - 2nd Year:
+            - Data Structures & Algorithms: /courses/CSF211/README.md
+            - Database Systems: /courses/CSF212/README.md
+            - Object Oriented Programming: /courses/CSF213/README.md
+            - Logic in Computer Science: /courses/CSF214/README.md
+            - Digital Design: /courses/CSF215/README.md
+            - Discrete Structures for Computer Science: /courses/CSF222/README.md
+            - Microprocessors & Interfacing: /courses/CSF241/README.md
+        - 3rd Year:
+            - Principles of Programming Languages: /courses/CSF301/README.md
+            - Computer Networks: /courses/CSF303/README.md
+            - Computer Architecture: /courses/CSF342/README.md
+            - Theory of Computation: /courses/CSF351/README.md
+            - Compiler Construction: /courses/CSF363/README.md
+            - Design & Analysis of Algorithms: /courses/CSF364/README.md
+            - Operating Systems: /courses/CSF372/README.md
+        - Electives:
+            - Computer Science:
+                - Information Retrieval: /courses/CSF469/README.md
+                - Cryptography: /courses/CSF463/README.md
+                - Number Theory: /courses/CSF231/README.md
+                - Service Oriented Computing: /courses/CSF466/README.md
+                - Quantum Computing: /courses/CSF386/README.md
+            - Data Science:
+                - Artificial Intelligence: /courses/CSF407/README.md
+                - Data Mining: /courses/CSF415/README.md
+                - Machine Learning: /courses/CSF464/README.md
+                - Foundations of Data Science: /courses/CSF320/README.md
+                - Deep Learning: /courses/CSF425/README.md
+                - Probability & Statistics: /courses/DATASCIW203/README.md
 plugins:
   - search
   - same-dir
