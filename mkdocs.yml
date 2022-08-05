@@ -17,13 +17,13 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: 'https://raw.githubusercontent.com/acmbpdc/.github/main/assets/logo.png'
+  favicon: assets/favicon.png
   icon:
     logo: logo
+  extra:
+    logo: 'assets/favicon.png'
 nav:
     - Home: 'README.md'
 plugins:
   - search
   - same-dir
-extra:
-  logo: 'https://raw.githubusercontent.com/acmbpdc/.github/main/assets/logo.png'
