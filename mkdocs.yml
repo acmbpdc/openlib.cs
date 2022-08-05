@@ -22,6 +22,10 @@ theme:
   logo: assets/logo.png
   favicon: assets/favicon.ico
   icon: assets/logo.png
+
+  features:
+    - toc.integrate
+    - navigation.top
 nav:
     - Home: 'README.md'
     - Courses:
