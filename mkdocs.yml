@@ -23,44 +23,61 @@ theme:
   favicon: assets/favicon.ico
   icon: assets/logo.png
 
+  palette:
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
   features:
-    - toc.integrate
+    - navigation.tabs
     - navigation.top
+    - navigation.sections
+    - navigation.instant
 nav:
     - Home: 'README.md'
-    - Courses:
-        - 1st Year:
-            - Computer Programming: /courses/CSF111/README.md
-        - 2nd Year:
-            - Data Structures & Algorithms: /courses/CSF211/README.md
-            - Database Systems: /courses/CSF212/README.md
-            - Object Oriented Programming: /courses/CSF213/README.md
-            - Logic in Computer Science: /courses/CSF214/README.md
-            - Digital Design: /courses/CSF215/README.md
-            - Discrete Structures for Computer Science: /courses/CSF222/README.md
-            - Microprocessors & Interfacing: /courses/CSF241/README.md
-        - 3rd Year:
-            - Principles of Programming Languages: /courses/CSF301/README.md
-            - Computer Networks: /courses/CSF303/README.md
-            - Computer Architecture: /courses/CSF342/README.md
-            - Theory of Computation: /courses/CSF351/README.md
-            - Compiler Construction: /courses/CSF363/README.md
-            - Design & Analysis of Algorithms: /courses/CSF364/README.md
-            - Operating Systems: /courses/CSF372/README.md
-        - Electives:
-            - Computer Science:
-                - Information Retrieval: /courses/CSF469/README.md
-                - Cryptography: /courses/CSF463/README.md
-                - Number Theory: /courses/CSF231/README.md
-                - Service Oriented Computing: /courses/CSF466/README.md
-                - Quantum Computing: /courses/CSF386/README.md
-            - Data Science:
-                - Artificial Intelligence: /courses/CSF407/README.md
-                - Data Mining: /courses/CSF415/README.md
-                - Machine Learning: /courses/CSF464/README.md
-                - Foundations of Data Science: /courses/CSF320/README.md
-                - Deep Learning: /courses/CSF425/README.md
-                - Probability & Statistics: /courses/DATASCIW203/README.md
+    - 1st Year:
+        - Computer Programming: './courses/CSF111/README.md'
+    - 2nd Year:
+        - Data Structures & Algorithms: './courses/CSF211/README.md'
+        - Database Systems: './courses/CSF212/README.md'
+        - Object Oriented Programming: './courses/CSF213/README.md'
+        - Logic in Computer Science: './courses/CSF214/README.md'
+        - Digital Design: './courses/CSF215/README.md'
+        - Discrete Structures for Computer Science: './courses/CSF222/README.md'
+        - Microprocessors & Interfacing: './courses/CSF241/README.md'
+    - 3rd Year:
+        - Principles of Programming Languages: './courses/CSF301/README.md'
+        - Computer Networks: './courses/CSF303/README.md'
+        - Computer Architecture: './courses/CSF342/README.md'
+        - Theory of Computation: './courses/CSF351/README.md'
+        - Compiler Construction: './courses/CSF363/README.md'
+        - Design & Analysis of Algorithms: './courses/CSF364/README.md'
+        - Operating Systems: './courses/CSF372/README.md'
+    - Electives:
+        - Computer Science:
+            - Information Retrieval: './courses/CSF469/README.md'
+            - Cryptography: './courses/CSF463/README.md'
+            - Number Theory: './courses/CSF231/README.md'
+            - Service Oriented Computing: './courses/CSF466/README.md'
+            - Quantum Computing: './courses/CSF386/README.md'
+        - Data Science:
+            - Artificial Intelligence: './courses/CSF407/README.md'
+            - Data Mining: './courses/CSF415/README.md'
+            - Machine Learning: './courses/CSF464/README.md'
+            - Foundations of Data Science: './courses/CSF320/README.md'
+            - Deep Learning: './courses/CSF425/README.md'
+            - Probability & Statistics: './courses/DATASCIW203/README.md'
 plugins:
   - search
   - same-dir
