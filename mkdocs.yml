@@ -19,9 +19,11 @@ theme:
     code: Roboto Mono
   favicon: 'https://raw.githubusercontent.com/acmbpdc/.github/main/assets/logo.png'
   icon:
-    logo: 'https://raw.githubusercontent.com/acmbpdc/.github/main/assets/logo.png'
+    logo: logo
 nav:
     - Home: 'README.md'
 plugins:
   - search
   - same-dir
+extra:
+  logo: 'https://raw.githubusercontent.com/acmbpdc/.github/main/assets/logo.png'
