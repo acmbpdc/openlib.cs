@@ -9,19 +9,18 @@ theme:
     - 404.html
 
   # Necessary for search to work properly
-  include_search_page: false
-  search_index_only: true
+  include_search_page: true
+  search_index_only: false
 
   # Default values, taken from mkdocs_theme.yml
   language: en
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/favicon.png
-  icon:
-    logo: logo
-  extra:
-    logo: 'assets/favicon.png'
+
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+  icon: assets/logo.png
 nav:
     - Home: 'README.md'
 plugins:
