@@ -45,6 +45,6 @@ The process described here has several goals:
 - Fix dead links that aren't useful to students anymore.
 - Engage the community in building towards the repo that would truly benefit everyone.
 
-To add a new course, please use the [template](Assets/TEMPLATE.md) provided.
+To add a new course, please use the [template](assets/TEMPLATE.md) provided.
 
 If you are not sure how to submit a pull request, [learn how to](https://help.github.com/articles/using-pull-requests/), while the prerequisites above must be satisfied prior to having your pull request reviewed, the reviewer(s) may ask you for additional changes before your pull request can be ultimately accepted.
