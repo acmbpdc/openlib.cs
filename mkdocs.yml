@@ -2,22 +2,7 @@ site_name: Openlib.cs
 docs_dir: '.'
 remote_branch: mkdocs-webpage
 theme:
-  name: null
-  custom_dir: mkdocs-material/material
-
-  # 404 page
-  static_templates:
-    - 404.html
-
-  # Necessary for search to work properly
-  include_search_page: false
-  search_index_only: true
-
-  # Default values, taken from mkdocs_theme.yml
-  language: en
-  font:
-    text: Roboto
-    code: Roboto Mono
+  name: material
 
   logo: assets/logo.png
   favicon: assets/favicon.ico
