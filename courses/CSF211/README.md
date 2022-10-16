@@ -80,4 +80,4 @@ This course is a prerequisite for:
 *   [r/datastructures](https://www.reddit.com/r/datastructures/)
 *   [r/algorithms](https://www.reddit.com/r/algorithms/)
 *   [Data Structures and Algorithms, *CodeChef*](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)
-*   [TheAlgorithms](https://the-algorithms.com/)
+*   [TheAlgorithms - Discord](https://discord.com/invite/c7MnfGFGa6)
