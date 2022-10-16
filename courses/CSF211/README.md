@@ -44,6 +44,7 @@ This course is a prerequisite for:
 
 *   [Algorithms & data structures project, *William Fiset*](https://github.com/williamfiset/Algorithms)
 *   [WhatsAlgo, *Mohammed Shoaib*](https://github.com/Mohammed-Shoaib/WhatsAlgo)
+*   [TheAlgorithms, *Open Source resource for learning Data Structures & Algorithms*](https://github.com/TheAlgorithms)
 
 ## Videos
 
@@ -79,3 +80,4 @@ This course is a prerequisite for:
 *   [r/datastructures](https://www.reddit.com/r/datastructures/)
 *   [r/algorithms](https://www.reddit.com/r/algorithms/)
 *   [Data Structures and Algorithms, *CodeChef*](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)
+*   [TheAlgorithms - Discord](https://discord.com/invite/c7MnfGFGa6)
