@@ -58,7 +58,7 @@ OpenLib.cs is a collaborative project to make textbooks, references, solution ma
     *   **Articles** - Cheat-sheets, tutorials, blog-posts etc.
     *   **Communities** - Online forums related to the course concepts
     *   **Apps** - Mobile apps that may enrich the learning experience
-*   There are also [scripts](./scripts) that provide certain useful features (WIP)
+*   There are also [scripts](https://github.com/Fir121/openlib.cs/tree/main/scripts) that provide certain useful features (WIP)
 
 ## Guidelines
 
