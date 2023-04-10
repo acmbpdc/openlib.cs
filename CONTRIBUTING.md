@@ -2,7 +2,7 @@
 
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
-The following is a set of guidelines for contributing to [OpenLib.cs](https://github.com/bpdc-acm/OpenLib.cs), which are hosted in the [BPDC ACM Organization](https://github.com/bpdc-acm) on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+The following is a set of guidelines for contributing to [OpenLib.cs](https://github.com/acmbpdc/openlib.cs), which are hosted in the [BPDC ACM Organization](https://github.com/acmbpdc) on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 Please note that this repository is a **curated** list which means it's not a complete catalogue of everything.
 
