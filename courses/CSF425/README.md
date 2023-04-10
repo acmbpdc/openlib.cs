@@ -34,4 +34,4 @@ This course has no prerequisites.
 * [New York University, *Alfredo Canziani*](https://www.youtube.com/playlist?list=PL80I41oVxglKcAHllsU0txr3OuTTaWX2v)
 * [Deep Learning AI, *Andrew Ng*](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
 * [StatQuest with *Josh Starmer*](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
-* [Coding Lane DL Concepts](https://www.youtube.com/@CodingLane/playlists)
+* [Coding Lane DL Concepts, *Jay Patel*](https://www.youtube.com/@CodingLane/playlists)
