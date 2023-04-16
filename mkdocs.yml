@@ -66,3 +66,6 @@ nav:
 plugins:
   - search
   - same-dir
+
+extra_css:
+  - stylesheets/extra.css
