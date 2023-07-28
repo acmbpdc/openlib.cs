@@ -35,4 +35,6 @@ This course has no prerequisites.
 
 * [AI Tutorial, *javatpoint*](https://www.javatpoint.com/artificial-intelligence-tutorial)
 * [AI Course, *University of Texas*](https://www.cs.utexas.edu/~mooney/cs343/)
+* [AI Course, *University of California*](https://inst.eecs.berkeley.edu/~cs188/fa22/)
+* [Introduction to ML and DL, *Medium*](https://medium.com/intuitive-deep-learning/introduction/home)
 
