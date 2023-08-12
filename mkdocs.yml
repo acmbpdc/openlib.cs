@@ -1,5 +1,10 @@
 site_name: Openlib.cs
 docs_dir: '.'
+site_author: ACM BPDC
+site_description: A Collection of Free & Open Resources for University Coursework in Computer Science. 
+site_url: https://openlib-cs.acmbpdc.org
+repo_url: https://github.com/acmbpdc/openlib.cs
+repo_name: acmbpdc/openlib.cs
 remote_branch: mkdocs-webpage
 theme:
   name: material
