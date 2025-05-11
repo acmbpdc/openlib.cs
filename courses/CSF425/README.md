@@ -11,6 +11,8 @@ solutions for basic vision tasks such as [`image classification`](https://www.te
 models for such tasks. Students will learn to implement, train and debug their own neural networks. This is a project oriented practical course in which every student 
 has to develop a complete working model to solve some real-world problem.
 
+📄 [Course Handout](https://drive.google.com/file/d/17m5c7_kq8a79cHsQF07C52nGpkzCxpUT/view?usp=drive_link)
+
 ## Navigation
 
 *   [Prerequisites](#prerequisites)

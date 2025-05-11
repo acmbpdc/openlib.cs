@@ -4,6 +4,8 @@
 
 AI introduces students to basic concepts and methods of Artificial Intelligence from a computer science perspective. AI concerns itself with a certain set of problems and develops a particular body of techniques for approaching these problems. This course will empower the students to know how to program computers, using classical symbolic methods, to behave in ways normally attributed to "Intelligence" when observed in humans. Main topics discussed in the course include : [`Search Techniques`](https://en.wikiversity.org/wiki/Search_techniques), [`Game Playing`](https://cs.anu.edu.au/courses/comp1110/lectures/pdf/Z01.pdf), [`Knowledge Representation`](https://www.javatpoint.com/knowledge-representation-in-ai), [`Reasoning`](https://www.javatpoint.com/reasoning-in-artificial-intelligence), [`Uncertainty`](https://www.javatpoint.com/probabilistic-reasoning-in-artifical-intelligence), [`Planning`](https://en.wikipedia.org/wiki/Automated_planning_and_scheduling), [`Machine Learning`](https://en.wikipedia.org/wiki/Machine_learning) & [`Natural Language Processing`](https://en.wikipedia.org/wiki/Natural_language_processing).
 
+📄 [Course Handout](https://drive.google.com/file/d/1-cqejKYtJzyHe5jmdRzl_ZocV4X7wWqY/view?usp=drive_link)
+
 ## Navigation
 
 *   [Prerequisites](#prerequisites)

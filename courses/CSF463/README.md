@@ -4,6 +4,8 @@
 
 Topics include Ancient ciphers, modern stream and block ciphers, `DES`, `AES`, `Public Key Encryption` & `Key Management`. The course also covers related mathematics in [`number theory`](https://brilliant.org/wiki/number-theory/) and [`group theory`](https://brilliant.org/wiki/group-theory-introduction/).
 
+📄 [Course Handout](https://drive.google.com/file/d/1LyYBbb8-HcKSkxGgyZGyzowbNzLNU6h1/view?usp=drive_link)
+
 ## Navigation
 
 *   [Prerequisites](#prerequisites)

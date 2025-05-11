@@ -4,6 +4,8 @@
 
 The course explores the concepts and techniques of Data Mining, a promising and flourishing frontier in database systems. Data Mining is automated extraction of patterns representing knowledge implicitly stored in large databases, data warehouses, and other massive information repositories. The course covers data mining tasks like constructing [`Decision trees`](https://en.wikipedia.org/wiki/Decision_tree), finding [`Association rules`](https://en.wikipedia.org/wiki/Association_rule_learning), [`Classification`](https://en.wikipedia.org/wiki/Statistical_classification) and [`Clustering`](https://en.wikipedia.org/wiki/Cluster_analysis). The course is designed to provide students with a broad understanding in the design and use of data mining algorithms. The course also aims at providing a holistic view of data mining.
 
+📄 [Course Handout](https://drive.google.com/file/d/1iDmCuwe9BvNfG_DXJUCkjd9tXj1vbLvA/view?usp=drive_link)
+
 ## Navigation
 
 *   [Prerequisites](#prerequisites)
