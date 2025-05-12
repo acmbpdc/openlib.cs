@@ -3,6 +3,7 @@
 ## Overview
 The course introduces the key algorithms and theory that forms the core of machine learning. It covers Major Approaches such as [supervised](https://en.wikipedia.org/wiki/Supervised_learning), [unsupervised](https://en.wikipedia.org/wiki/Unsupervised_learning), [semi-supervised](https://en.wikipedia.org/wiki/Semi-supervised_learning), and [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning). Topics covered include regression, decision trees, suport vector machines, artificial neural networks, Bayesian techniques, Hidden Markov, etc.
 
+📄 [Course Handout](https://drive.google.com/file/d/1sxGSP_kGzFAr-ATYe-0Av_SNttRWETiE/view?usp=drive_link)
 
 ## Navigation
 

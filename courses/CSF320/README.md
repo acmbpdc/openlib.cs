@@ -3,6 +3,7 @@
 ## Overview
 Data Science is the study of the generalizable extraction of knowledge from data. Unprecedented advances in digital technology during the second half of the 20th century and the data explosion that ensued in the 21st century is transforming the way we do science, social science, and engineering. Application of data science cut across all verticals. The whole idea of this course is to introduce the students with the sole foundations/mathematics of data science. The course will cover topics such as [`Probability Distributions`](https://en.wikipedia.org/wiki/Probability_distribution), [`Mathematical Optimization`](https://en.wikipedia.org/wiki/Mathematical_optimization), [`Big Data`](https://en.wikipedia.org/wiki/Big_data), [`Machine Learning`](https://en.wikipedia.org/wiki/Machine_learning), etc.  
 
+📄 [Course Handout](https://drive.google.com/file/d/1v5zFeoNV1AwrCe29tXkfyg5Kf-YyUX-l/view?usp=sharing)
 
 ## Navigation
 
