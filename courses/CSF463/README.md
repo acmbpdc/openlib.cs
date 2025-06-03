@@ -25,7 +25,7 @@ Topics include Ancient ciphers, modern stream and block ciphers, `DES`, `AES`, `
 | [Cryptography & Network Security](https://drive.google.com/open?id=1Vf73PJP7QrXejTgdqTDJ5T1eGiE3zibY) | Behrooz Forouzan | 1st (2007) |
 | [Applied Cryptography: Protocols, Algorithms & Source Code in C](https://drive.google.com/open?id=1cNJUrNE6Yd2U88cf6ZLejVuoEbauiro6) | Bruce Schneier | 2nd (1995) |
 | [Handbook of Applied Cryptography](https://drive.google.com/open?id=15sEFFA096DarPbYHtqzk1RcczjQd2al9) | Menezes, Oorschot & Vanstone | 1st (1996) |
-| [Cryptography and Network Security: Principles & Practice](https://drive.google.com/open?id=1yZDX1LFKibzMQ5xuzhVrNQkFDJaEyUrk)| William Stallings | 7th (2017) |
+| [Cryptography and Network Security: Principles & Practice](https://drive.google.com/file/d/1r4InBm329Nlbd4nRGgiCBdHSpvcibbxV/view?usp=drive_link)| William Stallings | 7th (2017) |
 | [Cryptography: Theory & Practice](https://drive.google.com/open?id=1MRonL21yNr_oHe3px0ZJyHEtW7Clg8ge)| Rosen & Stinson  | 3rd (2006) |
 | [IT Security: Computer Networks Top Down Approach](https://drive.google.com/open?id=1zrokwRuL0QJFpEImzlI4EoDP-cdYSI9k)| Kurose & Ross | 6th (2012) |
 | [Network Security Overview](https://drive.google.com/open?id=1nqJ0-KzcggBg_huWSgSjfm5WNByJwwt5)| Kurose & Ross | - |

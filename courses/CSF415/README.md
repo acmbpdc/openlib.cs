@@ -19,7 +19,7 @@ This course has no prerequisites.
 | Title | Author(s) | Edition |
 | -------------|-------------|:-----:|
 | [Introduction to Data Mining](https://drive.google.com/file/d/1Hho4tVYjg47Tzvo82P-0djWXFiUB9uxP/view?usp=sharing) | Tan P. N., Steinbach M & Kumar V. | (2016)
-| [Introduction to Data Mining : Instructor’s Solution Manual](https://drive.google.com/file/d/17gCU7XK6UKLxNxAQZmDAmVluFCBmsbEI/view?usp=sharing) | Tan P. N., Steinbach M & Kumar V. | (2016)
+| [Introduction to Data Mining : Instructor’s Solution Manual](https://drive.google.com/file/d/1iBP5BsW0l2aut6gaC6h270dZ0q_mkqk_/view?usp=drive_link) | Tan P. N., Steinbach M & Kumar V. | (2016)
 
 ## Videos
 

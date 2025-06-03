@@ -25,8 +25,8 @@ This course has no prerequisites.
 
 | Title | Author(s) | Edition |
 | -------------|-------------|:-----:|
-| [Deep Learning](https://drive.google.com/file/d/16TZvJ4azjEiFEWNayWp439oDwAmmLVsQ/view?usp=sharing) | Ian Goodfellow, Yoshua Bengio & Aaron Courville | (2016)
-| [Dive into Deep Learning](https://drive.google.com/file/d/14zzTt0U2s6KmQ2LWN25beuK-OhQ2Y_AA/view?usp=sharing) | Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola | (2020)
+| [Deep Learning](https://drive.google.com/file/d/1z5FMh4ZFTWdXZjQMHpBSbRO248RjmC5l/view?usp=drive_link) | Ian Goodfellow, Yoshua Bengio & Aaron Courville | (2016)
+| [Dive into Deep Learning](https://drive.google.com/file/d/1vw6HAeuIhCns3lP04l9qT4oVA3PGqBvu/view?usp=sharing) | Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola | (2020)
 
 ## Videos
 
